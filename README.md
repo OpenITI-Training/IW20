@@ -1,1 +1,1 @@
-This repository contains a folder structure for exercises on the file system.
+This repository contains a folder structure for exercises for the course The Islamicat World 2.0.

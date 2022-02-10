@@ -7,7 +7,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0430IbnHaytham.Manazir.ALCorpus00006-ara2	430	5	Ibn Haytham	Manazir	136067	FALSE
 0428IbnSina.KawnWaFasad.ALCorpus00007-ara1	428	5	Ibn Sina	Kawn Wa Fasad	24324	FALSE
 0256IbnIshaqKindi.FiCaql.ALCorpus00008-ara1	256	3	Ibn Ishaq Kindi	Fi Caql	644	FALSE
-0600NurDinBitruji.FiHaya.ALCorpus00009-ara1	600	6	Nur Din Bitruji	Fi Haya	28840	FALSE
+0600NurDinBitruji.FiHaya.ALCorpus00009-ara1	600	7	Nur Din Bitruji	Fi Haya	28840	FALSE
 0256IbnIshaqKindi.NawmWaRuya.ALCorpus00010-ara1	256	3	Ibn Ishaq Kindi	Nawm Wa Ruya	2431	FALSE
 0339AbuNasrFarabi.CuyunMasail.ALCorpus00011-ara1	339	4	Abu Nasr Farabi	Cuyun Masail	650	FALSE
 0428IbnSina.Ilahiyyat.ALCorpus00013-ara1	428	5	Ibn Sina	Ilahiyyat	90907	FALSE
@@ -76,21 +76,21 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0339AbuNasrFarabi.QawaninShicr.GRAR000037-ara1	339	4	Abu Nasr Farabi	Risālaŧ fī qawānīn al-šiʿr :: Maqālaŧ fī qawānīn ṣināʿaŧ al-šuʿarāʾ li-al-muʿallim¶    al-ṯānī	1739	FALSE
 0259HunaynIbnIshaq.SinacaSaghiraLiJalinus.GRAR000038-ara1	259	3	Hunayn Ibn Ishaq :: Ḥunayn b. Isḥāq ::   Ḥunayn b. Isḥāq al-ʿIbādī	al-Ṣināʿaŧ al-ṣaġīraŧ li-Jālīnūs ::	18490	FALSE
 0298IshaqIbnHunayn.MaqalatJalinusFiAjzaTibb.GRAR000039-ara1	298	3	Ishaq Ibn Hunayn :: Isḥāq b. Ḥunayn ::   Isḥāq b. Ḥunayn b. Isḥāq	Maqālaŧ Jālīnūs fī ajzāʾ al-ṭibb ::	4298	FALSE
-0300CisaIbnYahya.JalinusFiIkhtilafAcda.GRAR000040-ara1	300	3	Cisa Ibn Yahya :: ʿĪsá b. Yaḥyá ::   ʿĪsá b. Yaḥyá b. Ibrāhīm	Kitāb Jālīnūs fī iḫtilāf al-aʿḍāʾ al-mutašābahaŧ al-¶    ajzāʾ ::	3805	FALSE
+0300CisaIbnYahya.JalinusFiIkhtilafAcda.GRAR000040-ara1	300	4	Cisa Ibn Yahya :: ʿĪsá b. Yaḥyá ::   ʿĪsá b. Yaḥyá b. Ibrāhīm	Kitāb Jālīnūs fī iḫtilāf al-aʿḍāʾ al-mutašābahaŧ al-¶    ajzāʾ ::	3805	FALSE
 0259HunaynIbnIshaq.JalinusFiUstuqussat.GRAR000041-ara1	259	3	Hunayn Ibn Ishaq :: Ḥunayn b. Isḥāq ::   Ḥunayn b. Isḥāq al-ʿIbādī	Kitāb Jālīnūs fī usṭuqussāt ʿalá raʾy Abūqrāṭ ::	15482	FALSE
 0259HunaynIbnIshaq.JalinusFiNabd.GRAR000042-ara1	259	3	Hunayn Ibn Ishaq :: Ḥunayn b. Isḥāq ::   Ḥunayn b. Isḥāq al-ʿIbādī	Kitāb Jālīnūs fī al-nabḍ ::	6954	FALSE
 0259HunaynIbnIshaq.JalinusFiTabibFaylusuf.GRAR000043-ara1	259	3	Hunayn Ibn Ishaq :: Ḥunayn b. Isḥāq ::   Ḥunayn b. Isḥāq al-ʿIbādī	Maqālaŧ Jālīnūs fī annahu yajibu an yakūna al-ṭabīb¶    al-fāḍil faylusūfan ::	1653	FALSE
-0300HubayshIbnHasan.JalinusFiQuwaNafs.GRAR000044-ara1	300	3	Hubaysh Ibn Hasan :: Ḥubayš b. al-Ḥasan ::  Abū al-Ḫayr Ḥubayš b. al-Ḥasan b. al-Aʿsam al-Dimašqī	Kitāb Jālīnūs fī anna quwá al-nafs tābiʿaŧ li-mizāj¶    al-badan ::	8582	FALSE
-0300HubayshIbnHasan.JalinusFiCamalTashrih.GRAR000046-ara1	300	3	Hubaysh Ibn Hasan :: Ḥubayš b. al-Ḥasan ::  Abū al-Ḫayr Ḥubayš b. al-Ḥasan b. al-Aʿsam al-Dimašqī	Kitāb Jālīnūs fī ʿamal al-tašrīḥ ::	72262	FALSE
+0300HubayshIbnHasan.JalinusFiQuwaNafs.GRAR000044-ara1	300	4	Hubaysh Ibn Hasan :: Ḥubayš b. al-Ḥasan ::  Abū al-Ḫayr Ḥubayš b. al-Ḥasan b. al-Aʿsam al-Dimašqī	Kitāb Jālīnūs fī anna quwá al-nafs tābiʿaŧ li-mizāj¶    al-badan ::	8582	FALSE
+0300HubayshIbnHasan.JalinusFiCamalTashrih.GRAR000046-ara1	300	4	Hubaysh Ibn Hasan :: Ḥubayš b. al-Ḥasan ::  Abū al-Ḫayr Ḥubayš b. al-Ḥasan b. al-Aʿsam al-Dimašqī	Kitāb Jālīnūs fī ʿamal al-tašrīḥ ::	72262	FALSE
 0259HunaynIbnIshaq.JalinusFiAsbabMasika.GRAR000047-ara1	259	3	Hunayn Ibn Ishaq :: Ḥunayn b. Isḥāq ::   Ḥunayn b. Isḥāq al-ʿIbādī	Kitāb Jālīnūs fī al-asbāb al-mākisaŧ ::	3560	FALSE
-0300HubayshIbnHasan.JalinusFiAsmaTibbiyya.GRAR000048-ara1	300	3	Hubaysh Ibn Hasan :: Ḥubayš b. al-Ḥasan ::  Abū al-Ḫayr Ḥubayš b. al-Ḥasan b. al-Aʿsam al-Dimašqī	Kitāb Jālīnūs fī al-asmāʾ al-ṭibbiyyaŧ ::	11605	FALSE
-0300HubayshIbnHasan.JalinusFiMudawatKasr.GRAR000049-ara1	300	3	Hubaysh Ibn Hasan :: Ḥubayš b. al-Ḥasan ::  Abū al-Ḫayr Ḥubayš b. al-Ḥasan b. al-Aʿsam al-Dimašqī	al-ʿĀdil al-muftariḍ fī mudāwāŧ al-kasr ::	15670	FALSE
-0200YahyaIbnBitriq.FusulAbuqrat.GRAR000050-ara1	200	2	Yahya Ibn Bitriq :: Yaḥyá b. al-Biṭrīq ::   Yaḥyá b. al-Biṭrīq	Kitāb al-Fuṣūl li-Abuqrāṭ al-latī tusammá al-taʿlīmāt ::	1748	FALSE
-0300HubayshIbnHasan.CahdAbuqrat.GRAR000051-ara1	300	3	Hubaysh Ibn Hasan :: Ḥubayš b. al-Ḥasan ::  Abū al-Ḫayr Ḥubayš b. al-Ḥasan b. al-Aʿsam al-Dimašqī	ʿAhd Abuqrāṭ ::	266	FALSE
+0300HubayshIbnHasan.JalinusFiAsmaTibbiyya.GRAR000048-ara1	300	4	Hubaysh Ibn Hasan :: Ḥubayš b. al-Ḥasan ::  Abū al-Ḫayr Ḥubayš b. al-Ḥasan b. al-Aʿsam al-Dimašqī	Kitāb Jālīnūs fī al-asmāʾ al-ṭibbiyyaŧ ::	11605	FALSE
+0300HubayshIbnHasan.JalinusFiMudawatKasr.GRAR000049-ara1	300	4	Hubaysh Ibn Hasan :: Ḥubayš b. al-Ḥasan ::  Abū al-Ḫayr Ḥubayš b. al-Ḥasan b. al-Aʿsam al-Dimašqī	al-ʿĀdil al-muftariḍ fī mudāwāŧ al-kasr ::	15670	FALSE
+0200YahyaIbnBitriq.FusulAbuqrat.GRAR000050-ara1	200	3	Yahya Ibn Bitriq :: Yaḥyá b. al-Biṭrīq ::   Yaḥyá b. al-Biṭrīq	Kitāb al-Fuṣūl li-Abuqrāṭ al-latī tusammá al-taʿlīmāt ::	1748	FALSE
+0300HubayshIbnHasan.CahdAbuqrat.GRAR000051-ara1	300	4	Hubaysh Ibn Hasan :: Ḥubayš b. al-Ḥasan ::  Abū al-Ḫayr Ḥubayš b. al-Ḥasan b. al-Aʿsam al-Dimašqī	ʿAhd Abuqrāṭ ::	266	FALSE
 0259HunaynIbnIshaq.FusulAbuqrat.GRAR000052-ara1	259	3	Hunayn Ibn Ishaq :: Ḥunayn b. Isḥāq ::   Ḥunayn b. Isḥāq al-ʿIbādī	Kitāb al-Fuṣūl li-Abuqrāṭ ::	8564	FALSE
 0259HunaynIbnIshaq.TaqdimatMacrifaLiAbuqrat.GRAR000053-ara1	259	3	Hunayn Ibn Ishaq :: Ḥunayn b. Isḥāq ::   Ḥunayn b. Isḥāq al-ʿIbādī	Kitāb Taqdimaŧ al-maʿrifaŧ li-Abuqrāṭ ::	5444	FALSE
 0259HunaynIbnIshaq.RisalaFiMaTurjima.GRAR000054-ara1	259	3	Hunayn Ibn Ishaq :: Ḥunayn b. Isḥāq ::   Ḥunayn b. Isḥāq al-ʿIbādī	Risālaŧ Ḥunayn ibn Isḥāq ilā ʿAlī b. Yaḥyā fī ḏikr mā¶    turjima min kutub Jālīnūs bi-ʿilmihi wa-baʿḍ mā lam yutarjam ::	11367	FALSE
-0300QustaIbnLuqa.IbsiqlausFiMatalic.GRAR000055-ara1	300	3	Qusta Ibn Luqa :: Qusṭā b. Lūqā ::   Qusṭā b. Lūqā al-Baʿlabakkī	Kitāb Fulūṭārḫus fī al-arāʾ al-ṭabīʿiyyaŧ al-latī¶    taqūl bihā al-ḥukamāʾ ::	1966	FALSE
+0300QustaIbnLuqa.IbsiqlausFiMatalic.GRAR000055-ara1	300	4	Qusta Ibn Luqa :: Qusṭā b. Lūqā ::   Qusṭā b. Lūqā al-Baʿlabakkī	Kitāb Fulūṭārḫus fī al-arāʾ al-ṭabīʿiyyaŧ al-latī¶    taqūl bihā al-ḥukamāʾ ::	1966	FALSE
 0310AbuCabbasNayrizi.SharhUsulLiUqlidis.GRAR000056-ara1	310	4	Abu Cabbas Nayrizi :: Abū al-ʿAbbās al-Nayrīzī ::  Abū al-ʿAbbās al-Faḍl b. Ḥātim al-Nayrīzī	Šarḥ Kitāb al-uṣūl li-Ūqlīdis ::	21070	FALSE
 0298IshaqIbnHunayn.TafsirNiqulawusFiNabat.GRAR000059-ara1	298	3	Ishaq Ibn Hunayn :: Isḥāq b. Ḥunayn ::   Isḥāq b. Ḥunayn b. Isḥāq	Kitāb Arisṭūṭālīs fī al-nabāt tafsīr Nīqūlāwus ::	8530	FALSE
 0288ThabitIbnQurra.MadkhalLiNiqumakhus.GRAR000060-ara1	288	3	Thabit Ibn Qurra :: Ṯābit ibn Qurraŧ ::   Ṯābit b. Qurraŧ	Kitāb Madḫal ilá ʿilm al-ʿadad al-laḏī waḍaʿahu¶    Nīqūmāḫus al-Jārāsīnī min šīʿaŧ Fīṯāġūras ::	29295	FALSE
@@ -98,33 +98,33 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0305AbuCuthmanDimashqi.MadkhalFurfuriyus.GRAR000062-ara1	305	4	Abu Cuthman Dimashqi :: Abū ʿUṯmān al-Dimašqī ::  Abū ʿUṯmān Saʿīd b. Yaʿqūb al-Dimašqī	Madḫal Furfuriyūs al-Ṣūrī tilmīḏ Aflūṭīn ::	5248	FALSE
 0298IshaqIbnHunayn.BuruqlisFiQidamCalam.GRAR000064-ara1	298	3	Ishaq Ibn Hunayn :: Isḥāq b. Ḥunayn ::   Isḥāq b. Ḥunayn b. Isḥāq	Hujaj Buruqlis fī qidam al-ʿālam ::	2561	FALSE
 0298IshaqIbnHunayn.MasailFuruqlis.GRAR000065-ara1	298	3	Ishaq Ibn Hunayn :: Isḥāq b. Ḥunayn ::   Isḥāq b. Ḥunayn b. Isḥāq	Masāʾil Furuqlīs fī al-ašyāʾ al-ṭabīʿiyyaŧ ::	1584	FALSE
-0200YahyaIbnBitriq.Thulujiya.GRAR000066-ara1	200	2	Yahya Ibn Bitriq :: Yaḥyá b. al-Biṭrīq ::   Yaḥyá b. al-Biṭrīq	Mā istaḫrajahu al-Iskandar al-Afrūdīsī min Kitāb¶    Arisṭūṭālīs¶    al-musammá Ṯūlūjiyā wa-maʿnāhu al-kalām fī al-rubūbiyyaŧ :: Qawl istaḫrajahu al-Iskandar min Kitāb Ṯālūjiyā ayy¶    al-rubūbiyyaŧ	4638	FALSE
+0200YahyaIbnBitriq.Thulujiya.GRAR000066-ara1	200	3	Yahya Ibn Bitriq :: Yaḥyá b. al-Biṭrīq ::   Yaḥyá b. al-Biṭrīq	Mā istaḫrajahu al-Iskandar al-Afrūdīsī min Kitāb¶    Arisṭūṭālīs¶    al-musammá Ṯūlūjiyā wa-maʿnāhu al-kalām fī al-rubūbiyyaŧ :: Qawl istaḫrajahu al-Iskandar min Kitāb Ṯālūjiyā ayy¶    al-rubūbiyyaŧ	4638	FALSE
 0225MuallifMajhul.IdahLiAristutalisFiKhayrMahd.GRAR000067-ara1	225	3	Muallif Majhul :: (muʾallif majhūl) ::	Īḍāḥ li-Arisṭūṭālīs fī al-ḫayr al-maḥḍ ::	5795	FALSE
 0350Anonymous.AristutalisFiRuya.GRAR000068-ara1	350	4	Anonymous	Maqālaŧ min kalām al-muʿallim al-awwal Arisṭūṭālīs fī¶    al-ruʾyā ::	347	FALSE
 0298IshaqIbnHunayn.WasiyyatAristalis.GRAR000069-ara1	298	3	Ishaq Ibn Hunayn :: Isḥāq b. Ḥunayn ::   Isḥāq b. Ḥunayn b. Isḥāq	Waṣiyyaŧ Arisṭālīs ::	402	FALSE
 0259HunaynIbnIshaq.JalinusFiTadbirAmradHadda.GRAR000070-ara1	259	3	Hunayn Ibn Ishaq :: Ḥunayn b. Isḥāq ::   Ḥunayn b. Isḥāq al-ʿIbādī	Kitāb Jālīnūs fī tadbīr al-amrāḍ al-ḥādda ʿalá raʾy¶    Buqrāṭ ::	5049	FALSE
-0300AnonTranslator.MucadhalatNafsLiAflatun.GRAR000071-ara1	300	3	Anon Translator :: (mutarjim majhūl) ::	Kitāb Muʿādalaŧ al-nafs li-Aflāṭūn ::	11275	FALSE
+0300AnonTranslator.MucadhalatNafsLiAflatun.GRAR000071-ara1	300	4	Anon Translator :: (mutarjim majhūl) ::	Kitāb Muʿādalaŧ al-nafs li-Aflāṭūn ::	11275	FALSE
 0275IstifanIbnBasil.AqwalMinandar.GRAR000072-ara1	275	3	Istifan Ibn Basil :: Iṣṭifan ibn Basīl ::   Iṣṭifan b. Basīl	[Aqwāl Mīnāndar] ::	2257	FALSE
-0400AnonTranslator.GhrighuriyusFiFadila.GRAR000073-ara1	400	4	Anon Translator :: (mutarjim majhūl) ::	Min qawl al-qiddīs Ġrīġūriyus al-Ṯālūġus usquf¶    Nāziyanzū fī al-faḍīlaŧ ʿalá ḥurūf alfā fīṭā ilā kamālihā, aʿnī¶    asmāʾ¶    ḥurūf al-Yūnāniyyīn ::	626	FALSE
+0400AnonTranslator.GhrighuriyusFiFadila.GRAR000073-ara1	400	5	Anon Translator :: (mutarjim majhūl) ::	Min qawl al-qiddīs Ġrīġūriyus al-Ṯālūġus usquf¶    Nāziyanzū fī al-faḍīlaŧ ʿalá ḥurūf alfā fīṭā ilā kamālihā, aʿnī¶    asmāʾ¶    ḥurūf al-Yūnāniyyīn ::	626	FALSE
 0450AnonymousTranslator.ArbacWaCishrunKalimaLiGhrighuriyus.GRAR000074-ara1	450	5	Anonymous Translator	al-Arbaʿ wa-al-ʿišrūn kalimaŧ li-al-qiddīs Ġrīġūriyus¶    Nīṣaṣ aḫī mārī Bāsīliyūs al-kabīr naẓmuhu ʿalá ʿadad ḥurūf alfā bīṭā¶    bi-¶    al-Yūnāniyyaŧ :: Ġrīġūriyus al-mutakallim ʿalá al-lāhūt	152	FALSE
 0288ThabitIbnQurra.RawabicLiAflatun.GRAR000075-ara1	288	3	Thabit Ibn Qurra :: Ṯābit ibn Qurraŧ ::   Ṯābit b. Qurraŧ	Kitāb al-Rawābīʿ li-Aflāṭūn ::	30233	FALSE
-0300QustaIbnLuqa.FulutarkhusFiAraTabiciyya.GRAR000077-ara1	300	3	Qusta Ibn Luqa :: Qusṭā b. Lūqā ::   Qusṭā b. Lūqā al-Baʿlabakkī	Kitāb Fulūṭārḫus fī al-arāʾ al-ṭabīʿiyyaŧ al-latī¶    taqūl bihā al-ḥukamāʾ ::	18472	FALSE
-0300IshaqRuhawi.AdabTabib.GRAR000078-ara1	300	3	Ishaq Ruhawi :: Isḥāq b. ʿAlī al-Ruhāwī ::   Isḥāq b. ʿAlī al-Ruhāwī	Kitāb Adab al-Ṭabīb ::	52673	FALSE
-0300CisaIbnYahya.JalinusFiTimaus.GRAR000079-ara1	300	3	Cisa Ibn Yahya :: ʿĪsá b. Yaḥyá ::   ʿĪsá b. Yaḥyá b. Ibrāhīm	[Jālīnūs fī kitāb Aflāṭūn al-musammá Ṭīmāwus] ::	6242	FALSE
+0300QustaIbnLuqa.FulutarkhusFiAraTabiciyya.GRAR000077-ara1	300	4	Qusta Ibn Luqa :: Qusṭā b. Lūqā ::   Qusṭā b. Lūqā al-Baʿlabakkī	Kitāb Fulūṭārḫus fī al-arāʾ al-ṭabīʿiyyaŧ al-latī¶    taqūl bihā al-ḥukamāʾ ::	18472	FALSE
+0300IshaqRuhawi.AdabTabib.GRAR000078-ara1	300	4	Ishaq Ruhawi :: Isḥāq b. ʿAlī al-Ruhāwī ::   Isḥāq b. ʿAlī al-Ruhāwī	Kitāb Adab al-Ṭabīb ::	52673	FALSE
+0300CisaIbnYahya.JalinusFiTimaus.GRAR000079-ara1	300	4	Cisa Ibn Yahya :: ʿĪsá b. Yaḥyá ::   ʿĪsá b. Yaḥyá b. Ibrāhīm	[Jālīnūs fī kitāb Aflāṭūn al-musammá Ṭīmāwus] ::	6242	FALSE
 0259HunaynIbnIshaq.JalinusFiCamalTashrih.GRAR000080-ara1	259	3	Hunayn Ibn Ishaq :: Ḥunayn b. Isḥāq ::   Ḥunayn b. Isḥāq al-ʿIbādī	Kitāb Jālīnūs fī ʿamal al-tašrīḥ ::	43199	FALSE
-0300HubayshIbnHasan.JalinusFiCadat.GRAR000082-ara1	300	3	Hubaysh Ibn Hasan :: Ḥubayš b. al-Ḥasan ::  Abū al-Ḫayr Ḥubayš b. al-Ḥasan b. al-Aʿsam al-Dimašqī	Maqālaŧ Jālīnūs fī al-ʿādāt ::	4836	FALSE
+0300HubayshIbnHasan.JalinusFiCadat.GRAR000082-ara1	300	4	Hubaysh Ibn Hasan :: Ḥubayš b. al-Ḥasan ::  Abū al-Ḫayr Ḥubayš b. al-Ḥasan b. al-Aʿsam al-Dimašqī	Maqālaŧ Jālīnūs fī al-ʿādāt ::	4836	FALSE
 0259HunaynIbnIshaq.JalinusFiMihnatAfdalAtibba.GRAR000083-ara1	259	3	Hunayn Ibn Ishaq :: Ḥunayn b. Isḥāq ::   Ḥunayn b. Isḥāq al-ʿIbādī	Kitāb Jālīnūs miḥnaŧ afḍal al-aṭibbāʾ :: Kitāb Jālīnūs fī al-miḥnaŧ al-latī yuʿraf bihā afḍal¶    al-aṭibbāʾ	11825	FALSE
 0259HunaynIbnIshaq.JalinusFiMawludLiSabcatAshhur.GRAR000084-ara1	259	3	Hunayn Ibn Ishaq :: Ḥunayn b. Isḥāq ::   Ḥunayn b. Isḥāq al-ʿIbādī	Maqālaŧ Jālīnūs fī al-mawlūd li-sabʿaŧ ašhur ::	2874	FALSE
 0259HunaynIbnIshaq.SharhJalinusLiIfidhimiya.GRAR000086-ara1	259	3	Hunayn Ibn Ishaq :: Ḥunayn b. Isḥāq ::   Ḥunayn b. Isḥāq al-ʿIbādī	Šarḥ Jālīnūs li kitāb Abuqrāṭ al-musammá Ifīḏīmiyā ::	85537	FALSE
 0259HunaynIbnIshaq.AbuqratFiAmradBiladiyya.GRAR000087-ara1	259	3	Hunayn Ibn Ishaq :: Ḥunayn b. Isḥāq ::   Ḥunayn b. Isḥāq al-ʿIbādī	Kitāb Abuqrāṭ fī al-amrāḍ al-bilādiyyaŧ ::	5847	FALSE
 0259HunaynIbnIshaq.AhwiyaLiAbuqrat.GRAR000088-ara1	259	3	Hunayn Ibn Ishaq :: Ḥunayn b. Isḥāq ::   Ḥunayn b. Isḥāq al-ʿIbādī	Kitāb al-Ahwiyaŧ wa-al-buldān li-Abuqrāṭ ::	5621	FALSE
-0200YahyaIbnBitriq.GhidhaLiAbuqrat.GRAR000089-ara1	200	2	Yahya Ibn Bitriq :: Yaḥyá b. al-Biṭrīq ::   Yaḥyá b. al-Biṭrīq	Kitāb al-Ġiḏāʾ li-Abuqrāṭ ::	1262	FALSE
+0200YahyaIbnBitriq.GhidhaLiAbuqrat.GRAR000089-ara1	200	3	Yahya Ibn Bitriq :: Yaḥyá b. al-Biṭrīq ::   Yaḥyá b. al-Biṭrīq	Kitāb al-Ġiḏāʾ li-Abuqrāṭ ::	1262	FALSE
 0259HunaynIbnIshaq.AbuqratFiTadbirAmrad.GRAR000090-ara1	259	3	Hunayn Ibn Ishaq :: Ḥunayn b. Isḥāq ::   Ḥunayn b. Isḥāq al-ʿIbādī	Kitāb Abuqrāṭ fī tadbīr al-amrāḍ al-ḥāddaŧ ::	6408	FALSE
-0300IbnShahdaKarkhi.AjinnaLiAbuqrat.GRAR000091-ara1	300	3	Ibn Shahda Karkhi :: Ibn Šahdā al-Karḫī ::     al-Karḫī	Kitāb al-Ajinnaŧ li-Abuqrāṭ ::	2030	FALSE
-0300CisaIbnYahya.AbuqratFiAkhlat.GRAR000092-ara1	300	3	Cisa Ibn Yahya :: ʿĪsá b. Yaḥyá ::   ʿĪsá b. Yaḥyá b. Ibrāhīm	Kitāb Abuqrāṭ fī al-aḫlāṭ ::	2517	FALSE
+0300IbnShahdaKarkhi.AjinnaLiAbuqrat.GRAR000091-ara1	300	4	Ibn Shahda Karkhi :: Ibn Šahdā al-Karḫī ::     al-Karḫī	Kitāb al-Ajinnaŧ li-Abuqrāṭ ::	2030	FALSE
+0300CisaIbnYahya.AbuqratFiAkhlat.GRAR000092-ara1	300	4	Cisa Ibn Yahya :: ʿĪsá b. Yaḥyá ::   ʿĪsá b. Yaḥyá b. Ibrāhīm	Kitāb Abuqrāṭ fī al-aḫlāṭ ::	2517	FALSE
 0259HunaynIbnIshaq.AbuqratFiTabicatInsan.GRAR000093-ara1	259	3	Hunayn Ibn Ishaq :: Ḥunayn b. Isḥāq ::   Ḥunayn b. Isḥāq al-ʿIbādī	Kitāb Abuqrāṭ fī ṭabīʿaŧ al-insān ::	3752	FALSE
-0300IbnShahdaKarkhi.MinaLiAbuqrat.GRAR000094-ara1	300	3	Ibn Shahda Karkhi :: Ibn Šahdā al-Karḫī ::     al-Karḫī	Kitāb al-Miná li-Abuqrāṭ ::	6841	FALSE
-0300HubayshIbnHasan.QatitriyunLiAbuqrat.GRAR000095-ara1	300	3	Hubaysh Ibn Hasan :: Ḥubayš b. al-Ḥasan ::  Abū al-Ḫayr Ḥubayš b. al-Ḥasan b. al-Aʿsam al-Dimašqī	Kitāb Abuqrāṭ al-maʿrūf bi-Qāṭīṭriyūn ay Ḥānūt al-¶    ṭabīb ::	2521	FALSE
+0300IbnShahdaKarkhi.MinaLiAbuqrat.GRAR000094-ara1	300	4	Ibn Shahda Karkhi :: Ibn Šahdā al-Karḫī ::     al-Karḫī	Kitāb al-Miná li-Abuqrāṭ ::	6841	FALSE
+0300HubayshIbnHasan.QatitriyunLiAbuqrat.GRAR000095-ara1	300	4	Hubaysh Ibn Hasan :: Ḥubayš b. al-Ḥasan ::  Abū al-Ḫayr Ḥubayš b. al-Ḥasan b. al-Aʿsam al-Dimašqī	Kitāb Abuqrāṭ al-maʿrūf bi-Qāṭīṭriyūn ay Ḥānūt al-¶    ṭabīb ::	2521	FALSE
 0259HunaynIbnIshaq.AbuqratFiTadbirAsihha.GRAR000096-ara1	259	3	Hunayn Ibn Ishaq :: Ḥunayn b. Isḥāq ::   Ḥunayn b. Isḥāq al-ʿIbādī	Kitāb Abuqrāṭ fī tadbīr al-aṣiḥḥāʾ :: al-Maqālaŧ al-ṯāliṯaŧ min Kitāb Ṭabīʿaŧ al-insān fī¶    tadbīr al-aṣiḥḥāʾ	1384	FALSE
 0259HunaynIbnIshaq.AbuqratFiHablCalaHabl.GRAR000097-ara1	259	3	Hunayn Ibn Ishaq :: Ḥunayn b. Isḥāq ::   Ḥunayn b. Isḥāq al-ʿIbādī	Kitāb Abuqrāṭ fī ḥabl ʿalá habl ::	3039	FALSE
 0305AbuCuthmanDimashqi.BabusFiAczam.GRAR000098-ara1	305	4	Abu Cuthman Dimashqi :: Abū ʿUṯmān al-Dimašqī ::  Abū ʿUṯmān Saʿīd b. Yaʿqūb al-Dimašqī	Kitāb Babus fī al-Aʿẓām al-munṭaqa wa-al-summ ::	16308	FALSE
@@ -576,11 +576,11 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0377IbnAhmadCasqalani.TanbihWaRadd.JK001263-ara1	377	4	Ibn Ahmad Casqalani	Tanbih Wa Radd	39814	FALSE
 0614IbnAhmadIbnKhumayrSabti.TanzihAnbiya.JK001264-ara1	614	7	Ibn Ahmad Ibn Khumayr Sabti	Tanzih Anbiya	25022	FALSE
 0748Dhahabi.ThalathatTarajim.JK001265-ara1	748	8	Dhahabi :: al-Ḏahabī :: Šams al-dīn Abū ʿAbd Allãh Muḥammad b. ʿUṯmān b. Qāymāẓ b. ʿAbd Allãh al-Turkumānī, al-Fāriqī, al-Dimašqī, al-Šāfiʿī, al-Muʾarriḫ,¶    al-Ḥāfiẓ,¶  al-Ḏahabī	Thalathat Tarajim	3482	FALSE
-0600CabdGhaniMuqaddasi.TarghibFiDuca.JK001266-ara1	600	6	Cabd Ghani Muqaddasi	Targhib Fi Duca	14026	FALSE
+0600CabdGhaniMuqaddasi.TarghibFiDuca.JK001266-ara1	600	7	Cabd Ghani Muqaddasi	Targhib Fi Duca	14026	FALSE
 0450AbuHasanMawardi.TashilNazar.JK001269-ara1	450	5	Abu Hasan Mawardi :: al-Māwardī ::  Abū al-Ḥasan ʿAlī b. Muḥammad b. Ḥabīb al-Baṣrī, al-Baġdādī	Tashil Nazar	28138	FALSE
 0392IbnJinniMawsili.CilalTathniya.JK001272-ara1	392	4	Ibn Jinni Mawsili :: Ibn Ǧinnī ::  Abū al-Fatḥ ʿUṯmān b. Ǧinnī b. Ǧinnī al-Azdī al-Mawṣilī	Cilal Tathniya	4185	FALSE
 0369AbuShaykhIsbahani.Tawbikh.JK001274-ara1	369	4	Abu Shaykh Isbahani	Tawbikh	15174	FALSE
-0600CabdGhaniMuqaddasi.TawhidLiLlah.JK001277-ara1	600	6	Cabd Ghani Muqaddasi	Tawhid Li Llah	12841	FALSE
+0600CabdGhaniMuqaddasi.TawhidLiLlah.JK001277-ara1	600	7	Cabd Ghani Muqaddasi	Tawhid Li Llah	12841	FALSE
 0222IbnBakkarDabi.AkhbarWafidat.JK001280-ara1	222	3	Ibn Bakkar Dabi	Akhbar Wafidat	7077	FALSE
 0222IbnBakkarDabi.AkhbarWafidin.JK001281-ara1	222	3	Ibn Bakkar Dabi	Akhbar Wafidin	5081	FALSE
 0275IbnMuhammadMarwazi.Warac.JK001283-ara1	275	3	Ibn Muhammad Marwazi	Warac	23998	FALSE
@@ -652,14 +652,14 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 1252IbnCabidinDimashqi.FawaidCajiba.JK006708-ara1	1252	13	Ibn Cabidin Dimashqi	Fawaid Cajiba	8713	FALSE
 0761JamalDinIbnHisham.MasailSafariyya.JK006709-ara1	761	8	Jamal Din Ibn Hisham	Masail Safariyya	6697	FALSE
 1057IbnCallan.IthafFadil.JK006710-ara1	1057	11	Ibn Callan	Ithaf Fadil	10619	FALSE
-1200Nisari.Wafiya.JK006742-ara1	1200	12	Nisari	Wafiya	12250	FALSE
+1200Nisari.Wafiya.JK006742-ara1	1200	13	Nisari	Wafiya	12250	FALSE
 0224QasimIbnSalam.Amwal.JK006800-ara1	224	3	Qasim Ibn Salam	Amwal	119823	FALSE
 0852IbnHajarCasqalani.MatalibCaliya.JK006801-ara1	852	9	Ibn Hajar Casqalani :: Ibn ḥaǧar al-ʿAsqalānī :: Šihāb al-dīn Abū al-faḍl Aḥmad b. ʿAlī b. Muḥammad b. ḥaǧar al-ʿAsqalānī, al-Šāfiʿī	Matalib Caliya	369726	FALSE
 0290IbnAhmadIbnHanbal.Sunna.JK006833-ara1	290	3	Ibn Ahmad Ibn Hanbal ::  Abū ʿAbd al-Raḥmān ʿAbd Allāh b. Aḥmad b. Muḥammad b. Ḥanbal al-Šaybānī	al-Sunnaŧ	84941	FALSE
 0458Bayhaqi.DalailNubuwwa.JK006838-ara1	458	5	Bayhaqi :: al-Bayhaqī ::  Abū-Bakr Aḥmad b. al-Ḥusayn b. ʿAlī b. Mūsá al-Bayhaqī, al-Ḫusrawǧirdī	Dalāʾil al-nubuwwaŧ wa maʿrifaŧ aḥwāl ṣāḥib al-šarīʿaŧ	525097	FALSE
 0779IbnYahyaHarraniMuqaddasi.TacbirRuya.JK006855-ara1	779	8	Ibn Yahya Harrani Muqaddasi	Tacbir Ruya	76822	FALSE
 0110IbnSirin.MuntakhabKalamFiTafsirAhlam.JK006856-ara2	110	2	Ibn Sirin	Muntakhab Kalam Fi Tafsir Ahlam	211445	FALSE
-0800IbnAhmadAbuCabdAllahSalimi.IsharaIlaCilmCibara.JK006857-ara1	800	8	Ibn Ahmad Abu Cabd Allah Salimi	Ishara Ila Cilm Cibara	27490	FALSE
+0800IbnAhmadAbuCabdAllahSalimi.IsharaIlaCilmCibara.JK006857-ara1	800	9	Ibn Ahmad Abu Cabd Allah Salimi	Ishara Ila Cilm Cibara	27490	FALSE
 0697AbuCabbasShihabDinNabulusi.QawacidTafsirAhlam.JK006858-ara1	697	7	Abu Cabbas Shihab Din Nabulusi	Qawacid Tafsir Ahlam	48509	FALSE
 1206IbnCabdWahhab.Tawhid.JK006870-ara1	1206	13	Ibn Cabd Wahhab	Tawhid	15941	FALSE
 1206IbnCabdWahhab.QawacidArbaca.JK006873-ara1	1206	13	Ibn Cabd Wahhab	Qawacid Arbaca	683	FALSE
@@ -856,7 +856,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0236AbuCabdAllahZubayri.NasabQuraysh.JK009223-ara1	236	3	Abu Cabd Allah Zubayri	Nasab Quraysh	89644	FALSE
 0487AbuCubaydBakri.SimtLaaliFiSharhAmali.JK009225-ara1	487	5	Abu Cubayd Bakri ::  Abū ʿUbayd ʿAbdallāh b. ʿAbd al-ʿAzīz b. Muḥammad b. Ayyūb b. ʿAmr al-Bakrī	Simt Laali Fi Sharh Amali	178079	FALSE
 0455IbnKhalafSaraqusti.CunwanFiQiraatSabca.JK009227-ara1	455	5	Ibn Khalaf Saraqusti	Cunwan Fi Qiraat Sabca	18890	FALSE
-0600AbuBaqaHilli.ManaqibMazidiya.JK009228-ara1	600	6	Abu Baqa Hilli	Manaqib Mazidiya	94757	FALSE
+0600AbuBaqaHilli.ManaqibMazidiya.JK009228-ara1	600	7	Abu Baqa Hilli	Manaqib Mazidiya	94757	FALSE
 0638IbnCarabi.FutuhatMakkiyya.JK009237-ara1	638	7	Ibn Carabi	Futuhat Makkiyya	1826396	TRUE
 0852IbnHajarCasqalani.InbaGhumr.JK009239-ara1	852	9	Ibn Hajar Casqalani :: Ibn ḥaǧar al-ʿAsqalānī :: Šihāb al-dīn Abū al-faḍl Aḥmad b. ʿAlī b. Muḥammad b. ḥaǧar al-ʿAsqalānī, al-Šāfiʿī	Inba Ghumr	406219	FALSE
 0597IbnJawzi.WafaBiAhwalMustafa.JK009242-ara1	597	6	Ibn Jawzi	Wafa Bi Ahwal Mustafa	140593	FALSE
@@ -865,7 +865,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0911Suyuti.MufhimatAqran.JK009252-ara1	911	10	Suyuti :: Ǧalāl al-Dīn al-Suyūṭī :: Ǧalāl al-Dīn  ʿAbd al-Raḥmān b. Kamāl al-Dīn Abī Bakr b. Muḥammad Sābiq al-Dīn Ḫiḍr al-Ḫuḍayrī al-Asyūṭī	Mufhimat Aqran	15982	FALSE
 0852IbnHajarCasqalani.NukatZiraf.JK009256BK2-ara1	852	9	Ibn Hajar Casqalani :: Ibn ḥaǧar al-ʿAsqalānī :: Šihāb al-dīn Abū al-faḍl Aḥmad b. ʿAlī b. Muḥammad b. ḥaǧar al-ʿAsqalānī, al-Šāfiʿī	Nukat Ziraf	NA	NA
 1258IbnCabdSalamTusuli.Bahja.JK009261-ara1	1258	13	Ibn Cabd Salam Tusuli	Bahja	521964	FALSE
-0800IbnCadilHanbali.LubabFiCulumKitab.JK009266-ara1	800	8	Ibn Cadil Hanbali	Lubab Fi Culum Kitab	2900262	TRUE
+0800IbnCadilHanbali.LubabFiCulumKitab.JK009266-ara1	800	9	Ibn Cadil Hanbali	Lubab Fi Culum Kitab	2900262	TRUE
 0398BadicZamanHamadhani.Maqamat.JK009269-ara1	398	4	Badic Zaman Hamadhani	Maqamat	20811	FALSE
 0632BahaDinIbnShaddad.NawadirSultaniyya.JK009276-ara1	632	7	Baha Din Ibn Shaddad :: Bahāʾ al-dīn Ibn Šaddād :: Bahāʾ al-dīn, Abū al-maḥāsin  Yūsuf b. Rāfiʿ b. Tamīm	al-Nawādir al-sulṭāniyyaŧ wa al-maḥāsin al-yūsufiyyaŧ	62326	FALSE
 0926ZakariyyaAnsari.GhayatWusul.JK009279-ara1	926	10	Zakariyya Ansari	Ghayat Wusul	87800	FALSE
@@ -876,7 +876,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0354IbnCabdJabbarNiffari.Mawaqif.JK009292-ara1	354	4	Ibn Cabd Jabbar Niffari	Mawaqif	25903	FALSE
 1111MuhammadAminMuhibbi.NafahatRayhana.JK009296-ara1	1111	12	Muhammad Amin Muhibbi	Nafahat Rayhana	379221	FALSE
 0973CabdWahhabShacrani.LawaqihAnwar.JK009301-ara1	973	10	Cabd Wahhab Shacrani	Lawaqih Anwar	231694	FALSE
-1100MuhammadItlidi.IclamNas.JK009306-ara1	1100	11	Muhammad Itlidi	Iclam Nas	79884	FALSE
+1100MuhammadItlidi.IclamNas.JK009306-ara1	1100	12	Muhammad Itlidi	Iclam Nas	79884	FALSE
 0750PseudoIbnFuwati.Hawadith.JK009307-ara1	750	8	Pseudo Ibn Fuwati	Hawadith	71226	FALSE
 0538JarAllahZamakhshari.AtwaqDhahab.JK009316-ara1	538	6	Jar Allah Zamakhshari	Atwaq Dhahab	5865	FALSE
 0974IbnHajarHaytami.Inafa.JK009318-ara1	974	10	Ibn Hajar Haytami	Inafa	29900	FALSE
@@ -906,7 +906,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0456IbnHazm.RisalaFiUmmahatKhulafa.JK009354-ara1	456	5	Ibn Hazm :: Ibn Ḥazm ::  Abū Muḥammad ʿAlī b. Aḥmad b. Saʿīd b. Ḥazm al-Andalusī, al-Qurṭubī, al-Ẓāhirī	Risala Fi Ummahat Khulafa	510	FALSE
 0456IbnHazm.RisalaFiAhlShaqa.JK009355-ara1	456	5	Ibn Hazm :: Ibn Ḥazm ::  Abū Muḥammad ʿAlī b. Aḥmad b. Saʿīd b. Ḥazm al-Andalusī, al-Qurṭubī, al-Ẓāhirī	Risala Fi Ahl Shaqa	3571	FALSE
 0456IbnHazm.AsmaKhulafa.JK009356-ara1	456	5	Ibn Hazm :: Ibn Ḥazm ::  Abū Muḥammad ʿAlī b. Aḥmad b. Saʿīd b. Ḥazm al-Andalusī, al-Qurṭubī, al-Ẓāhirī	Asma Khulafa	6314	FALSE
-0400IbnHusaynYamani.MudahatAmthal.JK009361-ara1	400	4	Ibn Husayn Yamani	Mudahat Amthal	19071	FALSE
+0400IbnHusaynYamani.MudahatAmthal.JK009361-ara1	400	5	Ibn Husayn Yamani	Mudahat Amthal	19071	FALSE
 0255Jahiz.MahasinWaAddad.JK009364-ara1	255	3	Jahiz :: al-ǧāḥiẓ ::  abū ʿuthmān ʿamrů b. baḥr al-fuqāmī al-baṣrī	al-Maḥāsin wa-l-aḍdād	65891	FALSE
 1031BahaDinCamili.Kashkul.JK009365-ara1	1031	11	Baha Din Camili	Kashkul	178994	FALSE
 0597CimadDinKatibIsfahani.KharidatQasr.JK009370Vols-ara1	597	6	Cimad Din Katib Isfahani :: ʿImād al-Dīn al-kātib al-Iṣfahānī :: ʿImād al-Dīn Abū ʿAbd Allāh b. Ṣafī al-Dīn Abū l-Faraǧ b. Nafīs al-¶    Dīn Abū al-Raǧāʾ Muḥammad b. Muḥammad b. Ḥāmid b. Muḥammad b. ʿAbd Allāh b. ʿAlī¶    b. Maḥmūd b. Hibat Allāh al-Iṣfahānī	Ḫarīdaŧ al-qaṣr wa ǧarīdaŧ al-ʿaṣr	699015	FALSE
@@ -977,7 +977,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0573NashwanHimyari.HurCin.JK010635-ara1	573	6	Nashwan Himyari	Hur Cin	55102	FALSE
 0463IbnRashiqQayrawani.CumdaFiMahasinShicr.JK010637-ara1	463	5	Ibn Rashiq Qayrawani	Cumda Fi Mahasin Shicr	123776	FALSE
 0392IbnCabdCazizJurjani.Wisata.JK010638-ara1	392	4	Ibn Cabd Caziz Jurjani	Wisata	60293	FALSE
-1300IbnMuhyiDinJazairi.DhikraCaqil.JK010639-ara1	1300	13	Ibn Muhyi Din Jazairi	Dhikra Caqil	16818	FALSE
+1300IbnMuhyiDinJazairi.DhikraCaqil.JK010639-ara1	1300	14	Ibn Muhyi Din Jazairi	Dhikra Caqil	16818	FALSE
 0430AswadGhundijani.FarhatAdib.JK010640-ara1	430	5	Aswad Ghundijani	Farhat Adib	28205	FALSE
 0701IbnNasrAllahIbnSayqalJazari.Maqamat.JK010644-ara1	701	8	Ibn Nasr Allah Ibn Sayqal Jazari	Maqamat	58365	FALSE
 0540AbuMansurJawaliqi.SharhAdabKatib.JK010646-ara1	540	6	Abu Mansur Jawaliqi	Sharh Adab Katib	83540	FALSE
@@ -985,7 +985,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0440AbuRayhanBiruni.TahqiqMaLilHind.JK010648-ara1	440	5	Abu Rayhan Biruni	Tahqiq Ma Lil Hind	109862	FALSE
 1118IbnMuhammadNuriSafaqsi.TanbihGhafilin.JK010654-ara1	1118	12	Ibn Muhammad Nuri Safaqsi	Tanbih Ghafilin	35287	FALSE
 0953IbnTulun.FassKhawatim.JK010656-ara1	953	10	Ibn Tulun	Fass Khawatim	15978	FALSE
-0300IbnZakariyaHajari.Tacliqat.JK010664-ara1	300	3	Ibn Zakariya Hajari	Tacliqat	47552	FALSE
+0300IbnZakariyaHajari.Tacliqat.JK010664-ara1	300	4	Ibn Zakariya Hajari	Tacliqat	47552	FALSE
 0685IbnSacidMaghribi.MurqisatWaMutribat.JK010665-ara1	685	7	Ibn Sacid Maghribi	Murqisat Wa Mutribat	59133	FALSE
 0337IbnIshaqZajjaji.Akhbar.JK010666-ara1	337	4	Ibn Ishaq Zajjaji	Akhbar	40667	FALSE
 0418WazirMaghribi.AdabKhawas.JK010667-ara1	418	5	Wazir Maghribi	Adab Khawas	22459	FALSE
@@ -1149,14 +1149,14 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0738Jazari.HawadithZaman.Kraken2107192215372-ara1	738	8	Jazari	Hawadith Zaman	281628	FALSE
 0372Anonymous.HududCalam.Kraken210719222704-per1	372	4	Anonymous	Hudud Calam	39669	FALSE
 0361HarithKhushani.AkhbarFuqaha.Kraken210809220214-ara1	361	4	Harith Khushani	Akhbar Fuqaha	80416	FALSE
-0200AbuGhanimKhurasani.MudawwanaKubra.Kraken2108092202141-ara1	200	2	Abu Ghanim Khurasani	Mudawwana Kubra	394828	FALSE
+0200AbuGhanimKhurasani.MudawwanaKubra.Kraken2108092202141-ara1	200	3	Abu Ghanim Khurasani	Mudawwana Kubra	394828	FALSE
 0355MuhammadKindi.AkhbarQudatMisr.Kraken210809220218-ara1	355	4	Muhammad Kindi	Akhbar Qudat Misr	49908	FALSE
 0214IbnCabdHakamMisri.MukhtasarKabir.Kraken210809220219-ara1	214	3	Ibn Cabd Hakam Misri :: Ibn ʿabd al-ḥakam al-Miṣrī ::  abū muḥammad ʿabd allāh b. ʿabd al-ḥakam al-Miṣrī	Mukhtasar Kabir	149752	FALSE
 0411HamidDinKirmani.Riyad.Kraken2108160843551-ara1	411	5	Hamid Din Kirmani	Riyad	50949	FALSE
 0485NizamMulk.Siyasatnamah.Kraken2108160844021-per1	485	5	Nizam Mulk	Siyasatnamah	99283	FALSE
 0434MultipleDruze.RasailHikma.Kraken210827001347-ara1	434	5	Multiple Druze	Rasail Hikma	55047	FALSE
 0434MultipleDruze.RasailHikmaBK1.Kraken210830163545-ara1	434	5	Multiple Druze	Rasail Hikma BK1	56766	FALSE
-0500Anonymous.Cazama.Kraken21090100-ara1	500	5	Anonymous	Cazama	6278	FALSE
+0500Anonymous.Cazama.Kraken21090100-ara1	500	6	Anonymous	Cazama	6278	FALSE
 0582IbnBarri.Tanbih.Kraken210901163531-ara1	582	6	Ibn Barri	Tanbih	127962	FALSE
 0351HamzaIsbahani.DurraFakhira.Kraken210903002705-ara1	351	4	Hamza Isbahani	Durra Fakhira	123543	FALSE
 0470MuayyadFiDinShirazi.Diwan.Kraken210904174302-ara1	470	5	Muayyad Fi Din Shirazi	Diwan	85382	FALSE
@@ -1175,12 +1175,12 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0395IbnJazzar.ZadMusafir.LMN20201005-ara1	395	4	Ibn Jazzar :: Ibn al-Ǧazzār :: Abū Ǧaʿfar Aḥmad b. Ibrāhīm b. Abī Ḫālid al-Qayrawānī	Zād al-musāfir wa-qūt al-ḥāḍir ::	7067	FALSE
 0748Dhahabi.Nubdha.LMN20201019-ara1	748	8	Dhahabi :: al-Ḏahabī :: Šams al-dīn Abū ʿAbd Allãh Muḥammad b. ʿUṯmān b. Qāymāẓ b. ʿAbd Allãh al-Turkumānī, al-Fāriqī, al-Dimašqī, al-Šāfiʿī, al-Muʾarriḫ,¶    al-Ḥāfiẓ,¶  al-Ḏahabī	Nubḏaŧ min sīraŧ šayḫ al-islām Taqī al-dīn Ibn¶    Taymiyyaŧ	2240	FALSE
 0711IbnIbrahimCimadDinWasiti.HatkAstarFusus.LMN20201127-ara1	711	8	Ibn Ibrahim Cimad Din Wasiti	Hatk astār al-fuṣūṣ :: Ašiʿʿaŧ al-nuṣūṣ fī hatk astār al-fuṣūṣ	7370	FALSE
-0500Anonymous.KitabMajall.LMN20210125-ara1	500	5	Anonymous	Kitab Majall	14019	FALSE
+0500Anonymous.KitabMajall.LMN20210125-ara1	500	6	Anonymous	Kitab Majall	14019	FALSE
 1389AghaBuzurgTihrani.TabaqatAclamShica.Masaha0003164Vols-ara1	1389	14	Agha Buzurg Tihrani :: Āqā Buzurg Tihrānī ::   Muḥammad Muḥsin b. ʿAlī b. Muḥammad Riḍá al-Tihrānī al-Naǧafī	Tabaqat Aclam Shica	1521918	TRUE
 1373KashifGhita.TahrirMajalla.Masaha002999Vols-ara1	1373	14	Kashif Ghita	Tahrir Majalla	455777	FALSE
-0400KatibMajhul.AlladhiFarisWaRajil.NLIAG000190-ara1	400	4	Katib Majhul	Alladhi Faris Wa Rajil	762	FALSE
-0400KatibMajhul.SayadcufAlanManFihi.NLIAG000191-ara1	400	4	Katib Majhul	Sayadcuf Alan Man Fihi	905	FALSE
-1300Anonymous.MajallatAhkam.Other0001-ara1	1300	13	Anonymous	Majallat Ahkam	67520	FALSE
+0400KatibMajhul.AlladhiFarisWaRajil.NLIAG000190-ara1	400	5	Katib Majhul	Alladhi Faris Wa Rajil	762	FALSE
+0400KatibMajhul.SayadcufAlanManFihi.NLIAG000191-ara1	400	5	Katib Majhul	Sayadcuf Alan Man Fihi	905	FALSE
+1300Anonymous.MajallatAhkam.Other0001-ara1	1300	14	Anonymous	Majallat Ahkam	67520	FALSE
 0398MaslamaMajriti.TacliqCalaBatlamiyusFiTastih.PAL065900960-ara1	398	4	Maslama Majriti	Tacliq Cala Batlamiyus Fi Tastih	2268	FALSE
 0398MaslamaMajriti.FaslLaysaMinKitab.PAL065900968-ara1	398	4	Maslama Majriti	Fasl Laysa Min Kitab	2101	FALSE
 0218HajjajIbnYusufIbnMatar.Majisti.PAL066800970-ara1	218	3	Hajjaj Ibn Yusuf Ibn Matar	Majisti	84253	FALSE
@@ -1218,7 +1218,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 1349MuhammadCabdCazizKhawli.AdabNabawi.Sham19Y0009763-ara1	1349	14	Muhammad Cabd Caziz Khawli	Adab Nabawi	83656	FALSE
 1346LuisShikhuYasuci.TarikhAdabCarabiyya.Sham19Y0010438-ara1	1346	14	Luis Shikhu Yasuci	Tarikh Adab Carabiyya	135008	FALSE
 0773BahaDinSubki.CarusAfrah.Sham19Y0011151-ara1	773	8	Baha Din Subki	Carus Afrah	289993	FALSE
-0600CabdGhaniMuqaddasi.CumdatAhkam.Sham19Y0011194-ara1	600	6	Cabd Ghani Muqaddasi	Cumdat Ahkam	128270	FALSE
+0600CabdGhaniMuqaddasi.CumdatAhkam.Sham19Y0011194-ara1	600	7	Cabd Ghani Muqaddasi	Cumdat Ahkam	128270	FALSE
 1317KhayrDinAlusi.FathAllahHamid.Sham19Y0011326-ara1	1317	14	Khayr Din Alusi	Fath Allah Hamid	94690	FALSE
 0264AbuZurcaRazi.CilalWaSualat.Sham19Y0011402-ara1	264	3	Abu Zurca Razi	Cilal Wa Sualat	285130	FALSE
 0656IbnCabdQawiMundhiri.TarghibWaTarhib.Sham19Y0013223-ara2	656	7	Ibn Cabd Qawi Mundhiri	Targhib Wa Tarhib	890600	FALSE
@@ -1345,7 +1345,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0636AbuCabdAllahIbnCaskar.Iclam.Sham19Y0014757-ara1	636	7	Abu Cabd Allah Ibn Caskar	Iclam	88521	FALSE
 0405CabdKarimNahshaliQayrawani.Mumtic.Sham19Y0014786-ara1	405	5	Cabd Karim Nahshali Qayrawani	Mumtic	58614	FALSE
 0825IbnNurDin.TaysirBayan.Sham19Y0014827-ara1	825	9	Ibn Nur Din	Taysir Bayan	312243	FALSE
-1300ReinhartDozy.TakmilatMacajimCarabiyya.Sham19Y0015555-ara1	1300	13	Reinhart Dozy	Takmilat Macajim Carabiyya	979382	FALSE
+1300ReinhartDozy.TakmilatMacajimCarabiyya.Sham19Y0015555-ara1	1300	14	Reinhart Dozy	Takmilat Macajim Carabiyya	979382	FALSE
 0697IbnWasil.MufarrijKurub.Sham19Y0016362-ara1	697	7	Ibn Wasil :: Ǧamāl al-Dīn Muḥammad Ibn Wāṣil :: Ǧamāl al-Dīn Abū ʿAbdallāh Muḥammad b. Sālim b. Naṣrallāh b. Sālim b. Wāṣil al-Māzinī al-Tamīmī al-Ḥamawī al-Šāfiʿī	Mufarriǧ al-kurūb fī aḫbār banī Ayyūb	442285	FALSE
 0809IbnDuqmaq.NuzhatAnam.Sham19Y0016363-ara1	809	9	Ibn Duqmaq	Nuzhat Anam	82850	FALSE
 0717CabbasSafadi.NuzhatMalikWaMamluk.Sham19Y0016364-ara1	717	8	Cabbas Safadi	Nuzhat Malik Wa Mamluk	52093	FALSE
@@ -1425,7 +1425,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0656IbnCabdQawiMundhiri.MukhtasarSahihMuslim.Sham19Y0017616-ara1	656	7	Ibn Cabd Qawi Mundhiri	Mukhtasar Sahih Muslim	197412	FALSE
 0909IbnCabdHadi.Jawhar.Sham19Y0017657-ara1	909	10	Ibn Cabd Hadi	Jawhar	56286	FALSE
 0756TaqiDinSubki.Wasiyya.Sham19Y0017660-ara1	756	8	Taqi Din Subki	Wasiyya	1698	FALSE
-0400IbnHaddad.Afcal.Sham19Y0017667-ara1	400	4	Ibn Haddad	Afcal	416761	FALSE
+0400IbnHaddad.Afcal.Sham19Y0017667-ara1	400	5	Ibn Haddad	Afcal	416761	FALSE
 1083IbnBalabanDimashqi.BughyatMustafid.Sham19Y0017674-ara1	1083	11	Ibn Balaban Dimashqi	Bughyat Mustafid	7649	FALSE
 0521IbnMuhammadBatalyawsi.Iqtidab.Sham19Y0017681-ara1	521	6	Ibn Muhammad Batalyawsi	Iqtidab	139324	FALSE
 0732AbuFida.KunnashFiNahwWaSarf.Sham19Y0017687-ara1	732	8	Abu Fida :: Abū l-Fidāʾ :: al-Malik al-Muʾayyad ʿImād al-Dīn Abū l-Fidāʾ Ismāʿīl b. al-Malik al-Afḍal Nūr al-Dīn Abī l-Ḥasan ʿAlī b. al-Sulṭān al-Malik al-Muẓaffar Taqī al-Dīn Abū al-Fatḥ Maḥmūd b. al-sulṭān al-Malik al-Manṣūr Nāṣir al-Dīn Abū al-Maʿallā Muḥammad b. al-sulṭān al-Malik al-Muẓaffar Taqī al-Dīn Abū al-Ḫaṭṭāb ʿUmar b. Šāhanšāh b. Ayyūb	Kunnash Fi Nahw Wa Sarf	199531	FALSE
@@ -1452,7 +1452,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0656IbnCabdQawiMundhiri.JuzFiCikrima.Sham19Y0017794-ara1	656	7	Ibn Cabd Qawi Mundhiri	Juz Fi Cikrima	5904	FALSE
 1205MurtadaZabidi.CiqdJuman.Sham19Y0017795-ara1	1205	13	Murtada Zabidi	Ciqd Juman	774	FALSE
 1272HasanBaytar.IrshadCibad.Sham19Y0017796-ara1	1272	13	Hasan Baytar	Irshad Cibad	7325	FALSE
-1200IbnAhmadSafiDinBukhari.Carus.Sham19Y0017797-ara1	1200	12	Ibn Ahmad Safi Din Bukhari	Carus	6596	FALSE
+1200IbnAhmadSafiDinBukhari.Carus.Sham19Y0017797-ara1	1200	13	Ibn Ahmad Safi Din Bukhari	Carus	6596	FALSE
 0751IbnQayyimJawziyya.AclamMuwaqqicin.Sham19Y0017798-ara1	751	8	Ibn Qayyim Jawziyya	Aclam Muwaqqicin	995802	FALSE
 1179AhmadShafici.IclamMultazam.Sham19Y0017806-ara1	1179	12	Ahmad Shafici	Iclam Multazam	5798	FALSE
 0743SharafDinTibi.Khalasa.Sham19Y0017807-ara1	743	8	Sharaf Din Tibi	Khalasa	27217	FALSE
@@ -1466,7 +1466,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0756IbnYusufSaminHalabi.CumdatHuffaz.Sham19Y0017829-ara1	756	8	Ibn Yusuf Samin Halabi	Cumdat Huffaz	363723	FALSE
 0636IbnKhalfunAzdi.Muclim.Sham19Y0017842-ara1	636	7	Ibn Khalfun Azdi	Muclim	144371	FALSE
 0231IbnSacdanDarir.WaqfWaIbtida.Sham19Y0017843-ara1	231	3	Ibn Sacdan Darir	Waqf Wa Ibtida	9697	FALSE
-0900IbnMuhammadBurhanDinQabibati.IfadatMubtadi.Sham19Y0017845-ara1	900	9	Ibn Muhammad Burhan Din Qabibati	Ifadat Mubtadi	5607	FALSE
+0900IbnMuhammadBurhanDinQabibati.IfadatMubtadi.Sham19Y0017845-ara1	900	10	Ibn Muhammad Burhan Din Qabibati	Ifadat Mubtadi	5607	FALSE
 1293CabdLatifAlShaykh.Ijaza.Sham19Y0017847-ara1	1293	13	Cabd Latif Al Shaykh	Ijaza	2498	FALSE
 1182IbnIsmacilSancani.RisalaLatifa.Sham19Y0017848-ara1	1182	12	Ibn Ismacil Sancani	Risala Latifa	6196	FALSE
 0879IbnQutlubugha.TahrirAqwal.Sham19Y0017850-ara1	879	9	Ibn Qutlubugha :: Ibn Quṭlūbuġā :: Zayn al-dīn Abū al-Fadāʾ Qāsim b. Quṭlūbuġā al-Sūdūnī, al-Ǧamālī, al_Ḥanafī	Tahrir Aqwal	7650	FALSE
@@ -1797,7 +1797,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 1450Burnu.MawsucatQawacidFiqhiyya.Sham20Y0014596-ara1	1450	15	Burnu	Mawsucat Qawacid Fiqhiyya	660323	FALSE
 1450Zuhayli.QawacidFiqhiyya.Sham20Y0021786-ara1	1450	15	Zuhayli	Qawacid Fiqhiyya	190867	FALSE
 1450QasimCaliSacd.JamharatMalikiyya.Sham30K0033307-ara1	1450	15	Qasim Cali Sacd	Jamharat Malikiyya	175582	FALSE
-1400IbnSuda.IthafMatalic.Sham30K0046642-ara1	1400	14	Ibn Suda	Ithaf Matalic	166111	FALSE
+1400IbnSuda.IthafMatalic.Sham30K0046642-ara1	1400	15	Ibn Suda	Ithaf Matalic	166111	FALSE
 0816IbnMuhammadSharifJurjani.DibajMudhahhab.ShamAY0000134-ara1	816	9	Ibn Muhammad Sharif Jurjani	Dibaj Mudhahhab	3667	FALSE
 0728IbnTaymiyya.Hisba.ShamAY0000351-ara1	728	8	Ibn Taymiyya	Hisba	199683	FALSE
 0918IbnAscadJalalDinDawwani.HujajBahira.ShamAY0000923-ara1	918	10	Ibn Ascad Jalal Din Dawwani	Hujaj Bahira	29535	FALSE
@@ -1914,7 +1914,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0936IbnAhmadShammacHalabi.Thabt.ShamAY0032855-ara1	936	10	Ibn Ahmad Shammac Halabi	Thabt	42762	FALSE
 0749AbuFathIbnMuhibb.Juz.ShamAY0032856-ara1	749	8	Abu Fath Ibn Muhibb	Juz	4068	FALSE
 0744IbnCabdHadi.FadailSahaba.ShamAY0032857-ara1	744	8	Ibn Cabd Hadi	Fadail Sahaba	4543	FALSE
-0500LahiqIbnMuhammad.Hadith.ShamAY0032858-ara1	500	5	Lahiq Ibn Muhammad	Hadith	2736	FALSE
+0500LahiqIbnMuhammad.Hadith.ShamAY0032858-ara1	500	6	Lahiq Ibn Muhammad	Hadith	2736	FALSE
 0852AbuNucaymMustamli.ArabacinMutabayina.ShamAY0032859-ara1	852	9	Abu Nucaym Mustamli	Arabacin Mutabayina	18911	FALSE
 0690IbnBukhari.Mashyakha.ShamAY0032864-ara1	690	7	Ibn Bukhari	Mashyakha	7785	FALSE
 0633IbnIbrahimIrbili.Mashyakha.ShamAY0032865-ara1	633	7	Ibn Ibrahim Irbili	Mashyakha	4478	FALSE
@@ -1983,7 +1983,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0414AbuSacidNaqqash.Farq.ShamAY0032939-ara1	414	5	Abu Sacid Naqqash	Farq	5164	FALSE
 0265CaliIbnHarbTai.Juz.ShamAY0032940-ara1	265	3	Cali Ibn Harb Tai	Juz	5903	FALSE
 0374IbnHusaynAzdi.Mawacidh.ShamAY0032941-ara1	374	4	Ibn Husayn Azdi	Mawacidh	2962	FALSE
-0400Anonymous.HadithAbiShaykhIsbahani.ShamAY0032942-ara1	400	4	Anonymous	Hadith Abi Shaykh Isbahani	2531	FALSE
+0400Anonymous.HadithAbiShaykhIsbahani.ShamAY0032942-ara1	400	5	Anonymous	Hadith Abi Shaykh Isbahani	2531	FALSE
 0538IbnQasimShafici.Majlisan.ShamAY0032943-ara1	538	6	Ibn Qasim Shafici	Majlisan	2927	FALSE
 0510AbuGhanaimNarsi.Hadith.ShamAY0032944-ara1	510	6	Abu Ghanaim Narsi	Hadith	5679	FALSE
 0590AbuKhayrQazwini.MukhtarMinAhadith.ShamAY0032945-ara1	590	6	Abu Khayr Qazwini	Mukhtar Min Ahadith	7355	FALSE
@@ -2064,7 +2064,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0414HilalHaffar.Juz.ShamAY0033576-ara1	414	5	Hilal Haffar	Juz	13949	FALSE
 0852IbnHajarCasqalani.JuzFihiKalamCalaHadithInnaAwlaNas.ShamAY0033577-ara1	852	9	Ibn Hajar Casqalani :: Ibn ḥaǧar al-ʿAsqalānī :: Šihāb al-dīn Abū al-faḍl Aḥmad b. ʿAlī b. Muḥammad b. ḥaǧar al-ʿAsqalānī, al-Šāfiʿī	Juz Fihi Kalam Cala Hadith Inna Awla Nas	4307	FALSE
 0578IbnBashkuwal.ShuyukhIbnWahb.ShamAY0033580-ara1	578	6	Ibn Bashkuwal	Shuyukh Ibn Wahb	23031	FALSE
-0600QasimIbnCasakir.SiyamRamadan.ShamAY0033581-ara1	600	6	Qasim Ibn Casakir	Siyam Ramadan	1903	FALSE
+0600QasimIbnCasakir.SiyamRamadan.ShamAY0033581-ara1	600	7	Qasim Ibn Casakir	Siyam Ramadan	1903	FALSE
 0563IbnCaliTamidhi.Juz.ShamAY0033582-ara1	563	6	Ibn Cali Tamidhi	Juz	5361	FALSE
 0576AbuTahirSilafi.FawaidHisan.ShamAY0033583-ara1	576	6	Abu Tahir Silafi	Fawaid Hisan	3260	FALSE
 0813QattanCasqalani.Fawaid.ShamAY0033584-ara1	813	9	Qattan Casqalani	Fawaid	4291	FALSE
@@ -2157,7 +2157,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0795IbnRajabHanbali.AhwalQubur.ShamAY0033761-ara3	795	8	Ibn Rajab Hanbali :: Zayn al-Dīn Abū al-Faraǧ ʿAbd al-Raḥmān b. Aḥmad b. Raǧab ʿAbd al-Raḥmān b. al-Ḥasan b. Muḥammad b.¶    Abī al-Barakāt Masʿūd al-Baġdādī al-Salāmī al-Dimašqī	Ahwal Qubur	46505	FALSE
 0449AbuCalaMacarri.RisalatGhifran.ShamAY0033783-ara1	449	5	Abu Cala Macarri	Risalat Ghifran	44900	FALSE
 0538JarAllahZamakhshari.Maqamat.ShamAY0033788-ara1	538	6	Jar Allah Zamakhshari	Maqamat	14379	FALSE
-0500IbnAhmadSarrajBaghdadi.MasaricCushshaq.ShamAY0033793-ara1	500	5	Ibn Ahmad Sarraj Baghdadi	Masaric Cushshaq	116741	FALSE
+0500IbnAhmadSarrajBaghdadi.MasaricCushshaq.ShamAY0033793-ara1	500	6	Ibn Ahmad Sarraj Baghdadi	Masaric Cushshaq	116741	FALSE
 1008DawudAntaki.TazyinAswaq.ShamAY0033794-ara1	1008	11	Dawud Antaki	Tazyin Aswaq	112205	FALSE
 0792IbnCumarTaftazani.MukhtasarMacani.ShamAY0033799-ara1	792	8	Ibn Cumar Taftazani	Mukhtasar Macani	82886	FALSE
 0776LisanDinIbnKhatib.KhatraTayf.ShamAY0033806-ara1	776	8	Lisan Din Ibn Khatib	Khatra Tayf	26419	FALSE
@@ -2299,7 +2299,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0909IbnCabdHadi.IdahMaqala.ShamAY0034299-ara1	909	10	Ibn Cabd Hadi	Idah Maqala	2518	FALSE
 0842IbnNasirDinDimashqi.BardAkbad.ShamAY0034300-ara1	842	9	Ibn Nasir Din Dimashqi	Bard Akbad	10918	FALSE
 0852IbnHajarCasqalani.JuzFiTahniaFiAcyad.ShamAY0034301-ara1	852	9	Ibn Hajar Casqalani :: Ibn ḥaǧar al-ʿAsqalānī :: Šihāb al-dīn Abū al-faḍl Aḥmad b. ʿAlī b. Muḥammad b. ḥaǧar al-ʿAsqalānī, al-Šāfiʿī	Juz Fi Tahnia Fi Acyad	2253	FALSE
-0900IbnMuhammadBurhanDinQabibati.HusulBughya.ShamAY0034302-ara1	900	9	Ibn Muhammad Burhan Din Qabibati	Husul Bughya	1718	FALSE
+0900IbnMuhammadBurhanDinQabibati.HusulBughya.ShamAY0034302-ara1	900	10	Ibn Muhammad Burhan Din Qabibati	Husul Bughya	1718	FALSE
 0953IbnTulun.DawrFalak.ShamAY0034303-ara1	953	10	Ibn Tulun	Dawr Falak	5486	FALSE
 0620IbnQudamaMaqdisi.DhammMuwaswisin.ShamAY0034304-ara1	620	7	Ibn Qudama Maqdisi	Dhamm Muwaswisin	4165	FALSE
 0909IbnCabdHadi.SiyarHathth.ShamAY0034305-ara1	909	10	Ibn Cabd Hadi	Siyar Hathth	11211	FALSE
@@ -2382,7 +2382,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0748Dhahabi.AsmaManCashThamaninSana.ShamAY0034571-ara1	748	8	Dhahabi :: al-Ḏahabī :: Šams al-dīn Abū ʿAbd Allãh Muḥammad b. ʿUṯmān b. Qāymāẓ b. ʿAbd Allãh al-Turkumānī, al-Fāriqī, al-Dimašqī, al-Šāfiʿī, al-Muʾarriḫ,¶    al-Ḥāfiẓ,¶  al-Ḏahabī	Asma Man Cash Thamanin Sana	13669	FALSE
 0643DiyaDinMuqaddasi.Ahwal.ShamAY0034572-ara1	643	7	Diya Din Muqaddasi	Ahwal	6254	FALSE
 0409CabdGhaniAzdi.MutalifWaMukhtalif.ShamAY0034573-ara1	409	5	Cabd Ghani Azdi	Mutalif Wa Mukhtalif	33289	FALSE
-0600CabdGhaniMuqaddasi.MihnaCalaImamAhmad.ShamAY0034574-ara1	600	6	Cabd Ghani Muqaddasi	Mihna Cala Imam Ahmad	30278	FALSE
+0600CabdGhaniMuqaddasi.MihnaCalaImamAhmad.ShamAY0034574-ara1	600	7	Cabd Ghani Muqaddasi	Mihna Cala Imam Ahmad	30278	FALSE
 1205MurtadaZabidi.TuhfatAhbab.ShamAY0034575-ara1	1205	13	Murtada Zabidi	Tuhfat Ahbab	1020	FALSE
 0842IbnNasirDinDimashqi.TuhfatIkhbari.ShamAY0034576-ara1	842	9	Ibn Nasir Din Dimashqi	Tuhfat Ikhbari	6866	FALSE
 1014MullaCaliQari.ShifaSalik.ShamAY0034578-ara1	1014	11	Mulla Cali Qari	Shifa Salik	898	FALSE
@@ -2392,7 +2392,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0378HakimKabir.AsamiWaKuna.ShamAY0034585-ara1	378	4	Hakim Kabir	Asami Wa Kuna	272618	FALSE
 1111MuhammadAminMuhibbi.DhaylNafahatRayhana.ShamAY0034600-ara1	1111	12	Muhammad Amin Muhibbi	Dhayl Nafahat Rayhana	58647	FALSE
 0911Suyuti.IscafMubatta.ShamAY0034624-ara1	911	10	Suyuti :: Ǧalāl al-Dīn al-Suyūṭī :: Ǧalāl al-Dīn  ʿAbd al-Raḥmān b. Kamāl al-Dīn Abī Bakr b. Muḥammad Sābiq al-Dīn Ḫiḍr al-Ḫuḍayrī al-Asyūṭī	Iscaf Mubatta	18532	FALSE
-0600CabdGhaniMuqaddasi.AkhbarHasanBasri.ShamAY0034627-ara1	600	6	Cabd Ghani Muqaddasi	Akhbar Hasan Basri	3311	FALSE
+0600CabdGhaniMuqaddasi.AkhbarHasanBasri.ShamAY0034627-ara1	600	7	Cabd Ghani Muqaddasi	Akhbar Hasan Basri	3311	FALSE
 0249IbnBarqi.TamyizThiqat.ShamAY0034628-ara1	249	3	Ibn Barqi	Tamyiz Thiqat	2795	FALSE
 0695IbnMuhammadHusayni.SilatTakmilaLiWafayatNaqala.ShamAY0034633-ara1	695	7	Ibn Muhammad Husayni	Silat Takmila Li Wafayat Naqala	78615	FALSE
 0911Suyuti.ThughurBasima.ShamAY0034634-ara1	911	10	Suyuti :: Ǧalāl al-Dīn al-Suyūṭī :: Ǧalāl al-Dīn  ʿAbd al-Raḥmān b. Kamāl al-Dīn Abī Bakr b. Muḥammad Sābiq al-Dīn Ḫiḍr al-Ḫuḍayrī al-Asyūṭī	Thughur Basima	3341	FALSE
@@ -2475,7 +2475,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0463KhatibBaghdadi.KalamCalaSifat.ShamAY0035653-ara1	463	5	Khatib Baghdadi :: al-Ḫaṭīb al-Baġdādī ::  Abū Bakr Aḥmad b. ʿAlī b. Ṯābit b. Aḥmad b. Mahdī al-Šāfiʿī, al-Baġdādī	Kalam Cala Sifat	1733	FALSE
 1342MahmudShukriAlusi.GharaibFiqhiyya.ShamAY0035689-ara1	1342	14	Mahmud Shukri Alusi	Gharaib Fiqhiyya	21620	FALSE
 0287QadirBillahCabbasi.Ictiqad.ShamAY0035722-ara1	287	3	Qadir Billah Cabbasi	Ictiqad	2134	FALSE
-1100YahyaIbnHusaynZaydi.SawarimYaqin.ShamAY0035743-ara1	1100	11	Yahya Ibn Husayn Zaydi	Sawarim Yaqin	14485	FALSE
+1100YahyaIbnHusaynZaydi.SawarimYaqin.ShamAY0035743-ara1	1100	12	Yahya Ibn Husayn Zaydi	Sawarim Yaqin	14485	FALSE
 0428AbuCaliHashimi.Caqida.ShamAY0035744-ara1	428	5	Abu Cali Hashimi	Caqida	1322	FALSE
 0369IbnShaqilaHanbali.Munazara.ShamAY0035745-ara1	369	4	Ibn Shaqila Hanbali	Munazara	7918	FALSE
 0786IbnMuhammadBabarti.SharhWasiyyatAbiHanifa.ShamAY0035746-ara1	786	8	Ibn Muhammad Babarti	Sharh Wasiyyat Abi Hanifa	30989	FALSE
@@ -2574,7 +2574,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0415QadiCabdJabbar.TanzihQuran.ShamAY0036757-ara1	415	5	Qadi Cabd Jabbar :: al-QāḍīʿAbd al-Ǧabbār ::  Abū l-Ḥassan ʿAbd al-Ǧabbār b. Aḥmad b. ʿAbd al-Ǧabbār b. Aḥmad al-Ḫalīl b. ʿAbdallāh al-Muʿtazilī al-Asadābādī	Tanzih Quran	107006	FALSE
 0979ShihabDinTibi.MufidFiTajrid.ShamAY0036792-ara1	979	10	Shihab Din Tibi	Mufid Fi Tajrid	2854	FALSE
 0444AbuCamrDani.UrjuzaMunabbiha.ShamAY0036794-ara1	444	5	Abu Camr Dani	Urjuza Munabbiha	11290	FALSE
-0500AhmadAndarabi.IdahFiQiraat.ShamAY0036795-ara1	500	5	Ahmad Andarabi	Idah Fi Qiraat	150258	FALSE
+0500AhmadAndarabi.IdahFiQiraat.ShamAY0036795-ara1	500	6	Ahmad Andarabi	Idah Fi Qiraat	150258	FALSE
 0929MuhammadShaqrunWahrani.TaqribManafic.ShamAY0036803-ara1	929	10	Muhammad Shaqrun Wahrani	Taqrib Manafic	3319	FALSE
 0911Suyuti.FathJalil.ShamAY0036815-ara1	911	10	Suyuti :: Ǧalāl al-Dīn al-Suyūṭī :: Ǧalāl al-Dīn  ʿAbd al-Raḥmān b. Kamāl al-Dīn Abī Bakr b. Muḥammad Sābiq al-Dīn Ḫiḍr al-Ḫuḍayrī al-Asyūṭī	Fath Jalil	4577	FALSE
 0458IbnSidaMursi.IcrabQuran.ShamAY0036821-ara1	458	5	Ibn Sida Mursi	Icrab Quran	557743	FALSE
@@ -2652,7 +2652,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0415QadiCabdJabbar.ManiyyaWaAmal.ShamAY0037746-ara1	415	5	Qadi Cabd Jabbar :: al-QāḍīʿAbd al-Ǧabbār ::  Abū l-Ḥassan ʿAbd al-Ǧabbār b. Aḥmad b. ʿAbd al-Ǧabbār b. Aḥmad al-Ḫalīl b. ʿAbdallāh al-Muʿtazilī al-Asadābādī	Maniyya Wa Amal	49841	FALSE
 0774IbnMuhammadShamsDinIbnMawsili.MukhtasarSawaciqMursala.ShamAY0037747-ara2	774	8	Ibn Muhammad Shams Din Ibn Mawsili	Mukhtasar Sawaciq Mursala	222132	FALSE
 0728IbnTaymiyya.ShubuhatHawlCaisha.ShamAY0037807-ara1	728	8	Ibn Taymiyya	Shubuhat Hawl Caisha	40410	FALSE
-0200AbuShis.Diwan.ShamAY0037814-ara1	200	2	Abu Shis	Diwan	3878	FALSE
+0200AbuShis.Diwan.ShamAY0037814-ara1	200	3	Abu Shis	Diwan	3878	FALSE
 0211AbuCatahiya.Diwan.ShamAY0037815-ara1	211	3	Abu Catahiya	Diwan	12200	FALSE
 0449AbuCalaMacarri.Diwan.ShamAY0037816-ara1	449	5	Abu Cala Macarri	Diwan	108751	FALSE
 1045AbuFadlMikali.Diwan.ShamAY0037817-ara1	1045	11	Abu Fadl Mikali	Diwan	5730	FALSE
@@ -2715,7 +2715,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0241IbnHanbal.MasailRiwayatIbnHani.ShamAY0038134-ara1	241	3	Ibn Hanbal :: aḥmad b. ḥanbal ::  Abū ʿabd allāh Aḥmad b. muḥammad b. ḥanbal al-šaybānī	Masail Riwayat Ibn Hani	79558	FALSE
 0507IbnQaysarani.AhadithMia.ShamAY0038135-ara1	507	6	Ibn Qaysarani	Ahadith Mia	11124	FALSE
 0360Tabarani.MakarimAkhlaq.ShamAY0038139-ara3	360	4	Tabarani	Makarim Akhlaq	15324	FALSE
-0500IbnAhmadSarrajBaghdadi.Fawaid.ShamAY0038144-ara1	500	5	Ibn Ahmad Sarraj Baghdadi	Fawaid	19659	FALSE
+0500IbnAhmadSarrajBaghdadi.Fawaid.ShamAY0038144-ara1	500	6	Ibn Ahmad Sarraj Baghdadi	Fawaid	19659	FALSE
 0722AbuMajamicIbnHammuya.MuntaqaMinArbacin.ShamAY0038147-ara1	722	8	Abu Majamic Ibn Hammuya	Muntaqa Min Arbacin	1058	FALSE
 0806IbnHusaynZaynDinCiraqi.HadithAsmaAllah.ShamAY0038148-ara1	806	9	Ibn Husayn Zayn Din Ciraqi	Hadith Asma Allah	595	FALSE
 0281IbnAbiDunya.RasailFiTawakkul.ShamAY0038149-ara1	281	3	Ibn Abi Dunya :: Ibn Abī al-Dunyā :: al-Ḥāfiẓ Abū Bakr ʿAbd Allāh b. Muḥammad b. ʿUbayd b. Sufyān b. Qays al-Baġdādī, al-Umawī, al-Qurašī	Rasail Fi Tawakkul	3627	FALSE
@@ -2886,7 +2886,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0458IbnSidaMursi.SharhMushkil.Shamela0000775-ara1	458	5	Ibn Sida Mursi	Sharh Mushkil	62016	FALSE
 0911Suyuti.TabarriMinMacarratMacarri.Shamela0000781-ara1	911	10	Suyuti :: Ǧalāl al-Dīn al-Suyūṭī :: Ǧalāl al-Dīn  ʿAbd al-Raḥmān b. Kamāl al-Dīn Abī Bakr b. Muḥammad Sābiq al-Dīn Ḫiḍr al-Ḫuḍayrī al-Asyūṭī	Tabarri Min Macarrat Macarri	436	FALSE
 1420MuhammadNasirDinAlbani.SahihWaDacifSunanTirmidhi.Shamela0000782-ara1	1420	15	Muhammad Nasir Din Albani	Sahih Wa Dacif Sunan Tirmidhi	399750	FALSE
-0300IbnKhurdadhbih.MukhtarMinKitabLahw.Shamela0000785-ara1	300	3	Ibn Khurdadhbih	Mukhtar Min Kitab Lahw	6613	FALSE
+0300IbnKhurdadhbih.MukhtarMinKitabLahw.Shamela0000785-ara1	300	4	Ibn Khurdadhbih	Mukhtar Min Kitab Lahw	6613	FALSE
 0460IbnSharafQayruwani.MasailIntiqad.Shamela0000786-ara1	460	5	Ibn Sharaf Qayruwani	Masail Intiqad	6765	FALSE
 0763IbnCabdRahmanAndalusiFazari.HilyatFursan.Shamela0000788-ara1	763	8	Ibn Cabd Rahman Andalusi Fazari	Hilyat Fursan	27865	FALSE
 0209MacmarIbnMuthanna.Khayl.Shamela0000790-ara1	209	3	Macmar Ibn Muthanna :: Abū ʿUbaydŧ ::  Abū ʿUbaydŧ Muʿamar b. al-Muṯanná	Kitāb al-ḫayl :: al-ḫayl	22191	FALSE
@@ -2911,7 +2911,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0703MuhammadMarrakushi.DhaylWaTakmila.Shamela0001030-ara1	703	8	Muhammad Marrakushi	Dhayl Wa Takmila	108402	FALSE
 0476AbuIshaqShirazi.TabaqatFuqaha.Shamela0001031-ara1	476	5	Abu Ishaq Shirazi	Tabaqat Fuqaha	29262	FALSE
 0456IbnHazm.Rasail.Shamela0001038-ara1	456	5	Ibn Hazm :: Ibn Ḥazm ::  Abū Muḥammad ʿAlī b. Aḥmad b. Saʿīd b. Ḥazm al-Andalusī, al-Qurṭubī, al-Ẓāhirī	Rasail	287942	FALSE
-0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1	900	9	Abu Cabd Allah Himyari	Rawd Mictar	317842	FALSE
+0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1	900	10	Abu Cabd Allah Himyari	Rawd Mictar	317842	FALSE
 0426IbnMuhammadBarqani.SualatLiDaraqutni.Shamela0001060-ara2	426	5	Ibn Muhammad Barqani	Su'ālāt Abī Bakr al-Barqānī lil-Dāraquṭnī fī al-jarḥ¶    wa-al-taʿdīl :: Su'ālāt Abī Bakr al-Barqānī lil-imām Abī al-Ḥasan al-¶    Dāraquṭnī  fī al-jarḥ wa-al-taʿdīl wa-ʿilal al-ḥadīṯ	6576	FALSE
 0683IbnMahmudMajdDinMawsili.IkhtiyarLiTaclil.Shamela0001066-ara1	683	7	Ibn Mahmud Majd Din Mawsili	Ikhtiyar Li Taclil	317065	FALSE
 0311AbuBakrKhallal.Sunna.Shamela0001077-ara1	311	4	Abu Bakr Khallal	Sunna	101851	FALSE
@@ -2946,7 +2946,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0708IbnIbrahimAbuJacfarGharnati.MalakTawilQatic.Shamela0001419-ara1	708	8	Ibn Ibrahim Abu Jacfar Gharnati	Malak Tawil Qatic	169476	FALSE
 0792SadrDinIbnAbiCizzAdhraci.Tafsir.Shamela0001426-ara1	792	8	Sadr Din Ibn Abi Cizz Adhraci	Tafsir	19665	FALSE
 1450DarIftaMisriyya.JamicAhadith.Shamela0001438-ara1	1450	15	Dar Ifta Misriyya	Jamic Ahadith	2417087	TRUE
-0600CabdGhaniMuqaddasi.AkhbarDajjal.Shamela0001441-ara1	600	6	Cabd Ghani Muqaddasi	Akhbar Dajjal	13509	FALSE
+0600CabdGhaniMuqaddasi.AkhbarDajjal.Shamela0001441-ara1	600	7	Cabd Ghani Muqaddasi	Akhbar Dajjal	13509	FALSE
 0388AbuSulaymanKhattabi.MacalimSunan.Shamela0001442-ara1	388	4	Abu Sulayman Khattabi	Macalim Sunan	332690	FALSE
 0620IbnCisaAzdiQurtubi.InjadFiAbwabJihad.Shamela0001449-ara1	620	7	Ibn Cisa Azdi Qurtubi	Injad Fi Abwab Jihad	78538	FALSE
 0430CabdMalikIbnBishranUmawi.Amali.Shamela0001453-ara1	430	5	Cabd Malik Ibn Bishran Umawi	Amali	81569	FALSE
@@ -3047,7 +3047,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 1250IbnMuhammadRaiqiSacidi.FathMutacal.Shamela0003863-ara1	1250	13	Ibn Muhammad Raiqi Sacidi	Fath Mutacal	16826	FALSE
 1307Qannawji.QatfThamar.Shamela0003874-ara1	1307	14	Qannawji	Qatf Thamar	22969	FALSE
 1349IbnSahmanKhathcami.NazamIkhtiyarat.Shamela0003940-ara1	1349	14	Ibn Sahman Khathcami	Nazam Ikhtiyarat	1748	FALSE
-0400IbnHusaynBazyar.Bayzara.Shamela0003944-ara1	400	4	Ibn Husayn Bazyar	Bayzara	30177	FALSE
+0400IbnHusaynBazyar.Bayzara.Shamela0003944-ara1	400	5	Ibn Husayn Bazyar	Bayzara	30177	FALSE
 0505Ghazali.Mankhul.Shamela0003960-ara1	505	6	Ghazali :: al-Ġazālī :: Zayn al-Dīn Abū Ḥāmid Muḥammad b. Muḥammad b. Muḥammad b. Aḥmad al-Ġazālī al-Ṭūsī al-Nīsābūrī	Mankhul	53393	FALSE
 0611IbnMufaddalMuqaddasi.JuzFihiTuruqCabdRahman.Shamela0003981-ara1	611	7	Ibn Mufaddal Muqaddasi	Juz Fihi Turuq Cabd Rahman	9175	FALSE
 0410IbnCumarDimashqi.Fawaid.Shamela0004003-ara1	410	5	Ibn Cumar Dimashqi	Fawaid	7491	FALSE
@@ -3286,7 +3286,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0360AbuBakrAjurri.AkhbarAbiHafs.Shamela0006650-ara1	360	4	Abu Bakr Ajurri	Akhbar Abi Hafs	6409	FALSE
 0436HusaynSaymari.AkhbarAbiHanifa.Shamela0006651-ara1	436	5	Husayn Saymari	Akhbar Abi Hanifa	40675	FALSE
 0214IbnCabdHakamMisri.SiratCumarIbnCabdCaziz.Shamela0006656-ara1	214	3	Ibn Cabd Hakam Misri :: Ibn ʿabd al-ḥakam al-Miṣrī ::  abū muḥammad ʿabd allāh b. ʿabd al-ḥakam al-Miṣrī	sīrŧ ʿumar b. ʿabd al-ʿazīz ʿalá mā rawāh al-imām¶    mālik b. anas wa-aṣḥābuh :: sīrŧ ʿumar b. ʿabd al-ʿazīz	29407	FALSE
-1200IbnAhmadSafiDinBukhari.TaqrizLiIbnHajarCasqalani.Shamela0006662-ara1	1200	12	Ibn Ahmad Safi Din Bukhari	Taqriz Li Ibn Hajar Casqalani	1239	FALSE
+1200IbnAhmadSafiDinBukhari.TaqrizLiIbnHajarCasqalani.Shamela0006662-ara1	1200	13	Ibn Ahmad Safi Din Bukhari	Taqriz Li Ibn Hajar Casqalani	1239	FALSE
 0845Maqrizi.Suluk.Shamela0006667-ara1	845	9	Maqrizi :: al-Maqrīzī :: Taqī al-dīn Abū al-ʿAbbās Aḥmad b. ʿAlī b. ʿAbd al-Qādir al-ʿUbaydī, al-Maqrīzī	al-Sulūk li-maʿrifaŧ duwal al-mulūk	821823	FALSE
 0874IbnTaghribirdi.MawridLatafa.Shamela0006669-ara1	874	9	Ibn Taghribirdi :: Ibn Taġrī birdī,al-Atābakī :: Ǧamāl al-dīn, Abū al-maḥāsin  Yūsuf b. Taġrī birdī	Mawrid Latafa	58850	FALSE
 1381MuhammadSancani.MulhaqBadr.Shamela0006672-ara1	1381	14	Muhammad Sancani	Mulhaq Badr	50413	FALSE
@@ -3303,7 +3303,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0968Tashkuprizadah.ShaqaiqNucmaniyya.Shamela0006723BK1-ara1	968	10	Tashkuprizadah :: Ṭāškuprī Zādah :: Ṭāškuprī Zādah  Aḥmad b. Muṣṭafá b. Ḫalīl	al-Šaqāʾiq al-nuʿmāniyya fī ʿulamāʾ al-dawla al-¶    ʿuṯmāniyya ::	96989	FALSE
 0992CaliIbnBaliManq.CiqdManzum.Shamela0006723BK2-ara1	992	10	Cali Ibn Bali Manq :: ʿAlī b. Bālī Manq :: Manq  ʿAlī b. Bālī b. Muḥammad al-Qusṭanṭīnī, al-Āydīnī	al-ʿIqd al-manẓūm fī ḏikr afāḍil al-Rūm ::	47937	FALSE
 0774IbnRaficSallami.Wafayat.Shamela0006724-ara1	774	8	Ibn Rafic Sallami	Wafayat	58985	FALSE
-1100IbnMuhammadAdnahwi.TabaqatMufassirin.Shamela0006729-ara1	1100	11	Ibn Muhammad Adnahwi	Tabaqat Mufassirin	39321	FALSE
+1100IbnMuhammadAdnahwi.TabaqatMufassirin.Shamela0006729-ara1	1100	12	Ibn Muhammad Adnahwi	Tabaqat Mufassirin	39321	FALSE
 0799IbnFarhun.DibajMudhahhab.Shamela0006730-ara1	799	8	Ibn Farhun	Dibaj Mudhahhab	112663	FALSE
 0463IbnCabdBarr.IntiqaFiFadail.Shamela0006733-ara1	463	5	Ibn Cabd Barr :: Ibn ʿAbd al-Barr ::  Abū ʿUmar Yūsuf b. ʿAbd Allāh b. Muḥammad b. ʿAbd al-Barr al-Qurṭubī al-Namarī	Intiqa Fi Fadail	35823	FALSE
 0643IbnSalahShahrazuri.TabaqatFuqaha.Shamela0006741-ara1	643	7	Ibn Salah Shahrazuri	Tabaqat Fuqaha	61392	FALSE
@@ -3322,7 +3322,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0390IbnCabdAllahCaskari.HaththCalaTalabCilm.Shamela0006861-ara1	390	4	Ibn Cabd Allah Caskari	Hathth Cala Talab Cilm	5871	FALSE
 0581AbuQasimSuhayli.RawdUnuf.Shamela0006864-ara1	581	6	Abu Qasim Suhayli	Rawd Unuf	551489	FALSE
 0597IbnJawzi.DhammHawa.Shamela0006870-ara1	597	6	Ibn Jawzi	Dhamm Hawa	143924	FALSE
-0400IbnMuhammadBusti.QasidatCunwanHukm.Shamela0006873-ara1	400	4	Ibn Muhammad Busti	Qasidat Cunwan Hukm	648	FALSE
+0400IbnMuhammadBusti.QasidatCunwanHukm.Shamela0006873-ara1	400	5	Ibn Muhammad Busti	Qasidat Cunwan Hukm	648	FALSE
 1250Shawkani.WilayatAllah.Shamela0006886-ara1	1250	13	Shawkani	Wilayat Allah	52106	FALSE
 0429AbuMansurThacalibi.ThimarQulub.Shamela0006896-ara1	429	5	Abu Mansur Thacalibi :: al-Ṯaʿālibī ::  Abū Manṣūr ʿAbd al-Malik b. Muḥammad b. Ismāʿīl al-Ṯaʿālibī	Ṯimār al-qulūb fī al-muḍāf wa-l-mansūb	117229	FALSE
 0382IbnCabdAllahCaskari.JamharatAmthal.Shamela0006897-ara1	382	4	Ibn Cabd Allah Caskari	Jamharat Amthal	127294	FALSE
@@ -3349,7 +3349,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0325IbnCabdAllahWarraq.CilalNahw.Shamela0007003-ara1	325	4	Ibn Cabd Allah Warraq	Cilal Nahw	76409	FALSE
 0276IbnQutaybaDinawari.GharibHadith.Shamela0007012-ara1	276	3	Ibn Qutayba Dinawari :: Ibn Qutaybaŧ, al-Dīnawarī ::  Abū Muḥammad ʿAbd Allāh b. Muslim b. Qutaybaŧ al-Dīnawarī, al-Kūfī, al-Marwazī	Ġarīb al-ḥadīṯ	149679	FALSE
 0321IbnDuraydAzdi.JamharatLugha.Shamela0007032-ara1	321	4	Ibn Durayd Azdi	Jamharat Lugha	392170	FALSE
-1200CabdNabiAhmadnakari.DusturCulama.Shamela0007038-ara1	1200	12	Cabd Nabi Ahmadnakari	Dustur Culama	354542	FALSE
+1200CabdNabiAhmadnakari.DusturCulama.Shamela0007038-ara1	1200	13	Cabd Nabi Ahmadnakari	Dustur Culama	354542	FALSE
 0911Suyuti.MucjamMaqalid.Shamela0007039-ara1	911	10	Suyuti :: Ǧalāl al-Dīn al-Suyūṭī :: Ǧalāl al-Dīn  ʿAbd al-Raḥmān b. Kamāl al-Dīn Abī Bakr b. Muḥammad Sābiq al-Dīn Ḫiḍr al-Ḫuḍayrī al-Asyūṭī	Mucjam Maqalid	20243	FALSE
 0428IbnSina.Siyasa.Shamela0007227-ara1	428	5	Ibn Sina	Siyasa	4611	FALSE
 0189MuhammadShaybani.Siyar.Shamela0007231-ara1	189	2	Muhammad Shaybani	Siyar	31689	FALSE
@@ -3401,11 +3401,11 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0458Bayhaqi.HadithJuwaybari.Shamela0007531-ara1	458	5	Bayhaqi :: al-Bayhaqī ::  Abū-Bakr Aḥmad b. al-Ḥusayn b. ʿAlī b. Mūsá al-Bayhaqī, al-Ḫusrawǧirdī	Hadith Juwaybari	2361	FALSE
 0378IbnSalihQahtani.QasidaNuniyya.Shamela0007533-ara1	378	4	Ibn Salih Qahtani	Qasida Nuniyya	6148	FALSE
 0773IbnIshaqSirajDinGhaznawi.GhurraMunifa.Shamela0007534-ara1	773	8	Ibn Ishaq Siraj Din Ghaznawi	Ghurra Munifa	42224	FALSE
-0600CabdGhaniMuqaddasi.IqtisadFiIctiqad.Shamela0007546-ara1	600	6	Cabd Ghani Muqaddasi	Iqtisad Fi Ictiqad	16190	FALSE
+0600CabdGhaniMuqaddasi.IqtisadFiIctiqad.Shamela0007546-ara1	600	7	Cabd Ghani Muqaddasi	Iqtisad Fi Ictiqad	16190	FALSE
 1282Ababutayn.IntisarLiHizbAllah.Shamela0007554-ara1	1282	13	Ababutayn	Intisar Li Hizb Allah	13135	FALSE
 1182IbnIsmacilSancani.InsafFiHaqiqatAwliya.Shamela0007556-ara1	1182	12	Ibn Ismacil Sancani	Insaf Fi Haqiqat Awliya	13791	FALSE
 0911Suyuti.QutMughtadhi.Shamela0007562-ara1	911	10	Suyuti :: Ǧalāl al-Dīn al-Suyūṭī :: Ǧalāl al-Dīn  ʿAbd al-Raḥmān b. Kamāl al-Dīn Abī Bakr b. Muḥammad Sābiq al-Dīn Ḫiḍr al-Ḫuḍayrī al-Asyūṭī	Qut Mughtadhi	94568	FALSE
-1100ZiyadahIbnYahyaRasi.BahthSarih.Shamela0007565-ara1	1100	11	Ziyadah Ibn Yahya Rasi	Bahth Sarih	29034	FALSE
+1100ZiyadahIbnYahyaRasi.BahthSarih.Shamela0007565-ara1	1100	12	Ziyadah Ibn Yahya Rasi	Bahth Sarih	29034	FALSE
 1250Shawkani.BahthMusaffir.Shamela0007566-ara1	1250	13	Shawkani	Bahth Musaffir	16619	FALSE
 1293CabdLatifAlShaykh.BarahinIslamiyya.Shamela0007567-ara1	1293	13	Cabd Latif Al Shaykh	Barahin Islamiyya	23049	FALSE
 1349IbnSahmanKhathcami.BayanMubdi.Shamela0007568-ara1	1349	14	Ibn Sahman Khathcami	Bayan Mubdi	26036	FALSE
@@ -3533,7 +3533,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0852IbnHajarCasqalani.TaqribTahdhib.Shamela0008609-ara1	852	9	Ibn Hajar Casqalani :: Ibn ḥaǧar al-ʿAsqalānī :: Šihāb al-dīn Abū al-faḍl Aḥmad b. ʿAlī b. Muḥammad b. ḥaǧar al-ʿAsqalānī, al-Šāfiʿī	Taqrib Tahdhib	201473	FALSE
 1450SalihFawzan.MajmucFatawa.Shamela0008612-ara1	1450	15	Salih Fawzan	Majmuc Fatawa	132487	FALSE
 0346Mascudi.AkhbarZaman.Shamela0008620-ara1	346	4	Mascudi :: al-Masʿūdī ::  Abū-al-Ḥasan ʿAlī b. al-Ḥusayn b. ʿAlī al-Masʿūdī	Aḫbār al-zamān wa man abādahu al-ḥidṯān wa ʿaǧāʾib al-buldān¶    wa-l-ġāmir bi-al-māʾ wa-l-ʿumrān	57057	FALSE
-1500Anonymous.MiatHadithSaqitaMinSunanKubra.Shamela0008623-ara1	1500	15	Anonymous	Miat Hadith Saqita Min Sunan Kubra	7005	FALSE
+1500Anonymous.MiatHadithSaqitaMinSunanKubra.Shamela0008623-ara1	1500	16	Anonymous	Miat Hadith Saqita Min Sunan Kubra	7005	FALSE
 0728IbnTaymiyya.NaqdMaratibIjmac.Shamela0008630-ara1	728	8	Ibn Taymiyya	Naqd Maratib Ijmac	5835	FALSE
 0256Bukhari.Ducafa.Shamela0008632-ara1	256	3	Bukhari :: al-buḫārī ::  abū ʿabd allāh muḥammad b. ismāʿīl b. ibrāhīm b. al-muġīrŧ al-ǧuʿfī al-buḫārī	kitāb al-ḍuʿafāʾ al-ṣaġīr ::	12335	FALSE
 0771Subki.AshbahWaNazair.Shamela0008634-ara1	771	8	Subki	Ashbah Wa Nazair	209965	FALSE
@@ -3560,7 +3560,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0911Suyuti.NazmCiqyan.Shamela0009061-ara1	911	10	Suyuti :: Ǧalāl al-Dīn al-Suyūṭī :: Ǧalāl al-Dīn  ʿAbd al-Raḥmān b. Kamāl al-Dīn Abī Bakr b. Muḥammad Sābiq al-Dīn Ḫiḍr al-Ḫuḍayrī al-Asyūṭī	Nazm Ciqyan	30953	FALSE
 0360IbnCaliQassab.NukatDalla.Shamela0009065-ara1	360	4	Ibn Cali Qassab	Nukat Dalla	160648	FALSE
 0479IbnFaddalQayruwani.NukatFiQuran.Shamela0009066-ara1	479	5	Ibn Faddal Qayruwani	Nukat Fi Quran	88284	FALSE
-0600CabdGhaniMuqaddasi.AmrBiMacruf.Shamela0009074-ara1	600	6	Cabd Ghani Muqaddasi	Amr Bi Macruf	10910	FALSE
+0600CabdGhaniMuqaddasi.AmrBiMacruf.Shamela0009074-ara1	600	7	Cabd Ghani Muqaddasi	Amr Bi Macruf	10910	FALSE
 0748Dhahabi.Radd.Shamela0009075-ara1	748	8	Dhahabi :: al-Ḏahabī :: Šams al-dīn Abū ʿAbd Allãh Muḥammad b. ʿUṯmān b. Qāymāẓ b. ʿAbd Allãh al-Turkumānī, al-Fāriqī, al-Dimašqī, al-Šāfiʿī, al-Muʾarriḫ,¶    al-Ḥāfiẓ,¶  al-Ḏahabī	Radd	7033	FALSE
 0463KhatibBaghdadi.MuttafiqWaMuftariq.Shamela0009076-ara1	463	5	Khatib Baghdadi :: al-Ḫaṭīb al-Baġdādī ::  Abū Bakr Aḥmad b. ʿAlī b. Ṯābit b. Aḥmad b. Mahdī al-Šāfiʿī, al-Baġdādī	Muttafiq Wa Muftariq	211068	FALSE
 0385Daraqutni.CilalWarida.Shamela0009082-ara1	385	4	Daraqutni :: al-Dāraquṭnī ::  Abū al-Ḥasan ʿAlī b. ʿUmar b. Aḥmad b. Mahdī b. Masʿūd b. al-Nuʿmān b.¶    Dīnār b. ʿAbd Allāh al-Dāraquṭnī	Cilal Warida	639563	FALSE
@@ -3596,7 +3596,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0569CumaraYamani.NukatCasriyya.Shamela0009248BK1-ara1	569	6	Cumara Yamani :: ʿUmāraŧ al-Yamanī :: Najm al-Dīn Abū Ḥamzaŧ ʿUmāraŧ b. ʿAlī al-Ḥakamī al-Yamanī	al-Nukat al-ʿaṣriyyaŧ fī aḫbār al-wuzarāʾ al-¶    maṣriyyaŧ ::	18378	FALSE
 1326HartwigDerenbourg.MukhtarMinDiwanCumara.Shamela0009248BK2-ara1	1326	14	Hartwig Derenbourg	al-Muḫtār min Dīwān al-ʿallāmaŧ al-adīb al-awḥad al-¶    nāẓim al-nāṯir al-faqīh ʿUmāraŧ al-Yamanī ::	27767	FALSE
 0204IbnKalbi.AnsabKhayl.Shamela0009249-ara1	204	3	Ibn Kalbi :: Ibn al-kalbī ::  Abū al-munḏir Hišām b. muḥammad abī al-naḍir b. al-sāʾib b. bašar al-kalbī	ansāb al-ḫayl fī al-jāhiliyyŧ wa-al-islām wa-aḫbarihā :: ansāb al-ḫayl	6278	FALSE
-0600IbnCabdAllahQaysi.IdahShawahid.Shamela0009250-ara1	600	6	Ibn Cabd Allah Qaysi	Idah Shawahid	98409	FALSE
+0600IbnCabdAllahQaysi.IdahShawahid.Shamela0009250-ara1	600	7	Ibn Cabd Allah Qaysi	Idah Shawahid	98409	FALSE
 0395IbnFarisQazwini.MujmalLugha.Shamela0009252-ara1	395	4	Ibn Faris Qazwini	Mujmal Lugha	211038	FALSE
 0505Ghazali.KimiyaSacada.Shamela0009261-ara1	505	6	Ghazali :: al-Ġazālī :: Zayn al-Dīn Abū Ḥāmid Muḥammad b. Muḥammad b. Muḥammad b. Aḥmad al-Ġazālī al-Ṭūsī al-Nīsābūrī	Kimiya Sacada	3227	FALSE
 0350IbnIbrahimFarabi.MucjamDiwanAdab.Shamela0009263-ara1	350	4	Ibn Ibrahim Farabi	Mucjam Diwan Adab	198422	FALSE
@@ -3627,7 +3627,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0571IbnCasakir.ArbacunaMinMusawat.Shamela0009371-ara1	571	6	Ibn Casakir :: Ibn ʿAsākir ::  Abū al-Qāsim ʿAlī b. al-Ḥasan b. Hibaŧ Allāh b. ʿAbd Allāh al-Šāfiʿī	Arbacuna Min Musawat	19739	FALSE
 0576AbuTahirSilafi.ArbacunaBuldaniyya.Shamela0009372-ara1	576	6	Abu Tahir Silafi	Arbacuna Buldaniyya	4511	FALSE
 0816AbuBakrMaraghi.ArbacunaMinMacali.Shamela0009375-ara1	816	9	Abu Bakr Maraghi	Arbacuna Min Macali	9082	FALSE
-0600IbnCumarShaficiNaysaburi.ArbacunaMinMasanid.Shamela0009376-ara1	600	6	Ibn Cumar Shafici Naysaburi	Arbacuna Min Masanid	9003	FALSE
+0600IbnCumarShaficiNaysaburi.ArbacunaMinMasanid.Shamela0009376-ara1	600	7	Ibn Cumar Shafici Naysaburi	Arbacuna Min Masanid	9003	FALSE
 0852IbnHajarCasqalani.AmaliHalabiyya.Shamela0009377-ara1	852	9	Ibn Hajar Casqalani :: Ibn ḥaǧar al-ʿAsqalānī :: Šihāb al-dīn Abū al-faḍl Aḥmad b. ʿAlī b. Muḥammad b. ḥaǧar al-ʿAsqalānī, al-Šāfiʿī	Amali Halabiyya	3752	FALSE
 0909IbnCabdHadi.IsticanaCalaFatiha.Shamela0009378-ara1	909	10	Ibn Cabd Hadi	Isticana Cala Fatiha	824	FALSE
 0597IbnJawzi.BirrWaSila.Shamela0009379-ara1	597	6	Ibn Jawzi	Birr Wa Sila	41878	FALSE
@@ -3637,7 +3637,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0643DiyaDinMuqaddasi.Cudda.Shamela0009385-ara1	643	7	Diya Din Muqaddasi	Cudda	9757	FALSE
 0909IbnCabdHadi.CasharaMinMarwiyyatSalih.Shamela0009387-ara1	909	10	Ibn Cabd Hadi	Cashara Min Marwiyyat Salih	1477	FALSE
 0650RashidDinDimashqi.MashyakhaBaghdadiyya.Shamela0009389-ara1	650	7	Rashid Din Dimashqi	Mashyakha Baghdadiyya	20265	FALSE
-0600CabdGhaniMuqaddasi.TahrimQatl.Shamela0009390-ara1	600	6	Cabd Ghani Muqaddasi	Tahrim Qatl	10814	FALSE
+0600CabdGhaniMuqaddasi.TahrimQatl.Shamela0009390-ara1	600	7	Cabd Ghani Muqaddasi	Tahrim Qatl	10814	FALSE
 0490IbnIbrahimNabulusi.TahrimNikahMutca.Shamela0009391-ara1	490	5	Ibn Ibrahim Nabulusi	Tahrim Nikah Mutca	13932	FALSE
 0842IbnNasirDinDimashqi.TanwirFikra.Shamela0009393-ara1	842	9	Ibn Nasir Din Dimashqi	Tanwir Fikra	3556	FALSE
 0514IbnAhmadIsbahaniJarkani.Juz.Shamela0009394-ara1	514	6	Ibn Ahmad Isbahani Jarkani	Juz	1494	FALSE
@@ -3664,7 +3664,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0581AbuMusaMadini.DhikrIbnMandah.Shamela0009523-ara1	581	6	Abu Musa Madini	Dhikr Ibn Mandah	7583	FALSE
 0842IbnNasirDinDimashqi.CarfCanbar.Shamela0009539-ara1	842	9	Ibn Nasir Din Dimashqi	Carf Canbar	4305	FALSE
 0175LaythIbnSacd.CasharatAhadith.Shamela0009556-ara1	175	2	Layth Ibn Sacd	Casharat Ahadith	772	FALSE
-0600CabdGhaniMuqaddasi.FadailShahrRamadan.Shamela0009561-ara1	600	6	Cabd Ghani Muqaddasi	Fadail Shahr Ramadan	8010	FALSE
+0600CabdGhaniMuqaddasi.FadailShahrRamadan.Shamela0009561-ara1	600	7	Cabd Ghani Muqaddasi	Fadail Shahr Ramadan	8010	FALSE
 0305IbnZakariyaMutarriz.Fawaid.Shamela0009563-ara1	305	4	Ibn Zakariya Mutarriz	Fawaid	6848	FALSE
 0390IbnAkhiMimiDaqqaq.Fawaid.Shamela0009564-ara1	390	4	Ibn Akhi Mimi Daqqaq	Fawaid	40971	FALSE
 0807NurDinHaythami.GhayatMaqsad.Shamela0009567-ara1	807	9	Nur Din Haythami	Ghayat Maqsad	321128	FALSE
@@ -3787,11 +3787,11 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0761IbnKaykaldiCalai.Tanbihat.Shamela0010322-ara1	761	8	Ibn Kaykaldi Calai	Tanbihat	17784	FALSE
 0860ShihabUbbadhi.HududFiCilmNahw.Shamela0010340-ara1	860	9	Shihab Ubbadhi	Hudud Fi Cilm Nahw	6534	FALSE
 1324IbnNasifNasraniYaziji.NujcatRaid.Shamela0010426-ara1	1324	14	Ibn Nasif Nasrani Yaziji	Nujcat Raid	68294	FALSE
-0500Anonymous.MajmucatRasailJahiz.Shamela0010428BK1-ara1	500	5	Anonymous	Majmucat Rasail Jahiz	90124	FALSE
+0500Anonymous.MajmucatRasailJahiz.Shamela0010428BK1-ara1	500	6	Anonymous	Majmucat Rasail Jahiz	90124	FALSE
 0255Jahiz.Nabita.Shamela0010428BK13-ara1	255	3	Jahiz :: al-ǧāḥiẓ ::  abū ʿuthmān ʿamrů b. baḥr al-fuqāmī al-baṣrī	Nabita	2356	FALSE
 0255Jahiz.Qiyan.Shamela0010428BK16-ara1	255	3	Jahiz :: al-ǧāḥiẓ ::  abū ʿuthmān ʿamrů b. baḥr al-fuqāmī al-baṣrī	Qiyan	5618	FALSE
 0255Jahiz.HaninIlaAwtan.Shamela0010428BK19-ara1	255	3	Jahiz :: al-ǧāḥiẓ ::  abū ʿuthmān ʿamrů b. baḥr al-fuqāmī al-baṣrī	al-Ḥanīn ilá al-awṭān ::	3148	FALSE
-0400CubaydAllahIbnHassan.MajmucatMukhtaratRasailJahiz.Shamela0010428BK2-ara1	400	4	Cubayd Allah Ibn Hassan	Majmucat Mukhtarat Rasail Jahiz	81016	FALSE
+0400CubaydAllahIbnHassan.MajmucatMukhtaratRasailJahiz.Shamela0010428BK2-ara1	400	5	Cubayd Allah Ibn Hassan	Majmucat Mukhtarat Rasail Jahiz	81016	FALSE
 0255Jahiz.Nisa.Shamela0010428BK25-ara1	255	3	Jahiz :: al-ǧāḥiẓ ::  abū ʿuthmān ʿamrů b. baḥr al-fuqāmī al-baṣrī	Nisa	2818	FALSE
 0255Jahiz.HujajNubuwwa.Shamela0010428BK27-ara1	255	3	Jahiz :: al-ǧāḥiẓ ::  abū ʿuthmān ʿamrů b. baḥr al-fuqāmī al-baṣrī	Hujaj Nubuwwa	9116	FALSE
 0255Jahiz.KhalqQuran.Shamela0010428BK28-ara1	255	3	Jahiz :: al-ǧāḥiẓ ::  abū ʿuthmān ʿamrů b. baḥr al-fuqāmī al-baṣrī	Khalq Quran	2432	FALSE
@@ -3818,7 +3818,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0371AhmadJurjani.IctiqadAimmatHadith.Shamela0010472-ara1	371	4	Ahmad Jurjani	Ictiqad Aimmat Hadith	2442	FALSE
 1205MurtadaZabidi.Amali.Shamela0010479-ara1	1205	13	Murtada Zabidi	Amali	18093	FALSE
 0643DiyaDinMuqaddasi.AhadithMukhatara.Shamela0010480-ara1	643	7	Diya Din Muqaddasi	Ahadith Mukhatara	595389	FALSE
-0600CabdGhaniMuqaddasi.Tawakkul.Shamela0010482-ara1	600	6	Cabd Ghani Muqaddasi	Tawakkul	5982	FALSE
+0600CabdGhaniMuqaddasi.Tawakkul.Shamela0010482-ara1	600	7	Cabd Ghani Muqaddasi	Tawakkul	5982	FALSE
 0911Suyuti.AlfiyyaFiCilmHadith.Shamela0010483-ara1	911	10	Suyuti :: Ǧalāl al-Dīn al-Suyūṭī :: Ǧalāl al-Dīn  ʿAbd al-Raḥmān b. Kamāl al-Dīn Abī Bakr b. Muḥammad Sābiq al-Dīn Ḫiḍr al-Ḫuḍayrī al-Asyūṭī	Alfiyya Fi Cilm Hadith	9314	FALSE
 0367IbnAhmadDhuhli.Juz.Shamela0010485-ara1	367	4	Ibn Ahmad Dhuhli	Juz	1150	FALSE
 0373AbuLaythSamarqandi.TanbihGhafilin.Shamela0010488-ara1	373	4	Abu Layth Samarqandi	Tanbih Ghafilin	142033	FALSE
@@ -3829,7 +3829,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0255Jahiz.Bukhala.Shamela0010501-ara1	255	3	Jahiz :: al-ǧāḥiẓ ::  abū ʿuthmān ʿamrů b. baḥr al-fuqāmī al-baṣrī	al-buḫlāʾ ::	52890	FALSE
 0255Jahiz.Bighal.Shamela0010506-ara1	255	3	Jahiz :: al-ǧāḥiẓ ::  abū ʿuthmān ʿamrů b. baḥr al-fuqāmī al-baṣrī	kitāb al-baġāl ::	17444	FALSE
 0285IbnYazidMubarrad.Fadil.Shamela0010508-ara1	285	3	Ibn Yazid Mubarrad :: Ibn Yazīd al-Mubarrad ::  Abū l-ʿAbbās Muḥammad b. Yazīd b. ʿAbd al-Akbar b. ʿUmayr b. Ḥasān b. Salīm b. Saʿd¶    b. ʿAbdallāh b. Zayd b. Mālik b. al-Ḥāriṯ b. ʿĀmir b. ʿAbdallāh b. Bilāl b. ʿAwf¶    b. Aslam b. Kaʿb b. al-Ḥāriṯ b. Kaʿb b. ʿAbdallāh b. Mālik b. al-Naḍr b. al-Azad¶    b. al-Ġawṯ al-Azdī al-Ṯimālī al-Mubarrad	Fadil	21170	FALSE
-0500AbuNasrMaqdisi.LataifWaZaraif.Shamela0010509-ara1	500	5	Abu Nasr Maqdisi	al-Laṭāʾif wa al-ẓarāʾif :: al-Laṭāʾif wa al-ẓarāʾif wa-al-Yawāqīt fī baʿḍ al-mawāqīt	40224	FALSE
+0500AbuNasrMaqdisi.LataifWaZaraif.Shamela0010509-ara1	500	6	Abu Nasr Maqdisi	al-Laṭāʾif wa al-ẓarāʾif :: al-Laṭāʾif wa al-ẓarāʾif wa-al-Yawāqīt fī baʿḍ al-mawāqīt	40224	FALSE
 0940IbnQasimMuhyiDinAmasi.RawdAkhyar.Shamela0010512-ara1	940	10	Ibn Qasim Muhyi Din Amasi	Rawd Akhyar	84387	FALSE
 0489IbnFadlIsbahani.FawaidCawali.Shamela0010514-ara1	489	5	Ibn Fadl Isbahani	Fawaid Cawali	5130	FALSE
 1450MusaCaffana.Fatawa.Shamela0010517-ara1	1450	15	Musa Caffana	Fatawa	900268	FALSE
@@ -3841,7 +3841,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0544QadiCiyad.MashariqAnwar.Shamela0010527-ara1	544	6	Qadi Ciyad :: al-Qāḍī ʿIyāḍ ::  Abū al-Faḍl ʿIyāḍ b. Mūsá b. ʿIyāḍ al-Yaḥṣubī al-Sabtī	Mashariq Anwar	413017	FALSE
 0395AbuHilalCaskari.Awail.Shamela0010529-ara1	395	4	Abu Hilal Caskari	Awail	78879	FALSE
 0335Suli.AkhbarRadi.Shamela0010532-ara1	335	4	Suli :: al-Ṣūlī ::  Abū Bakr Muḥammad b. Yaḥyá b. al-ʿAbbās b. Muḥammad b. Ṣūl	Akhbar Radi	159178	FALSE
-0400ZaydIbnRifaca.Amthal.Shamela0010533-ara1	400	4	Zayd Ibn Rifaca	Amthal	33949	FALSE
+0400ZaydIbnRifaca.Amthal.Shamela0010533-ara1	400	5	Zayd Ibn Rifaca	Amthal	33949	FALSE
 0255Jahiz.BursanWaCurjan.Shamela0010538-ara1	255	3	Jahiz :: al-ǧāḥiẓ ::  abū ʿuthmān ʿamrů b. baḥr al-fuqāmī al-baṣrī	kitāb al-burṣān wa-l-ʿurǧān wa-l-ʿumyān wa-l-ḥulān ::	50365	FALSE
 1332IbnMuhammadJamalDinQasimi.IslahMasajid.Shamela0010541-ara1	1332	14	Ibn Muhammad Jamal Din Qasimi	Islah Masajid	62701	FALSE
 0392IbnJinniMawsili.Munsif.Shamela0010545-ara1	392	4	Ibn Jinni Mawsili :: Ibn Ǧinnī ::  Abū al-Fatḥ ʿUṯmān b. Ǧinnī b. Ǧinnī al-Azdī al-Mawṣilī	Munsif	84672	FALSE
@@ -3935,7 +3935,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 1244IbnHamadAlMucammar.MinhatQaribMujib.Shamela0010895-ara1	1244	13	Ibn Hamad Al Mucammar	Minhat Qarib Mujib	72014	FALSE
 0398AbuNasrKalabadhi.HidayaWaIrshad.Shamela0010902-ara1	398	4	Abu Nasr Kalabadhi	Hidaya Wa Irshad	87137	FALSE
 0748Dhahabi.SiyarAclamNubala.Shamela0010906-ara1	748	8	Dhahabi :: al-Ḏahabī :: Šams al-dīn Abū ʿAbd Allãh Muḥammad b. ʿUṯmān b. Qāymāẓ b. ʿAbd Allãh al-Turkumānī, al-Fāriqī, al-Dimašqī, al-Šāfiʿī, al-Muʾarriḫ,¶    al-Ḥāfiẓ,¶  al-Ḏahabī	Siyar aʿlām al-nubalāʾ	2211262	TRUE
-0500IbnCabdAllahQadiTanukhi.Qawafi.Shamela0010911-ara1	500	5	Ibn Cabd Allah Qadi Tanukhi	Qawafi	9232	FALSE
+0500IbnCabdAllahQadiTanukhi.Qawafi.Shamela0010911-ara1	500	6	Ibn Cabd Allah Qadi Tanukhi	Qawafi	9232	FALSE
 1061NajmDinGhazzi.KawakibSaira.Shamela0010912-ara1	1061	11	Najm Din Ghazzi :: Naǧm al-Dīn Muḥammad al-Ġazzī :: Naǧm al-Dīn  Muḥammad b. Badr al-Dīn Muḥammad b. Raḍī al-Dīn Muḥammad b.¶    Šihāb al-Dīn Aḥmad al-Ġazzī al-Qurayšī al-Dimašqī	al-Kawākib al-Sāʾiraŧ bi-aʿyān al-miʾaŧ al-ʿāširaŧ :: al-Kawākib al-Sāʾiraŧ bi-aʿyān al-miʾaŧ al-ʿāširaŧ	240763	FALSE
 0370IbnBishrAmidi.MutalifWaMukhtalif.Shamela0010913-ara1	370	4	Ibn Bishr Amidi	Mutalif Wa Mukhtalif	50254	FALSE
 0542IbnMunjibTajRiyasaIbnSayrafi.MukhtarMinShicr.Shamela0010914-ara1	542	6	Ibn Munjib Taj Riyasa Ibn Sayrafi	Mukhtar Min Shicr	7488	FALSE
@@ -3994,7 +3994,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0728IbnTaymiyya.SharhHadithNuzul.Shamela0011258-ara1	728	8	Ibn Taymiyya	Sharh Hadith Nuzul	52537	FALSE
 0330Sirafi.Rihla.Shamela0011269-ara1	330	4	Sirafi	Rihla	19989	FALSE
 1225IbnNasirNajdi.RasailFiqhiyya.Shamela0011276-ara1	1225	13	Ibn Nasir Najdi	Rasail Fiqhiyya	14531	FALSE
-0600CabdGhaniMuqaddasi.Caqida.Shamela0011279-ara1	600	6	Cabd Ghani Muqaddasi	Caqida	10917	FALSE
+0600CabdGhaniMuqaddasi.Caqida.Shamela0011279-ara1	600	7	Cabd Ghani Muqaddasi	Caqida	10917	FALSE
 0728IbnTaymiyya.QacidaJamicaFiTawhid.Shamela0011285-ara1	728	8	Ibn Taymiyya	Qacida Jamica Fi Tawhid	9443	FALSE
 0728IbnTaymiyya.QacidaFiInghimas.Shamela0011288-ara1	728	8	Ibn Taymiyya	Qacida Fi Inghimas	5893	FALSE
 0728IbnTaymiyya.QacidaMukhtaciraFiWujubTaca.Shamela0011290-ara1	728	8	Ibn Taymiyya	Qacida Mukhtacira Fi Wujub Taca	5085	FALSE
@@ -4045,7 +4045,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 1206IbnCaliSabbanShafici.HashiyaCalaSharhAshmuni.Shamela0011539-ara1	1206	13	Ibn Cali Sabban Shafici	Hashiya Cala Sharh Ashmuni	525099	FALSE
 0471CabdQahirJurjani.MiftahFiSarf.Shamela0011562-ara1	471	5	Cabd Qahir Jurjani	Miftah Fi Sarf	9269	FALSE
 0845Maqrizi.Mawaciz.Shamela0011566-ara1	845	9	Maqrizi :: al-Maqrīzī :: Taqī al-dīn Abū al-ʿAbbās Aḥmad b. ʿAlī b. ʿAbd al-Qādir al-ʿUbaydī, al-Maqrīzī	Mawaciz	680682	FALSE
-0400IshaqMunajjim.AkamMarjan.Shamela0011568-ara1	400	4	Ishaq Munajjim	Akam Marjan	9361	FALSE
+0400IshaqMunajjim.AkamMarjan.Shamela0011568-ara1	400	5	Ishaq Munajjim	Akam Marjan	9361	FALSE
 0744IbnCabdHadi.TacliqaCalaCilal.Shamela0011569-ara1	744	8	Ibn Cabd Hadi	Tacliqa Cala Cilal	46009	FALSE
 1206IbnCabdWahhab.MasailLakhkhasahaIbnCabdWahhab.Shamela0011572-ara1	1206	13	Ibn Cabd Wahhab	Masail Lakhkhasaha Ibn Cabd Wahhab	41763	FALSE
 1285IbnHasanAlShaykh.MasailWaFatawaNajdiyya.Shamela0011573-ara1	1285	13	Ibn Hasan Al Shaykh	Masail Wa Fatawa Najdiyya	25176	FALSE
@@ -4057,12 +4057,12 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0346Istakhri.MasalikWaMamalik.Shamela0011680-ara1	346	4	Istakhri :: al-Iṣṭaḫrī ::  Abū Isḥāq Ibrāhīm b. Muḥammad al-Fārisī al-Iṣṭaḫrī	Kitāb al-Masālik wa-al-mamālik ::	66657	FALSE
 0569BinyaminTutili.Rihla.Shamela0011681-ara1	569	6	Binyamin Tutili	Rihla	46593	FALSE
 0776LisanDinIbnKhatib.Ihata.Shamela0011682-ara1	776	8	Lisan Din Ibn Khatib	Ihata	436542	FALSE
-0600KatibMarrakushi.Istibsar.Shamela0011684-ara1	600	6	Katib Marrakushi	Istibsar	56763	FALSE
+0600KatibMarrakushi.Istibsar.Shamela0011684-ara1	600	7	Katib Marrakushi	Istibsar	56763	FALSE
 0365IbnFaqihHamadhani.Buldan.Shamela0011685-ara1	365	4	Ibn Faqih Hamadhani	Buldan	144966	FALSE
 0347IbnYunusSadafi.Tarikh.Shamela0011686-ara1	347	4	Ibn Yunus Sadafi :: Ibn Yūnus al-Ṣadafī ::  Abū Saʿīd ʿAbd al-Raḥmãn b. Aḥmad b. Yūnus b. ʿAbd al-Aʿlá al-Ṣadafī, al-Miṣrī	Tārīḫ Ibn Yūnus al-Ṣadafī	153145	FALSE
 0433IbnCaliHarawi.IsfarFasih.Shamela0011724-ara1	433	5	Ibn Cali Harawi	Isfar Fasih	80687	FALSE
 0911Suyuti.Itqan.Shamela0011728-ara1	911	10	Suyuti :: Ǧalāl al-Dīn al-Suyūṭī :: Ǧalāl al-Dīn  ʿAbd al-Raḥmān b. Kamāl al-Dīn Abī Bakr b. Muḥammad Sābiq al-Dīn Ḫiḍr al-Ḫuḍayrī al-Asyūṭī	Itqan	241417	FALSE
-0900IbnMuhammadNurDinAshmuni.SharhCalaAlfiyyatMalik.Shamela0011742-ara1	900	9	Ibn Muhammad Nur Din Ashmuni	Sharh Cala Alfiyyat Malik	165962	FALSE
+0900IbnMuhammadNurDinAshmuni.SharhCalaAlfiyyatMalik.Shamela0011742-ara1	900	10	Ibn Muhammad Nur Din Ashmuni	Sharh Cala Alfiyyat Malik	165962	FALSE
 0637IbnMustawfi.TarikhIrbil.Shamela0011746-ara1	637	7	Ibn Mustawfi :: Ibn al-Mustawfī :: Šaraf al-dīn, Abū al-barakāt  al-Mubārak b. Aḥmad b. al-Mubārak b. Mawhūb al-Laḫmī, al-irbilī	Tārīḫ Irbil :: Nabāhaŧ al-balad al-ḫāmil bi-man waradahu min al-amāṯil	345463	FALSE
 0715RuknDinAstarabadhi.SharhShafiya.Shamela0011750-ara1	715	8	Rukn Din Astarabadhi	Sharh Shafiya	116677	FALSE
 1356MustafaSadiqRafici.WahyQalam.Shamela0011755-ara1	1356	14	Mustafa Sadiq Rafici	Wahy Qalam	278216	FALSE
@@ -4076,14 +4076,14 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0367IbnHawqal.SuratArd.Shamela0011780-ara1	367	4	Ibn Hawqal :: Ibn Ḥawqal ::  Abū al-Qāsim Muḥammad b. Ḥawqal al-Naṣībī	Kitāb Ṣūraŧ al-arḍ ::	118188	FALSE
 1345IbnJacfarKattani.RisalatMusalsalat.Shamela0011781-ara1	1345	14	Ibn Jacfar Kattani	Risalat Musalsalat	5888	FALSE
 0695IbnCidhariMarrakushi.BayanMaghrib.Shamela0011782-ara1	695	7	Ibn Cidhari Marrakushi	Bayan Maghrib	151827	FALSE
-0200YahyaIbnSalam.Tasarif.Shamela0011783-ara1	200	2	Yahya Ibn Salam	Tasarif	43041	FALSE
+0200YahyaIbnSalam.Tasarif.Shamela0011783-ara1	200	3	Yahya Ibn Salam	Tasarif	43041	FALSE
 0380Muhallabi.MasalikWaMamalik.Shamela0011785-ara1	380	4	Muhallabi	Masalik Wa Mamalik	17018	FALSE
 0884AbuDharrSibtIbnCajami.KunuzDhahab.Shamela0011786-ara1	884	9	Abu Dharr Sibt Ibn Cajami	Kunuz Dhahab	159422	FALSE
 0560SharifIdrisi.NuzhatMushtaq.Shamela0011787-ara1	560	6	Sharif Idrisi	Nuzhat Mushtaq	189565	FALSE
 1351IbnHusaynGhazzi.NahrDhahab.Shamela0011788-ara1	1351	14	Ibn Husayn Ghazzi	Nahr Dhahab	415110	FALSE
 0615MuwaffaqDinShafici.MurshidZuwwar.Shamela0011789-ara1	615	7	Muwaffaq Din Shafici	Murshid Zuwwar	153420	FALSE
 0911Suyuti.FadlThughrIskandariyya.Shamela0011797-ara1	911	10	Suyuti :: Ǧalāl al-Dīn al-Suyūṭī :: Ǧalāl al-Dīn  ʿAbd al-Raḥmān b. Kamāl al-Dīn Abī Bakr b. Muḥammad Sābiq al-Dīn Ḫiḍr al-Ḫuḍayrī al-Asyūṭī	Fadl Thughr Iskandariyya	6500	FALSE
-0300IbnKhurdadhbih.MasalikWaMamalik.Shamela0011800-ara1	300	3	Ibn Khurdadhbih	Masalik Wa Mamalik	40295	FALSE
+0300IbnKhurdadhbih.MasalikWaMamalik.Shamela0011800-ara1	300	4	Ibn Khurdadhbih	Masalik Wa Mamalik	40295	FALSE
 0709IbnAbiFathShamsDinBacli.MatlacCalaAbwabMuqnic.Shamela0011809-ara1	709	8	Ibn Abi Fath Shams Din Bacli	Matlac Cala Abwab Muqnic	87641	FALSE
 0548IbnCabdKarimShahrastani.MilalWaNihal.Shamela0011812-ara1	548	6	Ibn Cabd Karim Shahrastani	Kitāb al-Milal wa-al-Niḥal ::	117899	FALSE
 0728IbnTaymiyya.MusawwadaFiUsulFiqh.Shamela0011814-ara1	728	8	Ibn Taymiyya	Musawwada Fi Usul Fiqh	131277	FALSE
@@ -4093,7 +4093,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0776LisanDinIbnKhatib.MicyarIkhtiyar.Shamela0011940-ara1	776	8	Lisan Din Ibn Khatib	Micyar Ikhtiyar	20892	FALSE
 1231IbnMuhammadHanafiTahtawi.HashiyaCalaMaraqi.Shamela0011993-ara1	1231	13	Ibn Muhammad Hanafi Tahtawi	Hashiya Cala Maraqi	327033	FALSE
 0911Suyuti.TarikhKhulafa.Shamela0011997-ara1	911	10	Suyuti :: Ǧalāl al-Dīn al-Suyūṭī :: Ǧalāl al-Dīn  ʿAbd al-Raḥmān b. Kamāl al-Dīn Abī Bakr b. Muḥammad Sābiq al-Dīn Ḫiḍr al-Ḫuḍayrī al-Asyūṭī	Tarikh Khulafa	131955	FALSE
-1300CabdHadiIbnMuhammadCujayli.TahqiqTajrid.Shamela0012001-ara1	1300	13	Cabd Hadi Ibn Muhammad Cujayli	Tahqiq Tajrid	49493	FALSE
+1300CabdHadiIbnMuhammadCujayli.TahqiqTajrid.Shamela0012001-ara1	1300	14	Cabd Hadi Ibn Muhammad Cujayli	Tahqiq Tajrid	49493	FALSE
 0668IbnHusaynJacfariHashimi.Takhjil.Shamela0012002-ara1	668	7	Ibn Husayn Jacfari Hashimi	Takhjil	124810	FALSE
 0620IbnQudamaMaqdisi.RawdatNazir.Shamela0012010-ara1	620	7	Ibn Qudama Maqdisi	Rawdat Nazir	94285	FALSE
 0676Nawawi.RiyadSalihin.Shamela0012014-ara1	676	7	Nawawi :: al-Nawawī :: Muḥyī al-dīn Abū Zakariyyā Yaḥyá b. Šaraf b. Murī b. Ḥasan b. Ḥusayn b. Muḥammad b. Ǧumʿaŧ b. Ḥizām al-Ḥizāmī, al-Dimašqī	Riyāḍ al-ṣāliḥīn	121747	FALSE
@@ -4129,7 +4129,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0852IbnHajarCasqalani.ItrafMusnadMuctali.Shamela0012220-ara1	852	9	Ibn Hajar Casqalani :: Ibn ḥaǧar al-ʿAsqalānī :: Šihāb al-dīn Abū al-faḍl Aḥmad b. ʿAlī b. Muḥammad b. ḥaǧar al-ʿAsqalānī, al-Šāfiʿī	Itraf Musnad Muctali	607451	FALSE
 0279Baladhuri.FutuhBuldan.Shamela0012221-ara1	279	3	Baladhuri :: Balāḏurī ::  Abū al-Ḥasan Aḥmad b. Yaḥyá b. Jābir b. Dāwůd	Futūḥ al-buldān	117671	FALSE
 0207Waqidi.Ridda.Shamela0012222-ara1	207	3	Waqidi :: al-Wāqidī ::   Muḥammad b. ʿAmr b. Wāqid al-Sahmī al-Islāmī	kitāb al-riddŧ :: al-riddŧ	35253	FALSE
-0300Anonymous.AkhbarDawlaCabbasiyya.Shamela0012226-ara1	300	3	Anonymous	Akhbar Dawla Cabbasiyya	76966	FALSE
+0300Anonymous.AkhbarDawlaCabbasiyya.Shamela0012226-ara1	300	4	Anonymous	Akhbar Dawla Cabbasiyya	76966	FALSE
 0970IbnIbrahimIbnNujaymMisri.BahrRaiq.Shamela0012227BK1-ara1	970	10	Ibn Ibrahim Ibn Nujaym Misri	Bahr Raiq	2249767	TRUE
 1252IbnCabidinDimashqi.MinhatKhaliq.Shamela0012227BK2-ara1	1252	13	Ibn Cabidin Dimashqi	Minhat Khaliq	526603	FALSE
 1396KhayrDinZirikli.Aclam.Shamela0012286-ara1	1396	14	Khayr Din Zirikli	Aclam	1148274	TRUE
@@ -4137,7 +4137,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0580IbnCimrani.InbaFiTarikhKhulafa.Shamela0012289-ara1	580	6	Ibn Cimrani :: Ibn al-ʿImrānī ::   Muḥammad b. ʿAlī b. Muḥammad	al-Inbāʾ fī taʾrīḫ al-ḫulafāʾ :: al-Inbāʾ fī taʾrīḫ al-ḫulafāʾ	85478	FALSE
 1421MuhammadCuthaymin.MajmucFatawa.Shamela0012293-ara1	1421	15	Muhammad Cuthaymin	Majmuc Fatawa	1986194	TRUE
 0562Samcani.Ansab.Shamela0012317-ara1	562	6	Samcani	Ansab	834050	FALSE
-0400IbnTahirMaqdisi.BadWaTarikh.Shamela0012318-ara1	400	4	Ibn Tahir Maqdisi	Bad Wa Tarikh	190956	FALSE
+0400IbnTahirMaqdisi.BadWaTarikh.Shamela0012318-ara1	400	5	Ibn Tahir Maqdisi	Bad Wa Tarikh	190956	FALSE
 0808IbnKhaldun.Tarikh.Shamela0012320-ara1	808	9	Ibn Khaldun	Tarikh	1459114	TRUE
 0685IbnCibri.TarikhMukhtasarDuwal.Shamela0012348-ara1	685	7	Ibn Cibri	Tarikh Mukhtasar Duwal	95922	FALSE
 0421Miskawayh.Tajarib.Shamela0012396-ara1	421	5	Miskawayh	Tajarib	664757	FALSE
@@ -4168,7 +4168,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0852IbnHajarCasqalani.RafcIsr.Shamela0012724-ara1	852	9	Ibn Hajar Casqalani :: Ibn ḥaǧar al-ʿAsqalānī :: Šihāb al-dīn Abū al-faḍl Aḥmad b. ʿAlī b. Muḥammad b. ḥaǧar al-ʿAsqalānī, al-Šāfiʿī	Rafʿ al-iṣr ʿan quḍāŧ Miṣr	121946	FALSE
 1031CabdRaufMunawi.IthafSail.Shamela0012731-ara1	1031	11	Cabd Rauf Munawi	Ithaf Sail	8928	FALSE
 0643DiyaDinMuqaddasi.NahyCanSabbAshab.Shamela0012735-ara1	643	7	Diya Din Muqaddasi	Nahy Can Sabb Ashab	10945	FALSE
-0600CabdGhaniMuqaddasi.DhikrNar.Shamela0012736-ara1	600	6	Cabd Ghani Muqaddasi	Dhikr Nar	12301	FALSE
+0600CabdGhaniMuqaddasi.DhikrNar.Shamela0012736-ara1	600	7	Cabd Ghani Muqaddasi	Dhikr Nar	12301	FALSE
 0986IbnCaliFattani.TadhkiratMawducat.Shamela0012738-ara1	986	10	Ibn Cali Fattani	Tadhkirat Mawducat	67746	FALSE
 0281IbnAbiDunya.MuhasabatNafs.Shamela0012739-ara1	281	3	Ibn Abi Dunya :: Ibn Abī al-Dunyā :: al-Ḥāfiẓ Abū Bakr ʿAbd Allāh b. Muḥammad b. ʿUbayd b. Sufyān b. Qays al-Baġdādī, al-Umawī, al-Qurašī	Muḥāsabaŧ al-nafs wa-l-izrāʾ ʿalayhā	9441	FALSE
 0643DiyaDinMuqaddasi.SifatJanna.Shamela0012740-ara1	643	7	Diya Din Muqaddasi	Sifat Janna	16466	FALSE
@@ -4197,7 +4197,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0742Mizzi.MuntaqaMinFawaid.Shamela0012846-ara1	742	8	Mizzi	Muntaqa Min Fawaid	3176	FALSE
 0636IbnAbiMucammarAbuKhayrTabrizi.NasihaLiRaci.Shamela0012847-ara1	636	7	Ibn Abi Mucammar Abu Khayr Tabrizi	Nasiha Li Raci	14245	FALSE
 0280IbnTayfur.BallaghatNisa.Shamela0012848-ara1	280	3	Ibn Tayfur	Ballaghat Nisa	53231	FALSE
-0200YahyaIbnSalam.Tafsir.Shamela0012851-ara1	200	2	Yahya Ibn Salam	Tafsir	148011	FALSE
+0200YahyaIbnSalam.Tafsir.Shamela0012851-ara1	200	3	Yahya Ibn Salam	Tafsir	148011	FALSE
 0408IbnCabdCazizTaymi.JuzHadith.Shamela0012852-ara1	408	5	Ibn Cabd Caziz Taymi	Juz Hadith	5437	FALSE
 0649ibnCabdAllahMuzaffariShafici.Juz.Shamela0012855-ara1	649	7	ibn Cabd Allah Muzaffari Shafici	Juz	2804	FALSE
 0515CumarKhayyam.Rubaciyyat.Shamela0012857-ara1	515	6	Cumar Khayyam	Rubaciyyat	7429	FALSE
@@ -4323,7 +4323,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0794BadrDinZarkashi.ManthurFiQawacid.Shamela0021592-ara1	794	8	Badr Din Zarkashi	Manthur Fi Qawacid	185541	FALSE
 0794BadrDinZarkashi.BahrMuhit.Shamela0021593-ara1	794	8	Badr Din Zarkashi	Bahr Muhit	668033	FALSE
 0799IbnFarhun.TabsiratHukkam.Shamela0021595-ara1	799	8	Ibn Farhun	Tabsirat Hukkam	250056	FALSE
-0800IbnCaliYamaniZabidi.JawharaNayyira.Shamela0021596-ara1	800	8	Ibn Cali Yamani Zabidi	Jawhara Nayyira	384495	FALSE
+0800IbnCaliYamaniZabidi.JawharaNayyira.Shamela0021596-ara1	800	9	Ibn Cali Yamani Zabidi	Jawhara Nayyira	384495	FALSE
 1189CaliCadawi.HashiyatCadawi.Shamela0021597-ara1	1189	12	Cali Cadawi	Hashiyat Cadawi	646507	FALSE
 1204SulaymanJamal.Hashiya.Shamela0021598-ara1	1204	13	Sulayman Jamal	Hashiya	2230762	TRUE
 1221IbnMuhammadBujayrimiMisri.TuhfatHabib.Shamela0021599-ara1	1221	13	Ibn Muhammad Bujayrimi Misri	Tuhfat Habib	1209937	TRUE
@@ -4355,7 +4355,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 1031CabdRaufMunawi.FaydQadir.Shamela0021660-ara1	1031	11	Cabd Rauf Munawi	Fayd Qadir	1670878	TRUE
 0460IbnFadlIsbahani.Amali.Shamela0021664-ara1	460	5	Ibn Fadl Isbahani	Amali	1858	FALSE
 0277IbnSufyanFasawi.Mashyakha.Shamela0021670-ara1	277	3	Ibn Sufyan Fasawi :: b. sufyān al-fasawī :: al-ḥāfiẓ abū yūsuf yaʿqūb b. sufyān b. ḥawān al-fārsī al-fasawī	mašayḫŧ ::	15861	FALSE
-0400IbnMuhammadLihyani.Hadith.Shamela0021672-ara1	400	4	Ibn Muhammad Lihyani	Hadith	4812	FALSE
+0400IbnMuhammadLihyani.Hadith.Shamela0021672-ara1	400	5	Ibn Muhammad Lihyani	Hadith	4812	FALSE
 0524IbnAhmadIbnAkfaniDimashqi.Hadith.Shamela0021673-ara1	524	6	Ibn Ahmad Ibn Akfani Dimashqi	Hadith	2265	FALSE
 0249CabdIbnHamid.MinCawaliMusnad.Shamela0021676-ara1	249	3	Cabd Ibn Hamid	Min Cawali Musnad	3380	FALSE
 1243IbnSacdRahyabaniSuyuti.MatalibUliNuha.Shamela0021677-ara1	1243	13	Ibn Sacd Rahyabani Suyuti	Matalib Uli Nuha	1063300	TRUE
@@ -4579,7 +4579,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 1343MustafaManfaluti.Cibarat.Shamela0026382-ara1	1343	14	Mustafa Manfaluti	Cibarat	37657	FALSE
 0334IbnSacidQushayri.TarikhRaqqa.Shamela0026383-ara1	334	4	Ibn Sacid Qushayri	Tarikh Raqqa	17062	FALSE
 0771Subki.MucjamShuyukh.Shamela0026389-ara1	771	8	Subki	Mucjam Shuyukh	116404	FALSE
-0600CabdGhaniMuqaddasi.AkhbarSalat.Shamela0026390-ara1	600	6	Cabd Ghani Muqaddasi	Akhbar Salat	12605	FALSE
+0600CabdGhaniMuqaddasi.AkhbarSalat.Shamela0026390-ara1	600	7	Cabd Ghani Muqaddasi	Akhbar Salat	12605	FALSE
 0414IbnHasanGhadairi.Juz.Shamela0026395-ara1	414	5	Ibn Hasan Ghadairi	Juz	3495	FALSE
 0489IbnHasanBaqillaniBaghdadi.IctiqadQadiri.Shamela0026421-ara1	489	5	Ibn Hasan Baqillani Baghdadi	Ictiqad Qadiri	9781	FALSE
 0578IbnBashkuwal.AtharMarwiyya.Shamela0026426-ara1	578	6	Ibn Bashkuwal	Athar Marwiyya	12608	FALSE
@@ -4681,7 +4681,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0597IbnJawzi.TanbihNaim.Shamela0026678-ara1	597	6	Ibn Jawzi	Tanbih Naim	2261	FALSE
 0311IbnKhuzaymaNaysaburi.Fawaid.Shamela0026680-ara1	311	4	Ibn Khuzayma Naysaburi	Fawaid	1327	FALSE
 0571IbnCasakir.DhammMalahi.Shamela0026707-ara1	571	6	Ibn Casakir :: Ibn ʿAsākir ::  Abū al-Qāsim ʿAlī b. al-Ḥasan b. Hibaŧ Allāh b. ʿAbd Allāh al-Šāfiʿī	Dhamm Malahi	1849	FALSE
-0600CabdGhaniMuqaddasi.MinManaqibNisaSahabiyyat.Shamela0026710-ara1	600	6	Cabd Ghani Muqaddasi	Min Manaqib Nisa Sahabiyyat	2599	FALSE
+0600CabdGhaniMuqaddasi.MinManaqibNisaSahabiyyat.Shamela0026710-ara1	600	7	Cabd Ghani Muqaddasi	Min Manaqib Nisa Sahabiyyat	2599	FALSE
 0444AbuCamrDani.RisalaWafiya.Shamela0026713-ara1	444	5	Abu Camr Dani	Risala Wafiya	15485	FALSE
 0258AhmadIbnFurat.JuzCawali.Shamela0026716-ara1	258	3	Ahmad Ibn Furat	Juz Cawali	1086	FALSE
 0571IbnCasakir.FadilatDhikrAllah.Shamela0026719-ara1	571	6	Ibn Casakir :: Ibn ʿAsākir ::  Abū al-Qāsim ʿAlī b. al-Ḥasan b. Hibaŧ Allāh b. ʿAbd Allāh al-Šāfiʿī	Fadilat Dhikr Allah	2019	FALSE
@@ -4699,7 +4699,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0360Tabarani.ZiyadatFiJudWaSakha.Shamela0026743-ara1	360	4	Tabarani	Ziyadat Fi Jud Wa Sakha	6147	FALSE
 0146MajacaIbnZubayr.MinHadith.Shamela0026745-ara1	146	2	Majaca Ibn Zubayr	Min Hadith	6161	FALSE
 0562IbnHasanIsbahaniThaqafi.CarusAjza.Shamela0026746-ara1	562	6	Ibn Hasan Isbahani Thaqafi	Carus Ajza	6838	FALSE
-0600CabdGhaniMuqaddasi.HadithIfk.Shamela0026747-ara1	600	6	Cabd Ghani Muqaddasi	Hadith Ifk	5826	FALSE
+0600CabdGhaniMuqaddasi.HadithIfk.Shamela0026747-ara1	600	7	Cabd Ghani Muqaddasi	Hadith Ifk	5826	FALSE
 0463KhatibBaghdadi.CawaliMalik.Shamela0026750-ara1	463	5	Khatib Baghdadi :: al-Ḫaṭīb al-Baġdādī ::  Abū Bakr Aḥmad b. ʿAlī b. Ṯābit b. Aḥmad b. Mahdī al-Šāfiʿī, al-Baġdādī	Cawali Malik	1666	FALSE
 0246HishamSulami.CawaliMalik.Shamela0026754-ara1	246	3	Hisham Sulami	Cawali Malik	1286	FALSE
 0439IbnMuhammadKhallal.AkhbarThuqala.Shamela0026758-ara1	439	5	Ibn Muhammad Khallal	Akhbar Thuqala	1176	FALSE
@@ -4731,7 +4731,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0581AbuMusaMadini.Lataif.Shamela0026878-ara1	581	6	Abu Musa Madini	Lataif	121209	FALSE
 0311AbuBakrKhallal.WuqufWaTarajjul.Shamela0026883-ara1	311	4	Abu Bakr Khallal	Wuquf Wa Tarajjul	30819	FALSE
 0535QawwamSunna.TarghibWaTarhib.Shamela0026884-ara1	535	6	Qawwam Sunna :: Qawwām al-Sunnaŧ :: Qawwām al-Sunnaŧ Abū al-Qāsim Ismāʿīl b. Muḥammad b. al-Faḍl b. ʿAlī b. Ṭāhir b. Aḥmad al-Qurašī al-Tayyamī thumma al- al-Iṣbahānī al-Ṭalḥī	Targhib Wa Tarhib	224234	FALSE
-0500IbnMuhammadKhatibBushanji.Juz.Shamela0026886-ara1	500	5	Ibn Muhammad Khatib Bushanji	Juz	3024	FALSE
+0500IbnMuhammadKhatibBushanji.Juz.Shamela0026886-ara1	500	6	Ibn Muhammad Khatib Bushanji	Juz	3024	FALSE
 0124IbnShihabZuhri.TanzilQuran.Shamela0026887-ara1	124	2	Ibn Shihab Zuhri	Tanzil Quran	3736	FALSE
 0395IbnMandahMuhammad.Asami.Shamela0026889-ara1	395	4	Ibn Mandah Muhammad	Asami	3510	FALSE
 0748Dhahabi.IthbatShafaca.Shamela0026890-ara1	748	8	Dhahabi :: al-Ḏahabī :: Šams al-dīn Abū ʿAbd Allãh Muḥammad b. ʿUṯmān b. Qāymāẓ b. ʿAbd Allãh al-Turkumānī, al-Fāriqī, al-Dimašqī, al-Šāfiʿī, al-Muʾarriḫ,¶    al-Ḥāfiẓ,¶  al-Ḏahabī	Ithbat Shafaca	7024	FALSE
@@ -4749,7 +4749,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0710IbnIbrahimShamsDinSuruji.NafahatNasamat.Shamela0026925-ara1	710	8	Ibn Ibrahim Shams Din Suruji	Nafahat Nasamat	1186	FALSE
 0486IbnAhmadHakkari.HadiyyatAhya.Shamela0026926-ara1	486	5	Ibn Ahmad Hakkari	Hadiyyat Ahya	4686	FALSE
 0245MuhammadIbnHabib.UmmahatNabi.Shamela0026929-ara1	245	3	Muhammad Ibn Habib :: muḥammad  b. ḥabīb al-baġdādī ::  abū ǧaʿfar muḥammad b. ḥabīb al-baġdādī	Ummahat Nabi	1012	FALSE
-0900IbnMuhammadBurhanDinQabibati.TacliqRashiq.Shamela0026961-ara1	900	9	Ibn Muhammad Burhan Din Qabibati	Tacliq Rashiq	2054	FALSE
+0900IbnMuhammadBurhanDinQabibati.TacliqRashiq.Shamela0026961-ara1	900	10	Ibn Muhammad Burhan Din Qabibati	Tacliq Rashiq	2054	FALSE
 0576AbuTahirSilafi.AhadithCidiyya.Shamela0026985-ara1	576	6	Abu Tahir Silafi	Ahadith Cidiyya	2507	FALSE
 0444AbuCamrDani.FarqBaynaDaWaZa.Shamela0026988-ara1	444	5	Abu Camr Dani	Farq Bayna Da Wa Za	12239	FALSE
 1118IbnMuhammadNuriSafaqsi.GhaythNafc.Shamela0027083-ara1	1118	12	Ibn Muhammad Nuri Safaqsi	Ghayth Nafc	128954	FALSE
@@ -4759,7 +4759,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0576AbuTahirSilafi.RihlaIlaAbhar.Shamela0027087-ara1	576	6	Abu Tahir Silafi	Rihla Ila Abhar	2055	FALSE
 0842IbnNasirDinDimashqi.MajlisFiKhatmKitabShifa.Shamela0027088-ara1	842	9	Ibn Nasir Din Dimashqi	Majlis Fi Khatm Kitab Shifa	1599	FALSE
 0458Bayhaqi.RisalaIlaJuwayni.Shamela0027089-ara1	458	5	Bayhaqi :: al-Bayhaqī ::  Abū-Bakr Aḥmad b. al-Ḥusayn b. ʿAlī b. Mūsá al-Bayhaqī, al-Ḫusrawǧirdī	Risala Ila Juwayni	4701	FALSE
-0900IbnMuhammadBurhanDinQabibati.Risala.Shamela0027090-ara1	900	9	Ibn Muhammad Burhan Din Qabibati	Risala	1532	FALSE
+0900IbnMuhammadBurhanDinQabibati.Risala.Shamela0027090-ara1	900	10	Ibn Muhammad Burhan Din Qabibati	Risala	1532	FALSE
 0329IbnAhmadRabaci.Juz.Shamela0027091-ara1	329	4	Ibn Ahmad Rabaci	Juz	5355	FALSE
 0607IbnTabarzad.JuzShurut.Shamela0027092-ara1	607	7	Ibn Tabarzad	Ǧuzʾ fīhi šurūṭ amīr al-muʾminīn ʿUmar b.al-Ḫaṭṭāb¶    wa-fīhi ḥadīṯ wāṣil al-dimašqī wa-munāẓarātuhu la-hum riwāyat Abī ʿAmr¶    wa-ʿUṯmān b. Aḥmad al-Sammāk :: Ǧuzʾ fīhi šurūṭ amīr al-muʾminīn ʿUmar b.al-Ḫaṭṭāb¶    wa-fīhi ḥadīṯ wāṣil al-dimašqī wa-munāẓarātuhu la-hum riwāyat Abī ʿAmr¶    wa-ʿUṯmān b. Aḥmad al-Sammāk	2189	FALSE
 0392IbnIsmacilMisri.CuqalaMajanin.Shamela0027093-ara1	392	4	Ibn Ismacil Misri	Cuqala Majanin	2955	FALSE
@@ -4917,7 +4917,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0611IbnMufaddalMuqaddasi.AhadithMuqtabasa.Shamela0030243-ara1	611	7	Ibn Mufaddal Muqaddasi	Ahadith Muqtabasa	2846	FALSE
 0702IbnDaqiqCidQushayri.ArbacunaHadithanTusaciyatIsnad.Shamela0030246-ara1	702	8	Ibn Daqiq Cid Qushayri	Arbacuna Hadithan Tusaciyat Isnad	4797	FALSE
 0842IbnNasirDinDimashqi.AhadithArbacuna.Shamela0030248-ara1	842	9	Ibn Nasir Din Dimashqi	Ahadith Arbacuna	4849	FALSE
-0600CabdGhaniMuqaddasi.FadailCumarIbnKhattab.Shamela0030266-ara1	600	6	Cabd Ghani Muqaddasi	Fadail Cumar Ibn Khattab	5713	FALSE
+0600CabdGhaniMuqaddasi.FadailCumarIbnKhattab.Shamela0030266-ara1	600	7	Cabd Ghani Muqaddasi	Fadail Cumar Ibn Khattab	5713	FALSE
 0852IbnHajarCasqalani.MucjamShaykhaMaryam.Shamela0030267Vols-ara1	852	9	Ibn Hajar Casqalani :: Ibn ḥaǧar al-ʿAsqalānī :: Šihāb al-dīn Abū al-faḍl Aḥmad b. ʿAlī b. Muḥammad b. ḥaǧar al-ʿAsqalānī, al-Šāfiʿī	Mucjam Shaykha Maryam	30609	FALSE
 0852IbnHajarCasqalani.MarhamaGhaythiyya.Shamela0030287-ara1	852	9	Ibn Hajar Casqalani :: Ibn ḥaǧar al-ʿAsqalānī :: Šihāb al-dīn Abū al-faḍl Aḥmad b. ʿAlī b. Muḥammad b. ḥaǧar al-ʿAsqalānī, al-Šāfiʿī	Marhama Ghaythiyya	8496	FALSE
 0909IbnCabdHadi.Nujat.Shamela0030291-ara1	909	10	Ibn Cabd Hadi	Nujat	2632	FALSE
@@ -4926,14 +4926,14 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0854IbnDiyaMakki.Juz.Shamela0030306-ara1	854	9	Ibn Diya Makki	Juz	2810	FALSE
 0128IbnAbiHabibMisri.AhadithYazid.Shamela0030310-ara1	128	2	Ibn Abi Habib Misri	Ahadith Yazid	5108	FALSE
 0909IbnCabdHadi.JamcJuyushWaDasakir.Shamela0030312-ara1	909	10	Ibn Cabd Hadi	Jamc Juyush Wa Dasakir	25916	FALSE
-0600CabdGhaniMuqaddasi.ZawajAbiCasBiZaynab.Shamela0030314-ara1	600	6	Cabd Ghani Muqaddasi	Zawaj Abi Cas Bi Zaynab	2344	FALSE
+0600CabdGhaniMuqaddasi.ZawajAbiCasBiZaynab.Shamela0030314-ara1	600	7	Cabd Ghani Muqaddasi	Zawaj Abi Cas Bi Zaynab	2344	FALSE
 0911Suyuti.Cushariyyat.Shamela0030315-ara1	911	10	Suyuti :: Ǧalāl al-Dīn al-Suyūṭī :: Ǧalāl al-Dīn  ʿAbd al-Raḥmān b. Kamāl al-Dīn Abī Bakr b. Muḥammad Sābiq al-Dīn Ḫiḍr al-Ḫuḍayrī al-Asyūṭī	Cushariyyat	2137	FALSE
 0620IbnQudamaMaqdisi.FadlYawmTarwiyya.Shamela0030317-ara1	620	7	Ibn Qudama Maqdisi	Fadl Yawm Tarwiyya	3720	FALSE
 0581AbuMusaMadini.Amali.Shamela0030324-ara1	581	6	Abu Musa Madini	Amali	1550	FALSE
 0733IbnJamacaBadrDinHamawi.Mashyakha.Shamela0030327-ara1	733	8	Ibn Jamaca Badr Din Hamawi	Mashyakha	73993	FALSE
 0492AbuHasanKhulci.MuntaqaMinKhulciyyat.Shamela0030340-ara1	492	5	Abu Hasan Khulci	Muntaqa Min Khulciyyat	7075	FALSE
 0748Dhahabi.MawducatMustadrak.Shamela0030341-ara1	748	8	Dhahabi :: al-Ḏahabī :: Šams al-dīn Abū ʿAbd Allãh Muḥammad b. ʿUṯmān b. Qāymāẓ b. ʿAbd Allãh al-Turkumānī, al-Fāriqī, al-Dimašqī, al-Šāfiʿī, al-Muʾarriḫ,¶    al-Ḥāfiẓ,¶  al-Ḏahabī	Mawducat Mustadrak	4658	FALSE
-0600CabdGhaniMuqaddasi.AhadithJamacili.Shamela0030346-ara1	600	6	Cabd Ghani Muqaddasi	Ahadith Jamacili	4680	FALSE
+0600CabdGhaniMuqaddasi.AhadithJamacili.Shamela0030346-ara1	600	7	Cabd Ghani Muqaddasi	Ahadith Jamacili	4680	FALSE
 0909IbnCabdHadi.IkhtilafBaynaRuwatBukhari.Shamela0030358-ara1	909	10	Ibn Cabd Hadi	Ikhtilaf Bayna Ruwat Bukhari	15932	FALSE
 0385Daraqutni.FawaidMuntaqatIbnMacruf.Shamela0030361-ara1	385	4	Daraqutni :: al-Dāraquṭnī ::  Abū al-Ḥasan ʿAlī b. ʿUmar b. Aḥmad b. Mahdī b. Masʿūd b. al-Nuʿmān b.¶    Dīnār b. ʿAbd Allāh al-Dāraquṭnī	al-Fawāʾid al-muntaqāŧ al-ḥisān li-Ibn Maʿrūf ::	2024	FALSE
 0627ZaynUmanaIbnCasakir.FawaidMuntaqatDhuhli.Shamela0030375-ara1	627	7	Zayn Umana Ibn Casakir :: Zayn al-Umanāʾ Ibn ʿAsākir :: Zayn al-Umanāʾ Abū al-Barakāt al-Ḥasan b. Muḥammad b. al-Ḥasan b. Hibaŧ Allāh Ibn ʿAsākir al-Dimašqī	Ǧuzʾ fīhi ʿašara aḥādīṯ muntaḫabaŧ min al-ǧuzʾ al-ṯāliṯ ʿašar min al-fawāʾid al-muntaqāŧ min al-uṣūl min ḥadīṯ al-qāḍī (...) al-ḏuhlī intiqāʾ al-Ḥāfiẓ (...) al-Dāraquṭnī	877	FALSE
@@ -4955,7 +4955,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0385Daraqutni.Afrad.Shamela0030609-ara1	385	4	Daraqutni :: al-Dāraquṭnī ::  Abū al-Ḥasan ʿAlī b. ʿUmar b. Aḥmad b. Mahdī b. Masʿūd b. al-Nuʿmān b.¶    Dīnār b. ʿAbd Allāh al-Dāraquṭnī	Afrad	4986	FALSE
 0576AbuTahirSilafi.MashyakhaBaghdadiyya.Shamela0030623Vols-ara1	576	6	Abu Tahir Silafi	Mashyakha Baghdadiyya	173929	FALSE
 0705SharafDinDimyatti.MucjamShuyukh.Shamela0030646-ara1	705	8	Sharaf Din Dimyatti	Mucjam Shuyukh	8973	FALSE
-0600CabdGhaniMuqaddasi.MisbahFiCuyunSihah.Shamela0030657-ara1	600	6	Cabd Ghani Muqaddasi	Misbah Fi Cuyun Sihah	9496	FALSE
+0600CabdGhaniMuqaddasi.MisbahFiCuyunSihah.Shamela0030657-ara1	600	7	Cabd Ghani Muqaddasi	Misbah Fi Cuyun Sihah	9496	FALSE
 0634AbuRabicHimyari.Musalsalat.Shamela0030665-ara1	634	7	Abu Rabic Himyari	Musalsalat	22498	FALSE
 0688IbnCabdRahimIbnKamalDinHanbali.MuntaqaMinSamacat.Shamela0030696-ara1	688	7	Ibn Cabd Rahim Ibn Kamal Din Hanbali	Muntaqa Min Samacat	2572	FALSE
 0705SharafDinDimyatti.Muwafaqiyyat.Shamela0030700-ara1	705	8	Sharaf Din Dimyatti	Muwafaqiyyat	4095	FALSE
@@ -5050,7 +5050,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0979IbnTurkiMaliki.KhulasatJawahirZakiyya.Shamela0037064-ara1	979	10	Ibn Turki Maliki	Khulasat Jawahir Zakiyya	7498	FALSE
 0465IbnHawazinQushayri.NahwQulub.Shamela0037067-ara1	465	5	Ibn Hawazin Qushayri	Nahw Qulub	1053	FALSE
 1450Maghrawi.MawsucatMawaqifSalaf.Shamela0037325-ara1	1450	15	Maghrawi	Mawsucat Mawaqif Salaf	929481	FALSE
-1000CabdBariAshmawi.MatnCashmawiyya.Shamela0037326-ara1	1000	10	Cabd Bari Ashmawi	Matn Cashmawiyya	3266	FALSE
+1000CabdBariAshmawi.MatnCashmawiyya.Shamela0037326-ara1	1000	11	Cabd Bari Ashmawi	Matn Cashmawiyya	3266	FALSE
 0441IbnIflili.SharhShicrMutanabbi.Shamela0037327-ara1	441	5	Ibn Iflili	Sharh Shicr Mutanabbi	78456	FALSE
 0794BadrDinZarkashi.ZahrCarishFiTahrimHashish.Shamela0037338-ara1	794	8	Badr Din Zarkashi	Zahr Carish Fi Tahrim Hashish	2996	FALSE
 0769IbnLuluShihabDinIbnNaqibShafici.CumdatSalik.Shamela0037344-ara1	769	8	Ibn Lulu Shihab Din Ibn Naqib Shafici	Cumdat Salik	40733	FALSE
@@ -5077,7 +5077,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0764Safadi.LawcatShaki.Shamela0037494-ara1	764	8	Safadi :: al-ṣafadī :: Ṣalāḥ al-dīn Abū al-Ṣafāʾ Ḫalīl b. Aybak al-ṣafadī	Lawcat Shaki	13787	FALSE
 0553BayanHaqqNaysaburi.BahirBurhan.Shamela0037538-ara1	553	6	Bayan Haqq Naysaburi	Bahir Burhan	82399	FALSE
 0225PseudoIbnMuqaffac.AdabSaghir.Shamela0037540-ara1	225	3	Pseudo Ibn Muqaffac	Adab Saghir	7546	FALSE
-0800CabdHaqqMaghribiSabti.HusamMamdud.Shamela0037541-ara1	800	8	Cabd Haqq Maghribi Sabti	Husam Mamdud	6990	FALSE
+0800CabdHaqqMaghribiSabti.HusamMamdud.Shamela0037541-ara1	800	9	Cabd Haqq Maghribi Sabti	Husam Mamdud	6990	FALSE
 0817MajdDinFiruzabadi.RaddCalaRafida.Shamela0037554-ara1	817	9	Majd Din Firuzabadi	Radd Cala Rafida	5720	FALSE
 1014MullaCaliQari.ShammCawarid.Shamela0037559-ara1	1014	11	Mulla Cali Qari	Shamm Cawarid	18220	FALSE
 0395AbuHilalCaskari.WujuhWaNazair.Shamela0037586-ara1	395	4	Abu Hilal Caskari	Wujuh Wa Nazair	67130	FALSE
@@ -5095,7 +5095,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 1450SalahMahmudKhaymi.FihrisZahiriyyaCulumQuran.Shamela0038011-ara1	1450	15	Salah Mahmud Khaymi	Fihris Zahiriyya Culum Quran	237748	FALSE
 1422MuhammadSalimMuhaysin.MucjamHuffazQuran.Shamela0038067-ara1	1422	15	Muhammad Salim Muhaysin	Mucjam Huffaz Quran	164476	FALSE
 0938IbnQasimSirajDinNashshar.Mukarrar.Shamela0038080-ara1	938	10	Ibn Qasim Siraj Din Nashshar	Mukarrar	98434	FALSE
-1100IbnCabdKarimAshmuniMisri.ManarHuda.Shamela0038091-ara1	1100	11	Ibn Cabd Karim Ashmuni Misri	Manar Huda	189440	FALSE
+1100IbnCabdKarimAshmuniMisri.ManarHuda.Shamela0038091-ara1	1100	12	Ibn Cabd Karim Ashmuni Misri	Manar Huda	189440	FALSE
 0816IbnMuhammadSharifJurjani.Nahw.Shamela0038149-ara1	816	9	Ibn Muhammad Sharif Jurjani	Nahw	7638	FALSE
 0728IbnTaymiyya.RisalaFiFadlKhulafaRashidin.Shamela0038157-ara1	728	8	Ibn Taymiyya	Risala Fi Fadl Khulafa Rashidin	2466	FALSE
 0911Suyuti.MarasidMatalic.Shamela0038158-ara1	911	10	Suyuti :: Ǧalāl al-Dīn al-Suyūṭī :: Ǧalāl al-Dīn  ʿAbd al-Raḥmān b. Kamāl al-Dīn Abī Bakr b. Muḥammad Sābiq al-Dīn Ḫiḍr al-Ḫuḍayrī al-Asyūṭī	Marasid Matalic	1712	FALSE
@@ -5103,7 +5103,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 1265IbnCumarCalawiHadrami.SuyufBawatir.Shamela0038162-ara1	1265	13	Ibn Cumar Calawi Hadrami	Suyuf Bawatir	33780	FALSE
 0470IbnMalikYamani.KashfAsrarBatiniyya.Shamela0038186-ara1	470	5	Ibn Malik Yamani	Kashf Asrar Batiniyya	8825	FALSE
 0346AsammNaysaburi.Majmuc.Shamela0038194-ara1	346	4	Asamm Naysaburi	Majmuc	36010	FALSE
-0600CabdGhaniMuqaddasi.NihayatMurad.Shamela0038202-ara1	600	6	Cabd Ghani Muqaddasi	Nihayat Murad	28386	FALSE
+0600CabdGhaniMuqaddasi.NihayatMurad.Shamela0038202-ara1	600	7	Cabd Ghani Muqaddasi	Nihayat Murad	28386	FALSE
 0857MuhibbDinNuwayri.SharhTayyibatNashr.Shamela0038740-ara1	857	9	Muhibb Din Nuwayri	Sharh Tayyibat Nashr	253563	FALSE
 0792IbnCabdAllahRimiSardafi.MacaniBadica.Shamela0095560-ara1	792	8	Ibn Cabd Allah Rimi Sardafi	Macani Badica	252143	FALSE
 0893IbnIsmacilShihabDinKurani.GhayatAmani.Shamela0095562-ara1	893	9	Ibn Ismacil Shihab Din Kurani	Ghayat Amani	60750	FALSE
@@ -5162,7 +5162,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0911Suyuti.CuqudJuman.Shamela0097803-ara1	911	10	Suyuti :: Ǧalāl al-Dīn al-Suyūṭī :: Ǧalāl al-Dīn  ʿAbd al-Raḥmān b. Kamāl al-Dīn Abī Bakr b. Muḥammad Sābiq al-Dīn Ḫiḍr al-Ḫuḍayrī al-Asyūṭī	Cuqud Juman	11554	FALSE
 1319IbnYasinLabadiNabulusi.HashiyatCalaNaylMaarib.Shamela0097809-ara1	1319	14	Ibn Yasin Labadi Nabulusi	Hashiyat Cala Nayl Maarib	112914	FALSE
 0543IbnCarabiIshbili.QanunTawil.Shamela0097927-ara1	543	6	Ibn Carabi Ishbili	Qanun Tawil	103602	FALSE
-0900IbnMuhammadBurhanDinQabibati.CajalatImla.Shamela0097928-ara1	900	9	Ibn Muhammad Burhan Din Qabibati	Cajalat Imla	156040	FALSE
+0900IbnMuhammadBurhanDinQabibati.CajalatImla.Shamela0097928-ara1	900	10	Ibn Muhammad Burhan Din Qabibati	Cajalat Imla	156040	FALSE
 0689AhmadIbnCabdRahmanIbnQudama.MukhtasarMinhajQasidin.Shamela0098087-ara1	689	7	Ahmad Ibn Cabd Rahman Ibn Qudama	Mukhtasar Minhaj Qasidin	106506	FALSE
 0672IbnMalikJayyaniTai.ShawahidTawdih.Shamela0098123-ara1	672	7	Ibn Malik Jayyani Tai	Shawahid Tawdih	35275	FALSE
 1373AbuYaclaZuwawi.TarikhZuwawa.Shamela0115130-ara1	1373	14	Abu Yacla Zuwawi	Tarikh Zuwawa	33414	FALSE
@@ -5184,7 +5184,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0792AbuSakinCamirShammakhi.MatnDiyanat.ShamIbadiyya0000056-ara1	792	8	Abu Sakin Camir Shammakhi	Matn Diyanat	822	FALSE
 1332QutbAtfayyish.HujjaFiBayanMahajja.ShamIbadiyya0000057-ara1	1332	14	Qutb Atfayyish	Hujja Fi Bayan Mahajja	3847	FALSE
 1332QutbAtfayyish.LamTacrifIbadiyyaYaCuqbaYaJazairi.ShamIbadiyya0000066-ara1	1332	14	Qutb Atfayyish	Lam Tacrif Ibadiyya Ya Cuqba Ya Jazairi	43513	FALSE
-1200CabdAllahIbnBashirHadrami.KawkabDurri.ShamIbadiyya0000074-ara1	1200	12	Cabd Allah Ibn Bashir Hadrami	Kawkab Durri	543391	FALSE
+1200CabdAllahIbnBashirHadrami.KawkabDurri.ShamIbadiyya0000074-ara1	1200	13	Cabd Allah Ibn Bashir Hadrami	Kawkab Durri	543391	FALSE
 1207SacidKindi.TafsirMuyassar.ShamIbadiyya0000075-ara1	1207	13	Sacid Kindi	Tafsir Muyassar	303583	FALSE
 1332NurDinSalimi.Jawabat.ShamIbadiyya0000095-ara1	1332	14	Nur Din Salimi	Jawabat	545769	FALSE
 0275LawwabIbnSallam.BidIslam.ShamIbadiyya0000099-ara1	275	3	Lawwab Ibn Sallam	Bid Islam	12764	FALSE
@@ -5226,8 +5226,8 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 1361SacidIbnNasirGhaythi.IdahTawhid.ShamIbadiyya0000279-ara1	1361	14	Sacid Ibn Nasir Ghaythi	Idah Tawhid	196853	FALSE
 1332NurDinSalimi.TuhfatAcyan.ShamIbadiyya0000281-ara1	1332	14	Nur Din Salimi	Tuhfat Acyan	160132	FALSE
 0750IsmacilJaytali.AdabMutacallim.ShamIbadiyya0000292-ara1	750	8	Ismacil Jaytali	Adab Mutacallim	1597	FALSE
-0800AbuHafsCamrIbnJamic.CaqidatTawhid.ShamIbadiyya0000313-ara1	800	8	Abu Hafs Camr Ibn Jamic	Caqidat Tawhid	15590	FALSE
-0300Anonymous.AjwibatCulamaFazzan.ShamIbadiyya0000319-ara1	300	3	Anonymous	Ajwibat Culama Fazzan	16200	FALSE
+0800AbuHafsCamrIbnJamic.CaqidatTawhid.ShamIbadiyya0000313-ara1	800	9	Abu Hafs Camr Ibn Jamic	Caqidat Tawhid	15590	FALSE
+0300Anonymous.AjwibatCulamaFazzan.ShamIbadiyya0000319-ara1	300	4	Anonymous	Ajwibat Culama Fazzan	16200	FALSE
 1385AbuIshaqIbrahimAtfayyish.DacayaIlaSabilMuminin.ShamIbadiyya0000379-ara1	1385	14	Abu Ishaq Ibrahim Atfayyish	Dacaya Ila Sabil Muminin	31348	FALSE
 1332NurDinSalimi.BadhlMajhud.ShamIbadiyya0000391-ara1	1332	14	Nur Din Salimi	Badhl Majhud	12962	FALSE
 1393IbrahimAbuYaqzan.HikmatTashricIslami.ShamIbadiyya0000399-ara1	1393	14	Ibrahim Abu Yaqzan	Hikmat Tashric Islami	6654	FALSE
@@ -5268,8 +5268,8 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0570AbuCammarCabdKafiIbadi.Mujaz.ShamIbadiyya0000730-ara1	570	6	Abu Cammar Cabd Kafi Ibadi	Mujaz	112660	FALSE
 0510CawtabiSuhari.Diya.ShamIbadiyya0000760-ara1	510	6	Cawtabi Suhari :: al-ʿAwtabī, al-Ṣuḥārī ::   Salamaŧ b. Muslim b. Ibrāhīm al-ʿAwtabī al-Ṣuḥārī al-Azdī	Diya	390968	FALSE
 0462AbuSulaymanDawudWarjalani.Jamic.ShamIbadiyya0000769-ara1	462	5	Abu Sulayman Dawud Warjalani	Jamic	33197	FALSE
-1300MansurKharusi.SharhLamiyaIbnNadrKitabHajj.ShamIbadiyya0000771-ara1	1300	13	Mansur Kharusi :: Manṣūr al-Ḫarūṣī ::   Manṣūr b. Muḥammad b. Nāṣir b. Ḫamīs b. Mubārak al-Ḫarūṣī	Sharh Lamiya Ibn Nadr Kitab Hajj	108257	FALSE
-0200AbuGhanimKhurasani.MudawwanaSughra.ShamIbadiyya0000772-ara1	200	2	Abu Ghanim Khurasani	Mudawwana Sughra	20185	FALSE
+1300MansurKharusi.SharhLamiyaIbnNadrKitabHajj.ShamIbadiyya0000771-ara1	1300	14	Mansur Kharusi :: Manṣūr al-Ḫarūṣī ::   Manṣūr b. Muḥammad b. Nāṣir b. Ḫamīs b. Mubārak al-Ḫarūṣī	Sharh Lamiya Ibn Nadr Kitab Hajj	108257	FALSE
+0200AbuGhanimKhurasani.MudawwanaSughra.ShamIbadiyya0000772-ara1	200	3	Abu Ghanim Khurasani	Mudawwana Sughra	20185	FALSE
 1223DiyaDinThamini.TajManzur.ShamIbadiyya0000773-ara1	1223	13	Diya Din Thamini	Taj Manzur	786551	FALSE
 0362IbnBaraka.Tacaruf.ShamIbadiyya0000782-ara1	362	4	Ibn Baraka	Tacaruf	16982	FALSE
 0250AflahIbnCabdWahhab.Jawabat.ShamIbadiyya0000784-ara1	250	3	Aflah Ibn Cabd Wahhab	Jawabat	13785	FALSE
@@ -5316,7 +5316,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0573IbnHibatAllahQutbDinRawandi.Dacawat.Shia000047-ara1	573	6	Ibn Hibat Allah Qutb Din Rawandi	Dacawat	70537	FALSE
 0585IbnCaliIbnZuhraHalabi.GhunyatNuzuc.Shia000048-ara1	585	6	Ibn Cali Ibn Zuhra Halabi	Ghunyat Nuzuc	109707	FALSE
 0598IbnIdrisHilli.Sarair.Shia000049Vols-ara1	598	6	Ibn Idris Hilli	Sarair	513213	FALSE
-0600IbnHasabAbuMajdHalabi.IsharatSabq.Shia000052-ara1	600	6	Ibn Hasab Abu Majd Halabi	Isharat Sabq	31338	FALSE
+0600IbnHasabAbuMajdHalabi.IsharatSabq.Shia000052-ara1	600	7	Ibn Hasab Abu Majd Halabi	Isharat Sabq	31338	FALSE
 0676IbnHasanMuhaqqiqHilli.RasailTisac.Shia000053-ara1	676	7	Ibn Hasan Muhaqqiq Hilli	Rasail Tisac	71773	FALSE
 0676IbnHasanMuhaqqiqHilli.MukhtasarNafic.Shia000054-ara1	676	7	Ibn Hasan Muhaqqiq Hilli	Mukhtasar Nafic	65872	FALSE
 0676IbnHasanMuhaqqiqHilli.MuctabarFiSharhMukhtasar.Shia000055Vols-ara1	676	7	Ibn Hasan Muhaqqiq Hilli	Muctabar Fi Sharh Mukhtasar	323205	FALSE
@@ -5324,7 +5324,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0689IbnSacidYahyaHilli.JamicLiSharaic.Shia000061-ara1	689	7	Ibn Sacid Yahya Hilli	Jamic Li Sharaic	144989	FALSE
 0689IbnSacidYahyaHilli.NuzhatNazir.Shia000062-ara1	689	7	Ibn Sacid Yahya Hilli	Nuzhat Nazir	38344	FALSE
 0690IbnAbiTalibFadilYusufi.KashfRumuz.Shia000063Vols-ara1	690	7	Ibn Abi Talib Fadil Yusufi	Kashf Rumuz	243170	FALSE
-0700CaliIbnMuhammadSabzawariQummi.JamicKhilaf.Shia000065-ara1	700	7	Cali Ibn Muhammad Sabzawari Qummi	Jamic Khilaf	189499	FALSE
+0700CaliIbnMuhammadSabzawariQummi.JamicKhilaf.Shia000065-ara1	700	8	Cali Ibn Muhammad Sabzawari Qummi	Jamic Khilaf	189499	FALSE
 0726CallamaHilli.IrshadAdhhan.Shia000066Vols-ara1	726	8	Callama Hilli	Irshad Adhhan	151997	FALSE
 0726CallamaHilli.RisalaSacdiyya.Shia000068-ara1	726	8	Callama Hilli	Risala Sacdiyya	37258	FALSE
 0726CallamaHilli.TabsiratMutacallimin.Shia000069-ara1	726	8	Callama Hilli	Tabsirat Mutacallimin	43239	FALSE
@@ -5342,7 +5342,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0841JamalDinIbnFahdHilli.RasailCashar.Shia000125-ara1	841	9	Jamal Din Ibn Fahd Hilli	Rasail Cashar	82521	FALSE
 0841JamalDinIbnFahdHilli.MuhadhdhabBaric.Shia000126Vols-ara1	841	9	Jamal Din Ibn Fahd Hilli	Muhadhdhab Baric	647243	FALSE
 0855IbnTayyFaqacani.DurrMandud.Shia000131-ara1	855	9	Ibn Tayy Faqacani	Durr Mandud	47701	FALSE
-0900IbnAbiJumhurAhsai.AqtabFiqhiyya.Shia000132-ara1	900	9	Ibn Abi Jumhur Ahsai	Aqtab Fiqhiyya	34239	FALSE
+0900IbnAbiJumhurAhsai.AqtabFiqhiyya.Shia000132-ara1	900	10	Ibn Abi Jumhur Ahsai	Aqtab Fiqhiyya	34239	FALSE
 0940IbnHusaynMuhaqqiqThaniKaraki.Kharajiyyat.Shia000133-ara1	940	10	Ibn Husayn Muhaqqiq Thani Karaki	Kharajiyyat	19958	FALSE
 0726CallamaHilli.QawacidAhkam.Shia000134VolsBK1-ara1	726	8	Callama Hilli	Qawacid Ahkam	177270	FALSE
 0940IbnHusaynMuhaqqiqThaniKaraki.JamicMaqasid.Shia000134VolsBK2-ara1	940	10	Ibn Husayn Muhaqqiq Thani Karaki	Jamic Maqasid	NA	NA
@@ -5410,7 +5410,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 1337MuhammadKazimTabatabaiYazdi.MunjazatMarid.Shia000413-ara1	1337	14	Muhammad Kazim Tabatabai Yazdi	Munjazat Marid	36375	FALSE
 1450MuhammadJawahiri.MucjamTabaatIrth.Shia000695-ara1	1450	15	Muhammad Jawahiri	Mucjam Tabaat Irth	88576	FALSE
 1390MuhsinTabatabai.DalilNasik.Shia000715-ara1	1390	14	Muhsin Tabatabai	Dalil Nasik	125002	FALSE
-1400MuhammadBaqirSadr.FatawaWadiha.Shia000716-ara1	1400	14	Muhammad Baqir Sadr	Fatawa Wadiha	118249	FALSE
+1400MuhammadBaqirSadr.FatawaWadiha.Shia000716-ara1	1400	15	Muhammad Baqir Sadr	Fatawa Wadiha	118249	FALSE
 1413TajDinKhui.TakmilatMinhajSalihin.Shia000721-ara1	1413	15	Taj Din Khui	Takmilat Minhaj Salihin	31852	FALSE
 1413TajDinKhui.MinhajSalihin.Shia000723Vols-ara1	1413	15	Taj Din Khui	Minhaj Salihin	181049	FALSE
 1414MuhammadRidaGulpayagani.IrshadSail.Shia000726-ara1	1414	15	Muhammad Rida Gulpayagani	Irshad Sail	37919	FALSE
@@ -5442,12 +5442,12 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 1250CabdFattahHusayniMaraghi.Canawin.Shia001085Vols-ara1	1250	13	Cabd Fattah Husayni Maraghi	Canawin	293089	FALSE
 1323MuhammadCabduh.SharhNahjBalagha.Shia001107Vols-ara1	1323	14	Muhammad Cabduh	Sharh Nahj Balagha	146358	FALSE
 0094ZaynCabidin.SahifaSajjadiyya.Shia001112-ara1	94	1	Zayn Cabidin	al-Risālaŧ al-Sajjādiyyaŧ	26494	FALSE
-0200IbnJacfarSadiq.Masail.Shia001114-ara1	200	2	Ibn Jacfar Sadiq	Masail	61180	FALSE
+0200IbnJacfarSadiq.Masail.Shia001114-ara1	200	3	Ibn Jacfar Sadiq	Masail	61180	FALSE
 0274AhmadBarqi.Mahasin.Shia001115Vols-ara1	274	3	Ahmad Barqi	Mahasin	235239	FALSE
 0290IbnHasanSaffar.BasairDarajat.Shia001117-ara1	290	3	Ibn Hasan Saffar	Basair Darajat	152200	FALSE
-0300IbnCisaAshcari.Nawadir.Shia001118-ara1	300	3	Ibn Cisa Ashcari	Nawadir	53078	FALSE
-0300IbnJacfarHimyari.QurbIsnad.Shia001119-ara1	300	3	Ibn Jacfar Himyari	Qurb Isnad	95585	FALSE
-0300IbnSacidKufi.Mumin.Shia001120-ara1	300	3	Ibn Sacid Kufi	Mumin	20756	FALSE
+0300IbnCisaAshcari.Nawadir.Shia001118-ara1	300	4	Ibn Cisa Ashcari	Nawadir	53078	FALSE
+0300IbnJacfarHimyari.QurbIsnad.Shia001119-ara1	300	4	Ibn Jacfar Himyari	Qurb Isnad	95585	FALSE
+0300IbnSacidKufi.Mumin.Shia001120-ara1	300	4	Ibn Sacid Kufi	Mumin	20756	FALSE
 0329IbnBabawayh.ImamaWaTabsira.Shia001121-ara1	329	4	Ibn Babawayh	Imama Wa Tabsira	40415	FALSE
 0329IbnYacqubKulayni.Kafi.Shia001122Vols-ara1	329	4	Ibn Yacqub Kulayni	Kafi	1411044	TRUE
 0336IbnHumamIskafi.Tamhis.Shia001130-ara1	336	4	Ibn Humam Iskafi	Tamhis	19782	FALSE
@@ -5466,14 +5466,14 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0381IbnBabawayh.KamalDin.Shia001146-ara1	381	4	Ibn Babawayh :: Ibn Bābawayh, al-Šayḫ al-Ṣadūq ::  Abū Ǧaʿfar Muḥammad b. ʿAlī b. al-Ḥusayn b. Mūsā b. Bābawayh al-Qummī	Kamal Din	210744	FALSE
 0381IbnBabawayh.MacaniAkhbar.Shia001148-ara1	381	4	Ibn Babawayh :: Ibn Bābawayh, al-Šayḫ al-Ṣadūq ::  Abū Ǧaʿfar Muḥammad b. ʿAlī b. al-Ḥusayn b. Mūsā b. Bābawayh al-Qummī	Macani Akhbar	146153	FALSE
 0381IbnBabawayh.ManLaYahduruhuFaqih.Shia001149Vols-ara1	381	4	Ibn Babawayh :: Ibn Bābawayh, al-Šayḫ al-Ṣadūq ::  Abū Ǧaʿfar Muḥammad b. ʿAlī b. al-Ḥusayn b. Mūsā b. Bābawayh al-Qummī	Man La Yahduruhu Faqih	703717	FALSE
-0400IbnCaliHarrani.TuhafCuqul.Shia001153-ara1	400	4	Ibn Cali Harrani	Tuhaf Cuqul	159256	FALSE
-0400IbnMuhammadKhazzaz.KifayatAthar.Shia001154-ara1	400	4	Ibn Muhammad Khazzaz	Kifayat Athar	59023	FALSE
+0400IbnCaliHarrani.TuhafCuqul.Shia001153-ara1	400	5	Ibn Cali Harrani	Tuhaf Cuqul	159256	FALSE
+0400IbnMuhammadKhazzaz.KifayatAthar.Shia001154-ara1	400	5	Ibn Muhammad Khazzaz	Kifayat Athar	59023	FALSE
 0406SharifRadi.MajazatNabawiyya.Shia001155-ara1	406	5	Sharif Radi :: al-Šarīf al-Raḍī ::  Abū al-Ḥasan Muḥammad b. al-Ḥusayn b. Mūsá	Majazat Nabawiyya	90211	FALSE
 0406SharifRadi.KhasaisAimma.Shia001156-ara1	406	5	Sharif Radi :: al-Šarīf al-Raḍī ::  Abū al-Ḥasan Muḥammad b. al-Ḥusayn b. Mūsá	Khasais Aimma	26610	FALSE
 0460ShaykhTusi.Istibsar.Shia001157Vols-ara1	460	5	Shaykh Tusi :: al-Šayḫ al-Ṭūsī ::  Abū Ǧaʿfar Muḥammad b. al-Ḥasan b. ʿAlī al-Ṭūsī	Istibsar	458039	FALSE
 0460ShaykhTusi.TahdhibAhkam.Shia001161Vols-ara1	460	5	Shaykh Tusi :: al-Šayḫ al-Ṭūsī ::  Abū Ǧaʿfar Muḥammad b. al-Ḥasan b. ʿAlī al-Ṭūsī	Tahdhib Ahkam	1115403	TRUE
 0508FattalNaysaburi.RawdatWacizin.Shia001171-ara1	508	6	Fattal Naysaburi	Rawdat Wacizin	169925	FALSE
-0900IbnSulaymanHilli.MukhtasarBasair.Shia001172-ara1	900	9	Ibn Sulayman Hilli	Mukhtasar Basair	71807	FALSE
+0900IbnSulaymanHilli.MukhtasarBasair.Shia001172-ara1	900	10	Ibn Sulayman Hilli	Mukhtasar Basair	71807	FALSE
 1020IbnAhmadBadrDinCamiliHusayni.HashiyaCalaUsulKafi.Shia001173-ara1	1020	11	Ibn Ahmad Badr Din Camili Husayni	Hashiya Cala Usul Kafi	70288	FALSE
 1081MuhammadSalihMazandarani.SharhUsulKafi.Shia001174Vols-ara1	1081	11	Muhammad Salih Mazandarani	Sharh Usul Kafi	1847218	TRUE
 1082IbnHaydarRaficDinNaili.HashiyaCalaUsulKafi.Shia001186-ara1	1082	11	Ibn Haydar Rafic Din Naili	Hashiya Cala Usul Kafi	173085	FALSE
@@ -5486,14 +5486,14 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0203IbnSulaymanGhazi.MusnadRida.Shia001268-ara1	203	3	Ibn Sulayman Ghazi	Musnad Rida	34081	FALSE
 0260IbnShadhanAzdi.Idah.Shia001269-ara1	260	3	Ibn Shadhan Azdi	Idah	191461	FALSE
 0283AbuIshaqThaqafi.Gharat.Shia001270Vols-ara1	283	3	Abu Ishaq Thaqafi	Gharat	311080	FALSE
-0300IbnSacidKufi.Zuhd.Shia001272-ara1	300	3	Ibn Sacid Kufi	Zuhd	42085	FALSE
-0300IbnSulaymanKufi.ManaqibImam.Shia001273Vols-ara1	300	3	Ibn Sulayman Kufi	Manaqib Imam	226555	FALSE
+0300IbnSacidKufi.Zuhd.Shia001272-ara1	300	4	Ibn Sacid Kufi	Zuhd	42085	FALSE
+0300IbnSulaymanKufi.ManaqibImam.Shia001273Vols-ara1	300	4	Ibn Sulayman Kufi	Manaqib Imam	226555	FALSE
 0322KatibBaghdadi.TarikhAimma.Shia001275-ara1	322	4	Katib Baghdadi	Tarikh Aimma	3584	FALSE
 0334IbnHamdanKhusaybi.HidayaKubra.Shia001276-ara1	334	4	Ibn Hamdan Khusaybi	Hidaya Kubra	110339	FALSE
 0363QadiNucman.SharhAkhbar.Shia001278Vols-ara1	363	4	Qadi Nucman	Sharh Akhbar	344552	FALSE
-0400IbnJarirTabariSaghir.Mustarshid.Shia001285-ara1	400	4	Ibn Jarir Tabari Saghir	Mustarshid	145565	FALSE
-0400IbnJarirTabariSaghir.DalailImama.Shia001286-ara1	400	4	Ibn Jarir Tabari Saghir	Dalail Imama	143719	FALSE
-0400IbnJarirTabariSaghir.NawadirMucjizat.Shia001287-ara1	400	4	Ibn Jarir Tabari Saghir	Nawadir Mucjizat	52208	FALSE
+0400IbnJarirTabariSaghir.Mustarshid.Shia001285-ara1	400	5	Ibn Jarir Tabari Saghir	Mustarshid	145565	FALSE
+0400IbnJarirTabariSaghir.DalailImama.Shia001286-ara1	400	5	Ibn Jarir Tabari Saghir	Dalail Imama	143719	FALSE
+0400IbnJarirTabariSaghir.NawadirMucjizat.Shia001287-ara1	400	5	Ibn Jarir Tabari Saghir	Nawadir Mucjizat	52208	FALSE
 0401IbnSaburZayyat.TibbAimma.Shia001288-ara1	401	5	Ibn Sabur Zayyat	Tibb Aimma	35826	FALSE
 0401IbnAyyashJawhari.MuqtadabAthar.Shia001289-ara1	401	5	Ibn Ayyash Jawhari	Muqtadab Athar	17867	FALSE
 0412IbnAhmadQummi.MiatManqaba.Shia001290-ara1	412	5	Ibn Ahmad Qummi	Miat Manqaba	48412	FALSE
@@ -5530,7 +5530,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0449AbuFathKarajiki.MacdinJawahir.Shia001333-ara1	449	5	Abu Fath Karajiki	Macdin Jawahir	14729	FALSE
 0460ShaykhTusi.Amali.Shia001334-ara1	460	5	Shaykh Tusi :: al-Šayḫ al-Ṭūsī ::  Abū Ǧaʿfar Muḥammad b. al-Ḥasan b. ʿAlī al-Ṭūsī	Amali	208525	FALSE
 0460ShaykhTusi.Ghayba.Shia001335-ara1	460	5	Shaykh Tusi :: al-Šayḫ al-Ṭūsī ::  Abū Ǧaʿfar Muḥammad b. al-Ḥasan b. ʿAlī al-Ṭūsī	Ghayba	137374	FALSE
-0500HusaynIbnCabdWahhab.CuyunMucjizat.Shia001336-ara1	500	5	Husayn Ibn Cabd Wahhab	Cuyun Mucjizat	31525	FALSE
+0500HusaynIbnCabdWahhab.CuyunMucjizat.Shia001336-ara1	500	6	Husayn Ibn Cabd Wahhab	Cuyun Mucjizat	31525	FALSE
 0548IbnHasanTabarsi.Ihtijaj.Shia001337Vols-ara1	548	6	Ibn Hasan Tabarsi	Ihtijaj	214231	FALSE
 0548IbnHasanTabarsi.TajMawalid.Shia001339-ara1	548	6	Ibn Hasan Tabarsi	Taj Mawalid	8355	FALSE
 0548IbnHasanTabarsi.MakarimAkhlaq.Shia001340-ara1	548	6	Ibn Hasan Tabarsi	Makarim Akhlaq	135191	FALSE
@@ -5542,9 +5542,9 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0575IbnBabawayh.Arbacuna.Shia001348-ara1	575	6	Ibn Babawayh	Arbacuna	24407	FALSE
 0588IbnShahrAshub.ManaqibAlAbiTalib.Shia001349Vols-ara1	588	6	Ibn Shahr Ashub	Manaqib Al Abi Talib	422940	FALSE
 0598IbnIdrisHilli.MustatrafatSarair.Shia001352-ara1	598	6	Ibn Idris Hilli	Mustatrafat Sarair	29815	FALSE
-0600IbnHasanIbnBitriq.Cumda.Shia001353-ara1	600	6	Ibn Hasan Ibn Bitriq	Cumda	138236	FALSE
-0600IbnMuhammadLaythiWasiti.CuyunHikam.Shia001355-ara1	600	6	Ibn Muhammad Laythi Wasiti	Cuyun Hikam	86795	FALSE
-0600IbnJacfarMashhadi.FadlKufa.Shia001356-ara1	600	6	Ibn Jacfar Mashhadi	Fadl Kufa	16317	FALSE
+0600IbnHasanIbnBitriq.Cumda.Shia001353-ara1	600	7	Ibn Hasan Ibn Bitriq	Cumda	138236	FALSE
+0600IbnMuhammadLaythiWasiti.CuyunHikam.Shia001355-ara1	600	7	Ibn Muhammad Laythi Wasiti	Cuyun Hikam	86795	FALSE
+0600IbnJacfarMashhadi.FadlKufa.Shia001356-ara1	600	7	Ibn Jacfar Mashhadi	Fadl Kufa	16317	FALSE
 0610MuhammadIbnMashhadi.Mazar.Shia001357-ara1	610	7	Muhammad Ibn Mashhadi	Mazar	115389	FALSE
 0645IbnNimaHilli.DhawabNudar.Shia001358-ara1	645	7	Ibn Nima Hilli	Dhawab Nudar	28195	FALSE
 0645IbnNimaHilli.MuthirAhzan.Shia001359-ara1	645	7	Ibn Nima Hilli	Muthir Ahzan	21227	FALSE
@@ -5567,12 +5567,12 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0677JamalDinAhmadAlTawus.CaynCibra.Shia001378-ara1	677	7	Jamal Din Ahmad Al Tawus	Cayn Cibra	19055	FALSE
 0699IbnMaythamBahrani.SharhMiatKalima.Shia001379-ara1	699	7	Ibn Maytham Bahrani	Sharh Miat Kalima	73998	FALSE
 0693CabdKarimIbnTawus.FarhatGhari.Shia001380-ara1	693	7	Cabd Karim Ibn Tawus	Farhat Ghari	40214	FALSE
-0700MuhammadIbnHasanQummi.CiqdNadid.Shia001382-ara1	700	7	Muhammad Ibn Hasan Qummi	Ciqd Nadid	52954	FALSE
-0700AbuFadlCaliTabarsi.MishkatAnwar.Shia001383-ara1	700	7	Abu Fadl Cali Tabarsi	Mishkat Anwar	118491	FALSE
+0700MuhammadIbnHasanQummi.CiqdNadid.Shia001382-ara1	700	8	Muhammad Ibn Hasan Qummi	Ciqd Nadid	52954	FALSE
+0700AbuFadlCaliTabarsi.MishkatAnwar.Shia001383-ara1	700	8	Abu Fadl Cali Tabarsi	Mishkat Anwar	118491	FALSE
 0726CallamaHilli.MustajadMinIrshad.Shia001384-ara1	726	8	Callama Hilli	Mustajad Min Irshad	32411	FALSE
 0786ShahidAwwal.Arbacuna.Shia001385-ara1	786	8	Shahid Awwal	Arbacuna	22213	FALSE
 0786ShahidAwwal.Mazar.Shia001386-ara1	786	8	Shahid Awwal	Mazar	32129	FALSE
-0800IbnSulaymanCizzDinHilli.Mukhtasar.Shia001387-ara1	800	8	Ibn Sulayman Cizz Din Hilli	Mukhtasar	83004	FALSE
+0800IbnSulaymanCizzDinHilli.Mukhtasar.Shia001387-ara1	800	9	Ibn Sulayman Cizz Din Hilli	Mukhtasar	83004	FALSE
 0828IbnCinaba.CumdatTalib.Shia001388-ara1	828	9	Ibn Cinaba	Cumdat Talib	106163	FALSE
 0830IbnSulaymanHilli.MukhtasarBasair.Shia001389-ara1	830	9	Ibn Sulayman Hilli	Mukhtasar Basair	77244	FALSE
 0841JamalDinIbnFahdHilli.Tahsin.Shia001390-ara1	841	9	Jamal Din Ibn Fahd Hilli	Tahsin	4997	FALSE
@@ -5602,7 +5602,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 1120CaliKhanMadani.RiyadSalihin.Shia001544Vols-ara1	1120	12	Cali Khan Madani	Riyad Salihin	721734	FALSE
 1121Mahuzi.Arbacuna.Shia001551-ara1	1121	12	Mahuzi	Arbacuna	124262	FALSE
 1130CabdAllahBahrani.Cawalim.Shia001552-ara1	1130	12	Cabd Allah Bahrani	Cawalim	199734	FALSE
-1200HaydarCaliIbnMuhammadShirwani.ManaqibAhlBayt.Shia001553-ara1	1200	12	Haydar Cali Ibn Muhammad Shirwani	Manaqib Ahl Bayt	97509	FALSE
+1200HaydarCaliIbnMuhammadShirwani.ManaqibAhlBayt.Shia001553-ara1	1200	13	Haydar Cali Ibn Muhammad Shirwani	Manaqib Ahl Bayt	97509	FALSE
 1220CabdAllahShubbar.AnwarLamica.Shia001554-ara1	1220	13	Cabd Allah Shubbar	Anwar Lamica	5882	FALSE
 1306HamidHusaynLakhnawi.KhulasatCabaqatAnwar.Shia001555Vols-ara1	1306	14	Hamid Husayn Lakhnawi	Khulasat Cabaqat Anwar	416543	FALSE
 1339ShaykhSharicaIsbahani.QawlSurah.Shia001561-ara1	1339	14	Shaykh Sharica Isbahani	Qawl Surah	59368	FALSE
@@ -5623,7 +5623,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0161SufyanThawri.Faraid.Shia001879-ara1	161	2	Sufyan Thawri	Faraid	3575	FALSE
 0181IbnMubarak.Jihad.Shia001880-ara1	181	2	Ibn Mubarak	Jihad	27053	FALSE
 0181IbnMubarak.Musnad.Shia001881-ara1	181	2	Ibn Mubarak	Musnad	38400	FALSE
-0200SayfIbnCumar.Fitna.Shia001884-ara1	200	2	Sayf Ibn Cumar	Fitna	35184	FALSE
+0200SayfIbnCumar.Fitna.Shia001884-ara1	200	3	Sayf Ibn Cumar	Fitna	35184	FALSE
 0209AbuCaliAshyabBaghdadi.JuzAshyab.Shia001886-ara1	209	3	Abu Cali Ashyab Baghdadi	Juz Ashyab	4704	FALSE
 0220AbuJacfarIskafi.MicyarWaMuwazana.Shia001900-ara1	220	3	Abu Jacfar Iskafi	Micyar Wa Muwazana	78549	FALSE
 0230CaliIbnJacd.Musnad.Shia001901-ara1	230	3	Cali Ibn Jacd	Musnad	121956	FALSE
@@ -5669,7 +5669,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0385IbnShahin.NasikhHadithWaMansukhuh.Shia002088-ara1	385	4	Ibn Shahin	Nasikh Hadith Wa Mansukhuh	64817	FALSE
 0388AbuSulaymanKhattabi.IslahGhalatMuhaddithin.Shia002089-ara1	388	4	Abu Sulayman Khattabi	Islah Ghalat Muhaddithin	8256	FALSE
 0395IbnMandahMuhammad.MusnadIbnAdham.Shia002091-ara1	395	4	Ibn Mandah Muhammad	Musnad Ibn Adham	5368	FALSE
-0400IbnCamashliqJacfari.JuzIbnCamashliq.Shia002092-ara1	400	4	Ibn Camashliq Jacfari	Juz Ibn Camashliq	3790	FALSE
+0400IbnCamashliqJacfari.JuzIbnCamashliq.Shia002092-ara1	400	5	Ibn Camashliq Jacfari	Juz Ibn Camashliq	3790	FALSE
 0414AbuSacidNaqqash.FawaidCiraqiyyin.Shia002094-ara1	414	5	Abu Sacid Naqqash	Fawaid Ciraqiyyin	7720	FALSE
 0414AbuQasimRazi.MusnadMuqallin.Shia002095-ara1	414	5	Abu Qasim Razi	Musnad Muqallin	2159	FALSE
 0430AbuNucaymIsbahani.Amali.Shia002096-ara1	430	5	Abu Nucaym Isbahani :: ʾAbū Nuʿaym al-Iṣbahānī ::  ʾAbū Nuʿaym ʾAḥmad b. ʿAbd Āllāh b. Isḥāq b. Mūs/a b. Mihrān al-^Sāfiʿī, al-Iṣbahānī	Amali	3877	FALSE
@@ -5684,7 +5684,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0463KhatibBaghdadi.HadithSittaMinTabicin.Shia002161-ara1	463	5	Khatib Baghdadi :: al-Ḫaṭīb al-Baġdādī ::  Abū Bakr Aḥmad b. ʿAlī b. Ṯābit b. Aḥmad b. Mahdī al-Šāfiʿī, al-Baġdādī	Hadith Sitta Min Tabicin	6460	FALSE
 0463KhatibBaghdadi.NasihatAhlHadith.Shia002162-ara1	463	5	Khatib Baghdadi :: al-Ḫaṭīb al-Baġdādī ::  Abū Bakr Aḥmad b. ʿAlī b. Ṯābit b. Aḥmad b. Mahdī al-Šāfiʿī, al-Baġdādī	Nasihat Ahl Hadith	3892	FALSE
 0475IbnMandahCabdWahhabIsbahani.Fawaid.Shia002163-ara1	475	5	Ibn Mandah Cabd Wahhab Isbahani	Fawaid	5288	FALSE
-0500IbnMuhammadHulwani.NuzhatNazir.Shia002165-ara1	500	5	Ibn Muhammad Hulwani	Nuzhat Nazir	40721	FALSE
+0500IbnMuhammadHulwani.NuzhatNazir.Shia002165-ara1	500	6	Ibn Muhammad Hulwani	Nuzhat Nazir	40721	FALSE
 0538JarAllahZamakhshari.FaiqFiGharib.Shia002170Vols-ara1	538	6	Jar Allah Zamakhshari	Faiq Fi Gharib	296470	FALSE
 0562Samcani.AdabImla.Shia002173-ara1	562	6	Samcani	Adab Imla	46023	FALSE
 0571IbnCasakir.ArbacunaBuldaniyya.Shia002174-ara1	571	6	Ibn Casakir :: Ibn ʿAsākir ::  Abū al-Qāsim ʿAlī b. al-Ḥasan b. Hibaŧ Allāh b. ʿAbd Allāh al-Šāfiʿī	Arbacuna Buldaniyya	18748	FALSE
@@ -5694,7 +5694,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0597IbnJawzi.DafcShubahTashbih.Shia002178-ara1	597	6	Ibn Jawzi	Dafc Shubah Tashbih	63353	FALSE
 0598IbnIbrahimIbnHajjQunawi.HazzGhalasim.Shia002179-ara1	598	6	Ibn Ibrahim Ibn Hajj Qunawi	Hazz Ghalasim	21816	FALSE
 0571IbnCasakir.TacziyatMuslim.Shia002180-ara1	571	6	Ibn Casakir :: Ibn ʿAsākir ::  Abū al-Qāsim ʿAlī b. al-Ḥasan b. Hibaŧ Allāh b. ʿAbd Allāh al-Šāfiʿī	Tacziyat Muslim	10100	FALSE
-0600CabdGhaniMuqaddasi.JuzAhadithShicr.Shia002181-ara1	600	6	Cabd Ghani Muqaddasi	Juz Ahadith Shicr	11495	FALSE
+0600CabdGhaniMuqaddasi.JuzAhadithShicr.Shia002181-ara1	600	7	Cabd Ghani Muqaddasi	Juz Ahadith Shicr	11495	FALSE
 0618IbnCabdRahmanMuqriWasiti.ArbacinaFiJihad.Shia002182-ara1	618	7	Ibn Cabd Rahman Muqri Wasiti	Arbacina Fi Jihad	12910	FALSE
 0620IbnQudamaMaqdisi.Tawwabin.Shia002183-ara1	620	7	Ibn Qudama Maqdisi	Tawwabin	50514	FALSE
 0656IbnAbiHadid.SharhNahjBalagha.Shia002185Vols-ara1	656	7	Ibn Abi Hadid	Sharh Nahj Balagha	1385318	TRUE
@@ -5730,7 +5730,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0548IbnHasanTabarsi.TafsirJawamicJamic.Shia002356Vols-ara1	548	6	Ibn Hasan Tabarsi	Tafsir Jawamic Jamic	569819	FALSE
 0548IbnHasanTabarsi.TafsirMajmacBayan.Shia002359Vols-ara1	548	6	Ibn Hasan Tabarsi	Tafsir Majmac Bayan	1431572	TRUE
 0573IbnHibatAllahQutbDinRawandi.FiqhQuran.Shia002369Vols-ara1	573	6	Ibn Hibat Allah Qutb Din Rawandi	Fiqh Quran	195817	FALSE
-0600IbnHasanIbnBitriq.KhasaisWahy.Shia002371-ara1	600	6	Ibn Hasan Ibn Bitriq	Khasais Wahy	52784	FALSE
+0600IbnHasanIbnBitriq.KhasaisWahy.Shia002371-ara1	600	7	Ibn Hasan Ibn Bitriq	Khasais Wahy	52784	FALSE
 0616MuhibbDinCukbari.Imla.Shia002372Vols-ara1	616	7	Muhibb Din Cukbari	Imla	186837	FALSE
 0683IbnMunayyir.Insaf.Shia002374Vols-ara1	683	7	Ibn Munayyir	Insaf	149118	FALSE
 1016MuhibbDinHamawi.TanzilAyat.Shia002378-ara1	1016	11	Muhibb Din Hamawi	Tanzil Ayat	104872	FALSE
@@ -5740,7 +5740,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 1112IbnJumcaHuwayzi.TafsirNurThaqalayn.Shia002389Vols-ara1	1112	12	Ibn Jumca Huwayzi	Tafsir Nur Thaqalayn	1051070	TRUE
 1125MirzaMuhammadMashhadi.TafsirKanzDaqaiq.Shia002394Vols-ara1	1125	12	Mirza Muhammad Mashhadi	Tafsir Kanz Daqaiq	379230	FALSE
 1209MuhammadMahdiNaraqi.JamicJawamicCulum.Shia002396-ara1	1209	13	Muhammad Mahdi Naraqi	Jamic Jawamic Culum	32984	FALSE
-1300MullaHadiSabzawari.SharhAsmaHusna.Shia002397Vols-ara1	1300	13	Mulla Hadi Sabzawari	Sharh Asma Husna	149278	FALSE
+1300MullaHadiSabzawari.SharhAsmaHusna.Shia002397Vols-ara1	1300	14	Mulla Hadi Sabzawari	Sharh Asma Husna	149278	FALSE
 1412SayyidTabatabai.TafsirMizan.Shia002406Vols-ara1	1412	15	Sayyid Tabatabai	Tafsir Mizan	2365871	TRUE
 0104MujahidIbnJabr.Tafsir.Shia002456Vols-ara1	104	2	Mujahid Ibn Jabr	Tafsir	84782	FALSE
 0117IbnDicamaSadusi.NasikhWaMansukh.Shia002458-ara1	117	2	Ibn Dicama Sadusi	Nasikh Wa Mansukh	9002	FALSE
@@ -5788,7 +5788,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0460ShaykhTusi.IkhtiyarMacrifatRijal.Shia002932Vols-ara1	460	5	Shaykh Tusi :: al-Šayḫ al-Ṭūsī ::  Abū Ǧaʿfar Muḥammad b. al-Ḥasan b. ʿAlī al-Ṭūsī	Ikhtiyar Macrifat Rijal	216362	FALSE
 0460ShaykhTusi.Fihrist.Shia002934-ara1	460	5	Shaykh Tusi :: al-Šayḫ al-Ṭūsī ::  Abū Ǧaʿfar Muḥammad b. al-Ḥasan b. ʿAlī al-Ṭūsī	al-Fihrist	65639	FALSE
 0460ShaykhTusi.Rijal.Shia002935-ara1	460	5	Shaykh Tusi :: al-Šayḫ al-Ṭūsī ::  Abū Ǧaʿfar Muḥammad b. al-Ḥasan b. ʿAlī al-Ṭūsī	Rijal	69968	FALSE
-0500IbnHusaynGhadairiWasiti.Rijal.Shia002936-ara1	500	5	Ibn Husayn Ghadairi Wasiti	Rijal	30935	FALSE
+0500IbnHusaynGhadairiWasiti.Rijal.Shia002936-ara1	500	6	Ibn Husayn Ghadairi Wasiti	Rijal	30935	FALSE
 0575IbnBabawayh.Fihrist.Shia002937-ara1	575	6	Ibn Babawayh	Fihrist	90506	FALSE
 0588IbnShahrAshub.MacalimCulama.Shia002938-ara1	588	6	Ibn Shahr Ashub	Macalim Culama	21796	FALSE
 0726CallamaHilli.IdahIshtibah.Shia002939-ara1	726	8	Callama Hilli	Idah Ishtibah	91039	FALSE
@@ -5798,13 +5798,13 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0966ShahidThani.RicayaFiCilmDiraya.Shia002943-ara1	966	10	Shahid Thani	Ricaya Fi Cilm Diraya	104561	FALSE
 1011SahibMacalim.TahrirTawusi.Shia002944-ara1	1011	11	Sahib Macalim	Tahrir Tawusi	143622	FALSE
 1011IbnShahidThani.MuntaqaJuman.Shia002945Vols-ara1	1011	11	Ibn Shahid Thani	Muntaqa Juman	427425	FALSE
-1100MustafaTafrishi.NaqdRijal.Shia002948Vols-ara1	1100	11	Mustafa Tafrishi	Naqd Rijal	415345	FALSE
+1100MustafaTafrishi.NaqdRijal.Shia002948Vols-ara1	1100	12	Mustafa Tafrishi	Naqd Rijal	415345	FALSE
 1101MuhammadCaliArdabili.JamicRuwat.Shia002953Vols-ara1	1101	12	Muhammad Cali Ardabili	Jamic Ruwat	612497	FALSE
 1104IbnHasanHurrCamili.AmalAmil.Shia002955Vols-ara1	1104	12	Ibn Hasan Hurr Camili	Amal Amil	104256	FALSE
 1111Majlisi.IjazatHadith.Shia002957-ara1	1111	12	Majlisi	Ijazat Hadith	33124	FALSE
 1120CaliKhanMadani.DarajatRafica.Shia002958-ara1	1120	12	Cali Khan Madani	Darajat Rafica	173634	FALSE
 1175MuhammadKarabisi.IklilManhaj.Shia002959-ara1	1175	12	Muhammad Karabisi	Iklil Manhaj	184859	FALSE
-1200CabdNabiQazwini.TatmimAmalAmil.Shia002960-ara1	1200	12	Cabd Nabi Qazwini	Tatmim Amal Amil	27328	FALSE
+1200CabdNabiQazwini.TatmimAmalAmil.Shia002960-ara1	1200	13	Cabd Nabi Qazwini	Tatmim Amal Amil	27328	FALSE
 1212WahidBihbahani.FawaidRijaliyya.Shia002961-ara1	1212	13	Wahid Bihbahani	Fawaid Rijaliyya	16543	FALSE
 1205WahidBihbahani.TacliqaCalaManhaj.Shia002962-ara1	1205	13	Wahid Bihbahani	Tacliqa Cala Manhaj	158484	FALSE
 1205WahidBihbahani.FawaidHairiyya.Shia002963-ara1	1205	13	Wahid Bihbahani	Fawaid Hairiyya	78781	FALSE
@@ -5853,7 +5853,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 1450MuhammadHadiAmini.MucjamMatbucatNajafiyya.Shia003421-ara1	1450	15	Muhammad Hadi Amini	Mucjam Matbucat Najafiyya	36731	FALSE
 1450MajmacFikrIslami.MawsucatMuallifiImamiya.Shia003422Vols-ara1	1450	15	Majmac Fikr Islami	Mawsucat Muallifi Imamiya	194838	FALSE
 0410IbnMardawayh.ManaqibCali.Shia003429-ara1	410	5	Ibn Mardawayh	Manaqib Cali	98381	FALSE
-0700IbnAbiBakrAnsariBurri.JawharaFiNasab.Shia003444-ara1	700	7	Ibn Abi Bakr Ansari Burri	Jawhara Fi Nasab	25094	FALSE
+0700IbnAbiBakrAnsariBurri.JawharaFiNasab.Shia003444-ara1	700	8	Ibn Abi Bakr Ansari Burri	Jawhara Fi Nasab	25094	FALSE
 0459CaliIbnAbiGhanaimCumariNassaba.Majdi.Shia003445-ara1	459	5	Cali Ibn Abi Ghanaim Cumari Nassaba	Majdi	134821	FALSE
 0245MuhammadIbnHabib.MunammaqFiAkhbarQuraysh.Shia003458-ara1	245	3	Muhammad Ibn Habib :: muḥammad  b. ḥabīb al-baġdādī ::  abū ǧaʿfar muḥammad b. ḥabīb al-baġdādī	Munammaq Fi Akhbar Quraysh	119140	FALSE
 0255Jahiz.Cuthmaniyya.Shia003459BK1-ara1	255	3	Jahiz :: al-ǧāḥiẓ ::  abū ʿuthmān ʿamrů b. baḥr al-fuqāmī al-baṣrī	Cuthmaniyya	51543	FALSE
@@ -5893,7 +5893,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0664IbnTawus.LuhufFiQatlaTufuf.Shia003705-ara1	664	7	Ibn Tawus	Luhuf Fi Qatla Tufuf	36039	FALSE
 0664IbnTawus.FalahSail.Shia003706-ara1	664	7	Ibn Tawus	Falah Sail	71508	FALSE
 0693IbnAbiFathIrbili.KashfGhumma.Shia003707Vols-ara1	693	7	Ibn Abi Fath Irbili	Kashf Ghumma	307699	FALSE
-0700IbnYusufIbnJabar.NahjIman.Shia003710-ara1	700	7	Ibn Yusuf Ibn Jabar	Nahj Iman	121789	FALSE
+0700IbnYusufIbnJabar.NahjIman.Shia003710-ara1	700	8	Ibn Yusuf Ibn Jabar	Nahj Iman	121789	FALSE
 0705IbnYusufHilli.CudadQawiyya.Shia003711-ara1	705	8	Ibn Yusuf Hilli	Cudad Qawiyya	83288	FALSE
 0726CallamaHilli.KashfYaqin.Shia003712-ara1	726	8	Callama Hilli	Kashf Yaqin	67008	FALSE
 0734IbnSayyidNas.CuyunAthar.Shia003714Vols-ara1	734	8	Ibn Sayyid Nas	Cuyun Athar	220226	FALSE
@@ -5947,18 +5947,18 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0676IbnHasanMuhaqqiqHilli.MaslakFiUsuslDin.Shia004008-ara1	676	7	Ibn Hasan Muhaqqiq Hilli	Maslak Fi Ususl Din	58330	FALSE
 0699IbnMaythamBahrani.NajatFiQiyama.Shia004009-ara1	699	7	Ibn Maytham Bahrani	Najat Fi Qiyama	40417	FALSE
 0699IbnMaythamBahrani.QawacidMaram.Shia004010-ara1	699	7	Ibn Maytham Bahrani	Qawacid Maram	35402	FALSE
-0700MuhammadIbnSacidRawandi.CujalatMacrifa.Shia004011-ara1	700	7	Muhammad Ibn Sacid Rawandi	Cujalat Macrifa	5504	FALSE
-0700MuhammadIbnMuhammadSabzawari.MacarijYaqin.Shia004012-ara1	700	7	Muhammad Ibn Muhammad Sabzawari	Macarij Yaqin	94618	FALSE
+0700MuhammadIbnSacidRawandi.CujalatMacrifa.Shia004011-ara1	700	8	Muhammad Ibn Sacid Rawandi	Cujalat Macrifa	5504	FALSE
+0700MuhammadIbnMuhammadSabzawari.MacarijYaqin.Shia004012-ara1	700	8	Muhammad Ibn Muhammad Sabzawari	Macarij Yaqin	94618	FALSE
 0726CallamaHilli.NaficYawmHashr.Shia004013-ara1	726	8	Callama Hilli	Nafic Yawm Hashr	27989	FALSE
 1450Milani.SharhMinhajKaramaLiHilli.Shia004014Vols-ara1	1450	15	Milani	Sharh Minhaj Karama Li Hilli	90566	FALSE
 0726CallamaHilli.KitabAlfayn.Shia004015-ara1	726	8	Callama Hilli	Kitab Alfayn	123743	FALSE
 0726CallamaHilli.KashfMurad.Shia004016-ara1	726	8	Callama Hilli	Kashf Murad	154598	FALSE
 0726CallamaHilli.MinhajKarama.Shia004019-ara1	726	8	Callama Hilli	Minhaj Karama	49107	FALSE
 0726CallamaHilli.NahjHaqq.Shia004020-ara1	726	8	Callama Hilli	Nahj Haqq	148812	FALSE
-0800IbnAbiHasanDaylami.AclamDin.Shia004021-ara1	800	8	Ibn Abi Hasan Daylami	Aclam Din	124032	FALSE
+0800IbnAbiHasanDaylami.AclamDin.Shia004021-ara1	800	9	Ibn Abi Hasan Daylami	Aclam Din	124032	FALSE
 0803BahaDinNajafi.MuntakhabAnwar.Shia004022-ara1	803	9	Baha Din Najafi	Muntakhab Anwar	95989	FALSE
 0813RajabIbnMuhammadBursi.MashariqAnwar.Shia004023-ara1	813	9	Rajab Ibn Muhammad Bursi	Mashariq Anwar	99927	FALSE
-0900MuflihIbnRashid.IlzamNawasib.Shia004024-ara1	900	9	Muflih Ibn Rashid	Ilzam Nawasib	47089	FALSE
+0900MuflihIbnRashid.IlzamNawasib.Shia004024-ara1	900	10	Muflih Ibn Rashid	Ilzam Nawasib	47089	FALSE
 0966ShahidThani.HaqaiqIman.Shia004025-ara1	966	10	Shahid Thani	Haqaiq Iman	52850	FALSE
 1019NurAllahTustari.IhqaqHaqq.Shia004026-ara1	1019	11	Nur Allah Tustari	Ihqaq Haqq	302834	FALSE
 1031BahaDinCamili.HadiqaHilaliyya.Shia004027-ara1	1031	11	Baha Din Camili	Hadiqa Hilaliyya	40906	FALSE
@@ -5968,7 +5968,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 1107HashimBahrani.KashfMihimm.Shia004037-ara1	1107	12	Hashim Bahrani	Kashf Mihimm	49048	FALSE
 1124IbnCabdFattahTunukabuni.SafinatNajat.Shia004038-ara1	1124	12	Ibn Cabd Fattah Tunukabuni	Safinat Najat	104505	FALSE
 1173IbnHusaynKhwajuiMazandarani.JamicShatat.Shia004039-ara1	1173	12	Ibn Husayn Khwajui Mazandarani	Jamic Shatat	67131	FALSE
-1200ShaykhCabdHusayn.AqtabDawair.Shia004040-ara1	1200	12	Shaykh Cabd Husayn	Aqtab Dawair	12504	FALSE
+1200ShaykhCabdHusayn.AqtabDawair.Shia004040-ara1	1200	13	Shaykh Cabd Husayn	Aqtab Dawair	12504	FALSE
 1209MuhammadMahdiNaraqi.JamicSacadat.Shia004042Vols-ara1	1209	13	Muhammad Mahdi Naraqi	Jamic Sacadat	271400	FALSE
 1211KazimUzri.DiwanUzri.Shia004045-ara1	1211	13	Kazim Uzri	Diwan Uzri	89904	FALSE
 1228JacfarKashifGhita.ManhajRashad.Shia004046-ara1	1228	13	Jacfar Kashif Ghita	Manhaj Rashad	23099	FALSE
@@ -6010,8 +6010,8 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 1328MuhammadJawadBalaghi.TawhidWaTathlith.Shia004548-ara1	1328	14	Muhammad Jawad Balaghi	Tawhid Wa Tathlith	13358	FALSE
 1328MuhammadJawadBalaghi.RihlaMadrasiyya.Shia004549Vols-ara1	1328	14	Muhammad Jawad Balaghi	Rihla Madrasiyya	131936	FALSE
 1328MuhammadJawadBalaghi.HudaIlaDinMustafa.Shia004552Vols-ara1	1328	14	Muhammad Jawad Balaghi	Huda Ila Din Mustafa	179381	FALSE
-0600QutbdinBayhaqiKaydari.IdahShica.Shia004622-ara1	600	6	Qutbdin Bayhaqi Kaydari	Idah Shica	118332	FALSE
-0600IbnTahirSuri.QadaHuquqMuminin.Shia004623-ara1	600	6	Ibn Tahir Suri	Qada Huquq Muminin	7119	FALSE
+0600QutbdinBayhaqiKaydari.IdahShica.Shia004622-ara1	600	7	Qutbdin Bayhaqi Kaydari	Idah Shica	118332	FALSE
+0600IbnTahirSuri.QadaHuquqMuminin.Shia004623-ara1	600	7	Ibn Tahir Suri	Qada Huquq Muminin	7119	FALSE
 0972IbnCaliKarakiCamili.AtaibKalam.Shia004624-ara1	972	10	Ibn Cali Karaki Camili	Ataib Kalam	6332	FALSE
 1143CabdGhaniNabulusi.TactirAnam.Shia004642Vols-ara1	1143	12	Cabd Ghani Nabulusi	Tactir Anam	254104	FALSE
 1093CabdQadirBaghdadi.KhizanatAdab.Shia004649Vols-ara1	1093	11	Cabd Qadir Baghdadi	Khizanat Adab	975252	FALSE
@@ -6028,7 +6028,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 1050SadrDinShirazi.MabdaWaMacad.Shia004704-ara1	1050	11	Sadr Din Shirazi	Mabda Wa Macad	136150	FALSE
 1050SadrDinShirazi.Mashacir.Shia004705-ara1	1050	11	Sadr Din Shirazi	Mashacir	12899	FALSE
 0406SharifRadi.NahjBalagha.Shia20200618-ara1	406	5	Sharif Radi :: al-Šarīf al-Raḍī ::  Abū al-Ḥasan Muḥammad b. al-Ḥusayn b. Mūsá	Nahǧ al-balāġaŧ	77266	FALSE
-0300Anonymous.RisalataHashimiWaKindi.SyriacStudies00001-ara1	300	3	Anonymous	Risālaŧ ʿAbd Allāh b. Ismāʿīl al-Hāšimī ilá ʿAbd al-¶    Masīḥ b. Isḥāq al-Kindī¶    yadʿūhu bihā ilá al-islām wa-risālaŧ al-Kindī ilá al-Hāšimī yaruddu¶    bihā ʿalayhi¶    wa-yadʿūhu ilá al-naṣrāniyyaŧ :: Risālaŧ al-Kindī	32824	FALSE
+0300Anonymous.RisalataHashimiWaKindi.SyriacStudies00001-ara1	300	4	Anonymous	Risālaŧ ʿAbd Allāh b. Ismāʿīl al-Hāšimī ilá ʿAbd al-¶    Masīḥ b. Isḥāq al-Kindī¶    yadʿūhu bihā ilá al-islām wa-risālaŧ al-Kindī ilá al-Hāšimī yaruddu¶    bihā ʿalayhi¶    wa-yadʿūhu ilá al-naṣrāniyyaŧ :: Risālaŧ al-Kindī	32824	FALSE
 0756IbnYusufSaminHalabi.DurrMasun.Tafsir02079-ara1	756	8	Ibn Yusuf Samin Halabi	Durr Masun	1166053	TRUE
 0360Tabarani.TafsirKabir.Tafsir02091-ara1	360	4	Tabarani	Tafsir Kabir	691178	FALSE
 1241IbnMuhammadKhalwatiSawi.HashiyaCalaTafsirJalalayn.Tafsir02096-ara1	1241	13	Ibn Muhammad Khalwati Sawi	Hashiya Cala Tafsir Jalalayn	700300	FALSE
@@ -6102,7 +6102,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0656HumaydanQasimi.Majmuc.Zaydiyya0000042-ara1	656	7	Humaydan Qasimi	Majmuc	81938	FALSE
 1029QasimIbnMuhammadImam.Irshad.Zaydiyya0000043-ara1	1029	11	Qasim Ibn Muhammad Imam	Irshad	14141	FALSE
 0566MutawakkilAhmad.HaqaiqMacrifa.Zaydiyya0000044-ara1	566	6	Mutawakkil Ahmad	Haqaiq Macrifa	93860	FALSE
-0900ImamHadiCizzDinIbnHasan.CinayaTamma.Zaydiyya0000045-ara1	900	9	Imam Hadi Cizz Din Ibn Hasan	Cinaya Tamma	56155	FALSE
+0900ImamHadiCizzDinIbnHasan.CinayaTamma.Zaydiyya0000045-ara1	900	10	Imam Hadi Cizz Din Ibn Hasan	Cinaya Tamma	56155	FALSE
 1375AhmadIbnHasanQasimi.CilmWasim.Zaydiyya0000046-ara1	1375	14	Ahmad Ibn Hasan Qasimi	Cilm Wasim	53867	FALSE
 0822HadiIbnWazir.NihayatTanwih.Zaydiyya0000047-ara1	822	9	Hadi Ibn Wazir	Nihayat Tanwih	54422	FALSE
 1450Anonymous.BahthFiTahrimMutca.Zaydiyya0000048-ara1	1450	15	Anonymous	Bahth Fi Tahrim Mutca	4157	FALSE
@@ -6139,7 +6139,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0822HadiIbnWazir.HidayatRaghibin.Zaydiyya0000091-ara1	822	9	Hadi Ibn Wazir	Hidayat Raghibin	69776	FALSE
 1450MufarrijAhmadRabaci.SiratAmirayn.Zaydiyya0000092-ara1	1450	15	Mufarrij Ahmad Rabaci	Sirat Amirayn	7107	FALSE
 1077Jurmuzi.NubdhaMushira.Zaydiyya0000093-ara1	1077	11	Jurmuzi	Nubdha Mushira	206966	FALSE
-1100YahyaIbnQasim.BahjatZaman.Zaydiyya0000094-ara1	1100	11	Yahya Ibn Qasim	Bahjat Zaman	219524	FALSE
+1100YahyaIbnQasim.BahjatZaman.Zaydiyya0000094-ara1	1100	12	Yahya Ibn Qasim	Bahjat Zaman	219524	FALSE
 1450WilferdMadelung.ZaydiImamsOfTabaristan.Zaydiyya0000095-ara1	1450	15	Wilferd Madelung	Zaydi Imams Of Tabaristan	4104	FALSE
 1450MuhammadIbnCabdAllahCizzi.QawlMubin.Zaydiyya0000096-ara1	1450	15	Muhammad Ibn Cabd Allah Cizzi	Qawl Mubin	5663	FALSE
 1450CabdSalamCabbasWajih.MasadirFiMaktabatYaman.Zaydiyya0000097-ara1	1450	15	Cabd Salam Cabbas Wajih	Masadir Fi Maktabat Yaman	249973	FALSE
@@ -6186,7 +6186,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 1450MuhammadTijaniSamawi.ThummaIhtadayt.Zaydiyya0000185-ara1	1450	15	Muhammad Tijani Samawi	Thumma Ihtadayt	48794	FALSE
 1409RuhAllahKhumayni.SharhDucaSahar.Zaydiyya0000189-ara1	1409	15	Ruh Allah Khumayni	Sharh Duca Sahar	21239	FALSE
 1450CaliKuraniCamili.CasrZuhur.Zaydiyya0000191-ara1	1450	15	Cali Kurani Camili	Casr Zuhur	83707	FALSE
-1400MuhammadBaqirSadr.FakFiTarikh.Zaydiyya0000194-ara1	1400	14	Muhammad Baqir Sadr	Fak Fi Tarikh	41383	FALSE
+1400MuhammadBaqirSadr.FakFiTarikh.Zaydiyya0000194-ara1	1400	15	Muhammad Baqir Sadr	Fak Fi Tarikh	41383	FALSE
 1371MuhsinAminCamili.AbuHusaynZaydShahid.Zaydiyya0000195-ara1	1371	14	Muhsin Amin Camili	Abu Husayn Zayd Shahid	20607	FALSE
 0368IbnQulawayh.KamilZiyarat.Zaydiyya0000196-ara1	368	4	Ibn Qulawayh	Kamil Ziyarat	102626	FALSE
 0380IbnIbrahimNucmani.Ghayba.Zaydiyya0000198-ara1	380	4	Ibn Ibrahim Nucmani	Ghayba	99983	FALSE
@@ -6235,7 +6235,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 1008DawudAntaki.TadhkiratUliAlbab.Zaydiyya0000262-ara1	1008	11	Dawud Antaki	Tadhkirat Uli Albab	363668	FALSE
 0780IbnHasanQurashi.MinhajMuttaqin.Zaydiyya0000263-ara1	780	8	Ibn Hasan Qurashi	Minhaj Muttaqin	184365	FALSE
 0914SarimDinWaziri.HidayatAfkar.Zaydiyya0000264-ara1	914	10	Sarim Din Waziri	Hidayat Afkar	69504	FALSE
-0900ImamHadiCizzDinIbnHasan.MicrajIlaKashfAsrar.Zaydiyya0000265-ara1	900	9	Imam Hadi Cizz Din Ibn Hasan	Micraj Ila Kashf Asrar	404239	FALSE
+0900ImamHadiCizzDinIbnHasan.MicrajIlaKashfAsrar.Zaydiyya0000265-ara1	900	10	Imam Hadi Cizz Din Ibn Hasan	Micraj Ila Kashf Asrar	404239	FALSE
 1250Shawkani.DarariMudia.Zaydiyya0000266-ara1	1250	13	Shawkani	Darari Mudia	347305	FALSE
 0411MuayyadAhmad.Tajrid.Zaydiyya0000267-ara1	411	5	Muayyad Ahmad	Tajrid	688680	FALSE
 0290IbnMansurMuradi.Dhikr.Zaydiyya0000268-ara1	290	3	Ibn Mansur Muradi	Dhikr	54997	FALSE
@@ -6266,7 +6266,7 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0840MahdiAhmadIbnYahyaHasani.Faraid.Zaydiyya0000337-ara1	840	9	Mahdi Ahmad Ibn Yahya Hasani	Faraid	18052	FALSE
 1029QasimIbnMuhammadImam.HatfAnfAfak.Zaydiyya0000338-ara1	1029	11	Qasim Ibn Muhammad Imam	Hatf Anf Afak	19842	FALSE
 1050IbnMansurBiLlahYamani.AdabCulama.Zaydiyya0000339-ara1	1050	11	Ibn Mansur Bi Llah Yamani	Adab Culama	21880	FALSE
-0400ZaydIbnRifaca.ArbacunHadithan.Zaydiyya0000341-ara1	400	4	Zayd Ibn Rifaca	Arbacun Hadithan	4997	FALSE
+0400ZaydIbnRifaca.ArbacunHadithan.Zaydiyya0000341-ara1	400	5	Zayd Ibn Rifaca	Arbacun Hadithan	4997	FALSE
 0499MurshidYahyaIbnShajari.Amali.Zaydiyya0000342-ara1	499	5	Murshid Yahya Ibn Shajari	Amali	320971	FALSE
 1198AhmadIbnSalahKhatib.AmanMinMasailThaman.Zaydiyya0000343-ara1	1198	12	Ahmad Ibn Salah Khatib	Aman Min Masail Thaman	20623	FALSE
 0647IbnAbiNajmSacdi.Tibyan.Zaydiyya0000344-ara1	647	7	Ibn Abi Najm Sacdi	Tibyan	41346	FALSE
@@ -6308,14 +6308,14 @@ version_uri	date	century	author_lat	title_lat	tok_length	millionaire
 0298HadiIlaHaqqYahya.SharhBalighMudrak.Zaydiyya0000401-ara1	298	3	Hadi Ila Haqq Yahya	Sharh Baligh Mudrak	20464	FALSE
 1450HasanIbnFarhanMaliki.MacaSulaymanCalwan.Zaydiyya0000403-ara1	1450	15	Hasan Ibn Farhan Maliki	Maca Sulayman Calwan	30781	FALSE
 1372AhmadIbnMuhammadRahuni.RafcKhasasa.Zaydiyya0000405-ara1	1372	14	Ahmad Ibn Muhammad Rahuni	Rafc Khasasa	17670	FALSE
-0700YahyaIbnQasimIbnYahya.SiratAbiTayr.Zaydiyya0000406-ara1	700	7	Yahya Ibn Qasim Ibn Yahya	Sirat Abi Tayr	135859	FALSE
+0700YahyaIbnQasimIbnYahya.SiratAbiTayr.Zaydiyya0000406-ara1	700	8	Yahya Ibn Qasim Ibn Yahya	Sirat Abi Tayr	135859	FALSE
 1097CaliIbnSalahIbnCaliTabari.Kafil.Zaydiyya0000407-ara1	1097	11	Cali Ibn Salah Ibn Cali Tabari	Kafil	166707	FALSE
 0246QasimRassi.KitabFihiMasail.Zaydiyya0000408-ara1	246	3	Qasim Rassi	Kitab Fihi Masail	125960	FALSE
 1115IshaqIbnMuhammadCabdi.Ihtiras.Zaydiyya0000413Vols-ara1	1115	12	Ishaq Ibn Muhammad Cabdi	Ihtiras	1284708	TRUE
 1182IbnIsmacilSancani.IrshadDhawiAlbab.Zaydiyya0000453-ara1	1182	12	Ibn Ismacil Sancani	Irshad Dhawi Albab	27463	FALSE
 1450MuhammadSadiqNajmi.AdwaCalaSahihayn.Zaydiyya0000454-ara1	1450	15	Muhammad Sadiq Najmi	Adwa Cala Sahihayn	98181	FALSE
 0304HasanUtrush.Ihtisab.Zaydiyya0000455-ara1	304	4	Hasan Utrush	Ihtisab	15670	FALSE
-1400MuhammadBaqirSadr.BankLaribawi.Zaydiyya0000456-ara1	1400	14	Muhammad Baqir Sadr	Bank Laribawi	45322	FALSE
+1400MuhammadBaqirSadr.BankLaribawi.Zaydiyya0000456-ara1	1400	15	Muhammad Baqir Sadr	Bank Laribawi	45322	FALSE
 0411MuayyadAhmad.Tabsira.Zaydiyya0000457-ara1	411	5	Muayyad Ahmad	Tabsira	21113	FALSE
 1450CaliCabdKarimFadil.ZaydiyyaTaifaWaMadhhab.Zaydiyya0000458-ara1	1450	15	Cali Cabd Karim Fadil	Zaydiyya Taifa Wa Madhhab	2639	FALSE
 1450CabdAllahHamidDin.Zaydiyya.Zaydiyya0000459-ara1	1450	15	Cabd Allah Hamid Din	Zaydiyya	31840	FALSE

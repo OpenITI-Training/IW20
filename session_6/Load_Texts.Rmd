@@ -1,0 +1,660 @@
+---
+title: "R Tutorial: Loading Text, Word Frequency"
+output: 
+  learnr::tutorial:
+    progressive: true
+    allow_skip: true
+runtime: shiny_prerendered
+---
+
+```{r setup, include=FALSE}
+library(learnr)
+tutorial_options(exercise.timelimit = 60)
+```
+
+## Introduction
+
+This tutorial is based on Jockers\' *Text Analysis with R For Students of Literature*, 
+Chapter 2: "First Foray into Text Analysis with R". 
+
+In this tutorial, we will learn how to load and tokenize a text, and explore
+word frequencies. 
+
+Jockers uses Melville's Moby Dick as his main example. Because English behaves
+differently from Arabic, Persian and Urdu, we will use al-Ṭabari's *History* as our example text. 
+
+This tutorial lets you try out your scripts in an interactive environment. 
+Still, it's a good idea to create an R script file you name
+"loading_frequencies.R" in the Session_6 folder in your IW20 directory, 
+and to write and run the code you learn in this tutorial in that file. 
+
+## Loading a first text file
+
+Jockers uses the `scan()` function to load texts into R, but this does not 
+always work well with texts in non-Latin scripts. 
+
+Instead, we are going to use the `read_lines()` function from the `readr` 
+package, which is part of the `tidyverse` collection of packages. 
+
+This function will load every line in the text file as a separate element in 
+a character vector. 
+
+
+**Questions**: 
+
+1. Which other functions have we used from this package? 
+2. Do you see a pattern in the way how the functions in this package are named?
+3. What other similar functions does the readr package contain? (use tab completion!)
+
+
+
+There are a number of ways to load a text file into R: 
+
+### 1. Loading the text file from a URL
+
+R can load a text directly from a URL on the internet. 
+
+In this example, we are going to use a text from the OpenITI corpus, 
+al-Ṭabari's History, which is located here: 
+https://raw.githubusercontent.com/OpenITI/0325AH/master/data/0310Tabari/0310Tabari.Tarikh/0310Tabari.Tarikh.Shamela0009783BK1-ara1.mARkdown
+
+Write the following three lines of code to load the text from the URL: 
+
+1. First, we load the `readr` package from the library of installed packages: 
+
+```
+library("readr")
+```
+
+2. assign the URL of the text file to a variable: 
+
+```
+text_url <- "https://raw.githubusercontent.com/OpenITI/0325AH/master/data/0310Tabari/0310Tabari.Tarikh/0310Tabari.Tarikh.Shamela0009783BK1-ara1.mARkdown"
+```
+
+3. Load the text using `readr`'s `read_lines()` function and assign it to a variable. 
+As the name of the function suggests, each line of text will be loaded separately. 
+It is a good idea to reflect this fact in the name of the variable (e.g., 
+`text_lines`), so that it will be easy to remember what exactly this variable 
+contains:
+
+```
+text_lines <- read_lines(text_url)
+```
+
+> NB: it is not absolutely necessary to assign the URL to a variable, and pass
+  that variable to the `read_lines()` function; you can also
+  directly pass the URL to the `read_lines()` function: 
+  ```
+  text_lines <- read_lines("https://raw.githubusercontent.com/OpenITI/0325AH/master/data/ 0310Tabari/0310Tabari.Tarikh/0310Tabari.Tarikh.Shamela0009783BK1-ara1.mARkdown")
+  ```
+  Since the URL is so long, your code will be less readable if you do it that way, though.
+
+Finally, print the first 50 lines of text to check if the text was loaded correctly:
+
+```
+text_lines[1:50]
+```
+
+Try it out here, by pressing the `Run` button: 
+
+```{R set_locale}
+# make sure Arabic is displayed correctly: 
+#Sys.setlocale(category = "LC_ALL", locale = "C.UTF-8") # not necessary on shinyapps.io
+```
+
+```{R read_lines, exercise=TRUE, exercise.setup = "set_locale"}
+library("readr")
+
+text_url <- "https://raw.githubusercontent.com/OpenITI/0325AH/master/data/0310Tabari/0310Tabari.Tarikh/0310Tabari.Tarikh.Shamela0009783BK1-ara1.mARkdown"
+
+text_lines <- read_lines(text_url)
+
+text_lines[1:50]
+```
+
+After you have tried it out here, write the code into your R script in R studio, 
+and run it there. Try to resist the urge to copy the code as a whole;
+typing it is part of the learning process (but do feel free to copy the URL!). 
+
+If you don't get readable output, the reason is usually 
+that you made a mistake while copying the code. The code interpreter is very 
+unforgiving: a lower-case letter is not the same as an upper-case letter, 
+opening and closing quotations must be of the same type, and every bracket or 
+parenthesis you open must be closed, for example; otherwise you will get an error.
+In my own experience, typos are responsible for 90 percent of the errors in my code. 
+
+If RStudio prints things like "<U+0645><U+062D><U+0645><U+062F> <U+0628><U+0646> <U+062C><U+0631><U+064A><U+0631> <U+0628>" where it should print Arabic, please contact Peter: we'll have to change some things to the settings of your computer / R.
+
+### 2. loading the text file from your own computer:
+
+If you want to load a text from a file that is stored on your own computer, 
+rather than on the internet, you can use the same approach, but instead of the 
+URL, we will use the path to the file on your local computer. 
+
+Even if the text is available on the internet, it's often a good idea to
+download it first and load it from your local copy: the URL of the text 
+might change, the website that contains it may go offline, etc. 
+
+We will use the `file.choose()` function to open a file dialog pop-up where you can 
+select the file you want to load into R. The function will create the path to
+your file, which you can then assign to a variable (we will call it 'file_path'):
+
+```
+file_path <- file.choose()
+```
+
+Try this out by writing the following lines of code in your R script in RStudio 
+(the file dialog would not work in this online tutorial!):
+
+```
+library("readr")
+
+file_path <- file.choose()
+
+text_lines <- read_lines(file_path)
+
+text_lines[1:50]
+```
+
+## Vectors and indexing 
+In the previous section, we could have printed the entire `text_lines` object in 
+our console in order to check whether the text was loaded correctly, but since 
+this is a very long text, this would be very wasteful of resources 
+(even if we are not printing the text on paper but only on our screen). 
+`text_lines` contains all lines of our text, so instead of printing all lines, we 
+printed only a subset of the variable, representing the first 50 lines of the text.
+
+We used the command `text_lines[1:50]` to do this.
+
+In order to understand what this command does, it is important to know that 
+`text_lines` is a *vector*, the most common data type in R. 
+Vectors can contain one or more items (in the case of `text_lines`, 
+each item is a string of characters that constitute a line in our text), 
+and each item is stored in its own container. Each of these containers 
+gets a number, starting from 1; these numbers are called **index numbers**.
+Each of these containers inside the vector can be accessed by "calling" its index 
+number (e.g., `text_lines[5]` will return the fifth element in the vector). 
+
+The process of selecting a subset of items from a vector in R is called 
+"indexing", and it is a very common operation. 
+
+You use the index number(s) of the desired item(s) between square brackets 
+to indicate which elements you want to select from a vector: 
+
+* **Select only one item**: put a single number between the brackets. For 
+example, the following code will print only the 50th item in the vector.
+
+```{R prep_load_lines}
+# make sure Arabic is displayed correctly: 
+Sys.setlocale(category = "LC_ALL", locale = "C.UTF-8")
+
+if (! (exists("text_lines"))) {
+  library("readr")
+  text_url <- "https://raw.githubusercontent.com/OpenITI/0325AH/master/data/0310Tabari/0310Tabari.Tarikh/0310Tabari.Tarikh.Shamela0009783BK1-ara1.mARkdown"
+  text_lines <- read_lines(text_url)
+}
+```
+
+```{R indexing1, exercise=TRUE, exercise.setup = "prep_load_lines"}
+
+text_lines[50]
+```
+
+
+* **select more than item**: between the brackets, put a 
+  numerical vector that contains the index numbers of each desired item. 
+  you can use the `c()` (for "combine") function to create such a vector. 
+  For example, if we want to print lines 50, 100 and 150 of the text: 
+  
+
+```{R indexing2, exercise=TRUE, exercise.setup = "prep_load_lines"}
+
+text_lines[c(50, 100, 150)]
+```
+
+* **select a sequence of items**: use two numbers, separated by a colon, to 
+  create a vector of sequential numbers; the first number will be the start of 
+  the sequence, and the last number the end of the sequence. 
+  For example, this code will print lines 100 to 105 of the text: 
+  
+
+```{R indexing3, exercise=TRUE, exercise.setup = "prep_load_lines"}
+
+text_lines[100:105]
+```
+
+NB: This is the same thing as running `text_lines[c(100,101,102,103,104,105)]`
+
+
+### Exercises:
+
+1. Print the first line of the text
+
+  NB: many computer languages start indexing at 0 (the first item in a collection
+      of items is item 0); R starts indexing at 1 (the first item in a collection
+      of items is item 1)
+      
+```{R indexing_ex1, exercise=TRUE, exercise.setup = "prep_load_lines"}
+# print the first line of the text: 
+text_lines[]
+```
+
+```{R indexing_ex1-solution}
+text_lines[1]
+```
+      
+2. print the last line of the text:
+ 
+```{R indexing_ex2, exercise=TRUE, exercise.setup = "prep_load_lines"}
+# print the last line of the text: 
+last_line_number <- 
+text_lines[]
+```
+
+<div id="indexing_ex2-hint">
+Use the `length()` function to find out how many items the `text_lines` vector contains!
+</div>
+
+```{R indexing_ex2-solution}
+# print the last line of the text: 
+text_lines[length(text_lines)]
+```
+
+3. print lines number 15 to 20 of the text:
+  
+```{R indexing_ex3, exercise=TRUE, exercise.setup = "prep_load_lines"}
+# print lines number 15 to 20 of the text: 
+text_lines[]
+```
+
+<div id="indexing_ex3-hint">
+Use the `:` operator between the brackets to create a sequence
+</div>
+
+```{R indexing_ex3-solution}
+# print lines number 15 to 20 of the text: 
+text_lines[15:20]
+```
+
+4. print the last 5 lines of the text:
+
+```{R indexing_ex4, exercise=TRUE, exercise.setup = "prep_load_lines"}
+# print the last 5 lines of the text:
+text_lines[]
+```
+
+```{R indexing_ex4-hint}
+# Use the `length()` function to find the index number of the last line, 
+# and use subtraction from that index number to find the index number 
+# of the 5 but last line. 
+# NB: you will have to put the subtraction between parentheses
+# If you click the "Next hint" button, you will get the solution(s).
+```
+
+```{R indexing_ex4-solution}
+# Solution: 
+last_line <- length(text_lines)
+text_lines[(last_line - 4):last_line]  # note the parentheses!
+# OR: 
+last_line <- length(text_lines)
+last_but_5 <- last_line - 4 
+text_lines[last_but_5:last_line]
+```
+
+5. print the first 5 lines and the last 5 lines of the text:
+
+```{R indexing_ex5, exercise=TRUE, exercise.setup = "prep_load_lines"}
+# print the first 5 lines and the last 5 lines of the text:
+text_lines[]
+```
+
+<div id="indexing_ex5-hint">
+Combine the code from exercises 3 and 4! You can use `c()` to combine two vectors.
+</div>
+
+```{R indexing_ex5-solution}
+# print the last 5 lines of the text: 
+last_line <- length(text_lines)
+text_lines[c(1:5, (last_line - 4):last_line)]
+```
+
+
+## Separate the content from the metadata: 
+(Jockers p. 19-22)
+
+
+Digital texts often contain metadata appended at the start and/or end of the text:
+this metadata usually gives information about who created the digital text,
+what physical object it was based on, the date it was created, etc. 
+
+The example text is a digitized edition of al-Ṭabari's Tārīkh, from the OpenITI
+corpus, a corpus of texts in Islamicate languages. In addition to the text
+written by al-Ṭabari himself, the text file also contains some metadata
+(in a metadata header at the start of the file). 
+If you want to analyse a tenth-century author's work, it is of course very important 
+that the metadata added by a 21st-century editor is not taken into account. 
+
+We will therefore split off the metadata header from the body of al-Ṭabari's
+text. Helpfully, the metadata header in all OpenITI texts ends with a line
+that indicates the end of the metadata header, and the start of the text body: "#META#Header#End#". We will use this "metadata splitter" to split the header and the
+body of the text. 
+
+First, we will use the `which()` function to find the index number of the
+metadata splitter in the `text_lines` vector.
+This function is used to check which item(s) in a vector match a certain condition; it identifies those items by returning their index numbers.
+
+For example: 
+
+
+```{R splitting0, exercise=TRUE}
+test <- c(1,5,3,8, 9)
+which(test > 3)
+```
+
+The output shows us that the second, fourth and fifth item in the `test` vector
+fulfill the condition (that is, they are greater than 3). Let's use this same
+approach to find the index number of the line that marks the end of the 
+metadata header in the `text_lines` vector:
+
+```{R splitting1, exercise=TRUE, exercise.setup = "prep_load_lines"}
+splitter_index <- which(text_lines == "#META#Header#End#")
+
+# print the `splitter_index`:
+splitter_index
+```
+
+The `which()` function goes through all items in the entire `text_lines` vector
+and checks for each item if it equals "#META#Header#End#". It returns a vector
+that contains all index numbers of the items that matched (in this case, only 
+one item).
+
+Now we can use indexing with the `splitter_index` number to split the 
+`text_lines` variable into two variables: `header_v` and `body_v`: 
+
+```{R prep_splitter_index, exercise.setup = "prep_load_lines"}
+# make sure Arabic is displayed correctly: 
+if (! (exists("splitter_index"))) {
+  splitter_index <- which(text_lines == "#META#Header#End#")
+}
+```
+
+```{R splitting2, exercise=TRUE, exercise.setup = "prep_splitter_index"}
+header_v <- text_lines[1:splitter_index]
+body_v <- text_lines[(splitter_index+1):length(text_lines)]
+```
+
+We can now check in a number of ways whether the text was split correctly
+
+* print the first and last couple of lines of both new variables. Try it yourself:
+
+
+```{R prep_body_v, exercise.setup = "prep_splitter_index"}
+
+if (! (exists("body_v"))) {
+  header_v <- text_lines[1:splitter_index]
+  body_v <- text_lines[(splitter_index+1):length(text_lines)]
+}
+```
+
+
+```{R splitting3, exercise=TRUE, exercise.setup = "prep_body_v"}
+# print first 5 lines of the header: 
+header_v[]
+# print last 5 lines of the header: 
+
+# print first 5 lines of the text body: 
+
+# print last 5 lines of the text body: 
+```
+
+```{R splitting3-solution}
+# print first 5 lines of the header: 
+header_v[1:5]
+# print last 5 lines of the header: 
+header_v[(length(body_v)-4):length(body_v)]
+# print first 5 lines of the text body: 
+body_v[1:5]
+# print last 5 lines of the text body: 
+body_v[(length(body_v)-4):length(body_v)]
+```
+
+* check whether the sum of the lines in `header_v` and `body_v` equals the
+number of lines in `text_lines`:
+
+
+```{R splitting4, exercise=TRUE, exercise.setup = "prep_body_v"}
+# print the number of lines in the header:
+
+# print the number of lines in the body text: 
+
+# print the number of lines in the original text:
+
+# check whether the sum of the lines in the header and body equals the original number of lines:
+
+```
+
+```{R splitting4-solution}
+# print the number of lines in the header:
+length(header_v)
+# print the number of lines in the body text: 
+length(body_v)
+# print the number of lines in the original text:
+length(text_lines)
+# check whether the sum of the lines in the header and body equals the original number of lines:
+length(header_v) + length(body_v) == length(text_lines)
+```
+
+<div id="splitting4-hint">
+Use the `length()` function to get the number of items (lines) in each vector,
+and `==` to check whether the lengths of the parts equals the length of the original.
+</div>
+
+
+## Tokenization
+(Jockers pp. 21 ff.)
+
+For many operations, we will want to split a text into words rather than lines.
+We will, for example, want to check what the most frequently used words in a text
+are (and compare those to other texts).
+
+> The concept of a word in Arabic (and many other languages) is problematic: 
+  Arabic contains "words" that are attached as a prefix to another word
+  (e.g., "wa-" ("and"), "li-" ("for")); others are attached as a suffix
+  (e.g., "-hu" ("his/him")). Rather than words, we will be dividing the text
+  into **tokens**, which we'll define as sequences of letters that have a space
+  (or other non-letter characters like punctuation) on either side of them.
+
+Jockers uses base R's `strsplit()` function to divide the text into tokens. 
+This does not work well for Arabic; instead, we will use the `str_split`
+function from the tidyverse's `stringr` package.
+
+This function takes as its first argument a character vector that
+contains the original string(s) to be split; it also takes a second argument
+a string that describes on which character(s) the original strings should be split.
+
+For example:
+
+```{R str_split0, exercise=TRUE}
+library("stringr") # load the `stringr` package that contains the str_split function
+example <- c("apples and pears", "bananas and pineapples and peaches")
+str_split(example, " and ")
+```
+
+In the example, we told R to split the two strings in the `example` vector 
+on the word "and", preceded and followed by a space. 
+
+The output takes the form of a list (in R, a list is a vector that contains
+multiple vectors): the first element of the list is a vector that contains
+two elements, "apples" and "pears"; the second element of the list is 
+a vector that contains three elements: "bananas", "pineapples" and "peaches".
+
+Try using this method for the Arabic text in the `body_v` variable, which contains
+all the lines in the body of the text, and assign the output of the
+`str_split()` function to a variable called `tabari_token_l`.
+As a second argument to the function, use a space.
+
+NB: the "_l" at the end of the variable name serves as a reminder to ourselves
+that the output of the `str_split()` function is a **l**ist rather than a vector.
+It is by no means necessary to use this type of suffixes to your variable names,
+but it can sometimes be useful. 
+
+```{R str_split1, exercise=TRUE, exercise.setup = "prep_body_v"}
+library(   )  # load the package that contains the str_split function 
+tabari_token_l <- str_split(   ,    )
+# print the first 6 elements of the list:
+head(   )
+```
+
+```{R str_split1-solution}
+library("stringr")
+tabari_token_l <- str_split(body_v, " ")
+# print the first 6 elements of the list:
+head(tabari_token_l)
+```
+
+Note that the result still contains some elements that we would not include
+if we want to create a list of the words in the texts: it contains characters like
+"#", "~", "." and "،". 
+
+Instead of providing a literal string to split the original string(s) on
+to the `str_split()` function, we can also give it a "regular expression",
+that is, a pattern that describes multiple possible combinations of characters
+we want to split the original string(s) on. 
+
+For example, the regular expression pattern "\\W+" means "one or more characters
+that are not letters" ("\\W" stands for "any character that is not a letter",
+"+" means "one or more"). NB: note that the "W" in this regular expression is a capital letter!
+
+Regular expressions are some of the most powerful tools for dealing with
+textual data in R. We will have some opportunity to go deeper into them later.
+
+Try running the same `str_split` command as above, but now use the
+"\\W+" regular expression as its second argument: 
+
+
+```{R str_split2, exercise=TRUE, exercise.setup = "prep_body_v"}
+# fill in the blanks and ellipses:
+library(    )
+tabari_token_l <- str_split(..., ...)
+# print the first 6 elements of the list:
+head(...)
+```
+
+```{R str_split2-solution}
+library("stringr")
+tabari_token_l <- str_split(body_v, "\\W+")
+# print the first 6 elements of the list:
+head(tabari_token_l)
+```
+
+The variable `tabari_token_l` contains a list of character vectors 
+(one for each line in the text). 
+
+Since we're not interested in the frequency of words on the level of a
+single line, but on the level of the text as a whole, we will turn it into a single vector. We can use the `unlist()` function to do this:
+
+```{R prep_token_l, exercise.setup = "prep_body_v"}
+library("stringr")
+if (! (exists("tabari_token_l"))) {
+  tabari_token_l <- str_split(body_v, "\\W+")
+}
+```
+
+```{R str_split3, exercise=TRUE, exercise.setup = "prep_token_l"}
+# print the length of the tabari_token_l (should be the number of lines in the text):
+length(...)
+# merge all the character vectors in tabari_token_v into a single character vector:
+tabari_token_v <- unlist(...)
+# print the length of the new vector (should be the number of tokens in the text)
+length(...)
+# print the first 50 tokens in the text: 
+tabari_token_v[...]
+```
+
+```{R str_split3-solution}
+# print the length of the tabari_token_l (should be the number of lines in the text):
+length(tabari_token_l)
+# merge all the character vectors in tabari_token_v into a single character vector:
+tabari_token_v <- unlist(tabari_token_l)
+# print the length of the new vector (should be the number of tokens in the text)
+length(tabari_token_v)
+# print the first 50 tokens in the text: 
+tabari_token_v[1:50]
+```
+
+## Word frequency tables
+
+We can now use the `tabari_token_v` vector to build a frequency table of all tokens
+in the text. We use the `table()` function to do this, which counts for every
+item in a vector how many times that item appears in that vector. 
+
+```{R prep_token_v, exercise.setup = "prep_token_l"}
+library("stringr")
+if (! (exists("tabari_token_v"))) {
+  tabari_token_v <- unlist(tabari_token_l)
+}
+```
+
+```{R freq1, exercise=TRUE, exercise.setup = "prep_token_v"}
+freqs <- table(tabari_token_v)
+```
+
+This table can now be used to look up the frequency of any word in the text. 
+
+```{R prep_freqs, exercise.setup = "prep_token_v"}
+library("stringr")
+if (! (exists("freqs"))) {
+  freqs <- table(tabari_token_v)
+}
+```
+
+```{R freq2, exercise=TRUE, exercise.setup = "prep_freqs"}
+# print the frequency of the word "الحمد"
+freqs["الحمد"]
+# print the frequencies of the name Muhammad, the word "kitāb", the preposition "maʿa":
+```
+
+```{R freq2-solution}
+# print the frequency of the word "الحمد"
+freqs["الحمد"]
+# print the frequencies of the name Muhammad, the word "kitāb", the preposition "maʿa":
+freqs["محمد"]
+freqs["كتاب"]
+freqs["مع"]
+```
+
+The `freq` table is sorted alphabetically by default. 
+In order to plot a graph of the frequency of the most
+frequent words in the texts, we will have to sort it from most frequent to least
+frequent. We can do this using the `sort()` function: 
+
+```{R freq3, exercise=TRUE, exercise.setup = "prep_freqs"}
+# sort the `freqs` table in decreasing order:
+sorted_freqs <- sort(freqs, decreasing = TRUE)
+
+# print the first 15 elements of the table (= the 15 most frequent tokens):
+sorted_freqs[...]
+
+# plot the 100 most frequent words in the text:
+plot(...[...])
+
+```
+
+```{R freq3-solution}
+# sort the `freqs` table in decreasing order:
+sorted_freqs <- sort(freqs, decreasing = TRUE)
+
+# print the first 15 elements of the table (= the 15 most frequent tokens):
+sorted_freqs[1:15]
+
+# plot the 100 most frequent words in the text:
+plot(sorted_freqs[1:100])
+
+```
+
+NB: because of the behaviour of right-to-left text in R, 
+the tokens in the output run from right to left and the 
+frequencies from left to right: 12135 is the frequency of the token "mā"...
+
+

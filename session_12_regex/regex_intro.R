@@ -1,3 +1,10 @@
+# REGULAR EXPRESSIONS INTRO
+
+# useful links: 
+# Good introductory regular expressions tutorial: https://regexone.com/ 
+# regex cheat sheet: https://docs.google.com/document/d/1d5HdGNCEr7aPpVWC5N2a48NQrG34LLOwBgj8cHQ0ij8/edit?usp=sharing 
+# virtual keyboard for writing regular expressions with Arabic: https://pverkind.github.io/arabicVirtualKeyboard/
+
 library("readr")    # for loading text
 library("stringr")  # contains many useful search and replace functions
 

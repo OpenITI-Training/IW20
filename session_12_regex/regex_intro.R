@@ -138,4 +138,9 @@ words_in_context = paste0(context,
                           context,
                           word1,
                           context)
-str_extract_all(tabari, words_in_context)
+result <- str_extract_all(tabari, words_in_context)
+
+# writing the results to a file is not simple on Windows
+# because of issues with Arabic. This is a workaround:
+result <- paste(unlist(result), collapse="\n\n") # collapse the list into a single string
+writeBin(charToRaw(result), choose.files(), endian="little")
